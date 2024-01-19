@@ -6,7 +6,7 @@ tags:
 ---
 # _Burrow_
 
-Type: [[Abilities]]
+Type: [[Abilities and States]]
 
 ----
 ==need to figure out input controls==

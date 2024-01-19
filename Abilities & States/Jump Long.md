@@ -6,7 +6,7 @@ tags:
 ---
 # _Jump Long_
 
-Type: [[Abilities]], [[Jumps]]
+Type: [[Abilities and States]], [[Jumps]]
 
 ----
 

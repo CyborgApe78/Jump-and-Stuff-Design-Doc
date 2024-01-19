@@ -5,7 +5,7 @@ tags:
 ---
 # _Dash Down_
 
-Type: [[Abilities]], [[Dashes]]
+Type: [[Abilities and States]], [[Dashes]]
 
 ----
 

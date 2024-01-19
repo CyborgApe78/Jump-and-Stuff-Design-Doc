@@ -5,7 +5,7 @@ tags:
 ---
 # _Grapple Hook_
 
-Type: [[Abilities]]
+Type: [[Abilities and States]]
 
 ----
 

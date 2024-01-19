@@ -2,9 +2,9 @@
 tags:
   - category
 ---
-# Abilities
+# Abilities and States
 
-[[Home]]
+#WIP only database file not working
 
 %% Might change this to states
 

@@ -1,6 +1,5 @@
 ---
-tags:
-  - category
+tags: []
 ---
 # __
 

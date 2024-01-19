@@ -6,7 +6,7 @@ tags:
 ---
 # _Belly Slide_
 
-Type: [[Abilities]], [[Slides]]
+Type: [[Abilities and States]], [[Slides]]
 
 ----
 

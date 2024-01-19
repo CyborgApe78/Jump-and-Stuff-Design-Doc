@@ -5,7 +5,6 @@ tags:
 # _Hazards_
 
 
-
 ```dataview
 table
 from #hazard

@@ -6,7 +6,7 @@ tags:
 ---
 # _Dive_
 
-Type: [[Abilities]], [[Dives]]
+Type: [[Abilities and States]], [[Dives]]
 
 ----
 

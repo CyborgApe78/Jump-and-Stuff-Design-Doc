@@ -7,7 +7,7 @@ tags:
 ---
 # _Jump Wall_
 
-Type: [[Abilities]], [[Jumps]], [[Wall Interaction]]
+Type: [[Abilities and States]], [[Jumps]], [[Wall Interaction]]
 
 ----
 

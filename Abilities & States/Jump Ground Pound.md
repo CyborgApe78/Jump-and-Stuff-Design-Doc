@@ -7,7 +7,7 @@ tags:
 ---
 # _Jump Ground Pound_
 
-Type: [[Abilities]], [[Jumps]], [[Ground Pounds]]
+Type: [[Abilities and States]], [[Jumps]], [[Ground Pounds]]
 
 ----
 

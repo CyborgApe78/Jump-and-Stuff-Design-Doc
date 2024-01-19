@@ -6,7 +6,7 @@ tags:
 
 # _Skid_
 
-Type: [[Abilities]]
+Type: [[Abilities and States]]
 
 ----
 

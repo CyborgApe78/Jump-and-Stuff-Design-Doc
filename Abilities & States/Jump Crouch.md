@@ -6,7 +6,7 @@ tags:
 ---
 # _Jump Crouch_
 
-Type: [[Abilities]], [[Jumps]], [[Crouches]]
+Type: [[Abilities and States]], [[Jumps]], [[Crouches]]
 
 ----
 

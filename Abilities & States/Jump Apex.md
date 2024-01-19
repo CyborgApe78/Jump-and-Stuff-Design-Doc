@@ -7,7 +7,7 @@ tags:
 
 # _Jump Apex_
 
-Type: [[Abilities]], [[Jumps]]
+Type: [[Abilities and States]], [[Jumps]]
 
 ----
 

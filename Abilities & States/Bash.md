@@ -5,7 +5,7 @@ tags:
 ---
 # _Bash_
 
-Type: [[Abilities]]
+Type: [[Abilities and States]]
 
 ----
 

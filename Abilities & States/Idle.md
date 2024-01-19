@@ -5,7 +5,7 @@ tags:
 ---
 # _Idle_
 
-Type: [[Abilities]]
+Type: [[Abilities and States]]
 
 ----
 

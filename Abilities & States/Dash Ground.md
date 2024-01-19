@@ -6,7 +6,7 @@ tags:
 ---
 # _Dash Ground_
 
-Type: [[Abilities]], [[Dashes]]
+Type: [[Abilities and States]], [[Dashes]]
 
 ----
 

@@ -5,7 +5,7 @@ tags:
 ---
 # _Crouch Walk_
 
-Type: [[Abilities]] [[Crouches]]
+Type: [[Abilities and States]] [[Crouches]]
 
 ----
 

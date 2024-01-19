@@ -6,7 +6,7 @@ tags:
 ---
 # _Wall Slide_
 
-Type: [[Abilities]], [[Wall Interaction]]
+Type: [[Abilities and States]], [[Wall Interaction]]
 
 ----
 

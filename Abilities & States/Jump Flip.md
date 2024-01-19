@@ -6,7 +6,7 @@ tags:
 ---
 # _Jump Flip_
 
-Type: [[Abilities]], [[Jumps]]
+Type: [[Abilities and States]], [[Jumps]]
 
 ----
 

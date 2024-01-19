@@ -4,7 +4,7 @@ tags:
 ---
 # _Fall_
 
-Type: [[Abilities]]
+Type: [[Abilities and States]]
 
 ----
 

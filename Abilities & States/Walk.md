@@ -6,7 +6,7 @@ tags:
 
 # _Walk_
 
-Type: [[Abilities]]
+Type: [[Abilities and States]]
 
 ----
 

@@ -6,7 +6,7 @@ tags:
 ---
 # _Ground Pound Land_
 
-Type: [[Abilities]], [[Ground Pounds]]
+Type: [[Abilities and States]], [[Ground Pounds]]
 
 ----
 

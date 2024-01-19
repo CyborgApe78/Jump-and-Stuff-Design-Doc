@@ -5,7 +5,7 @@ tags:
 ---
 # _Glide_
 
-Type: [[Abilities]]
+Type: [[Abilities and States]]
 
 ----
 

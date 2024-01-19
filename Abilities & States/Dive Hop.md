@@ -7,7 +7,7 @@ tags:
 ---
 # _Dive Hop_
 
-Type: [[Abilities]], [[Jumps]], [[Dives]]
+Type: [[Abilities and States]], [[Jumps]], [[Dives]]
 
 ----
 

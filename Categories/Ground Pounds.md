@@ -5,7 +5,6 @@ tags:
 # _Ground Pounds_
 
 
-
 ```dataview
 table
 from #groundpounds

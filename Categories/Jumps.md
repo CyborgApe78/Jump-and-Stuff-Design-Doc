@@ -5,7 +5,6 @@ tags:
 # _Jumps_
 
 
-
 ```dataview
 table
 from #jumps

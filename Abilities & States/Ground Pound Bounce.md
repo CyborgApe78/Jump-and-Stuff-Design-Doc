@@ -7,7 +7,7 @@ tags:
 ---
 # _Ground Pound Bounce_
 
-Type: [[Abilities]], [[Jumps]], [[Ground Pounds]]
+Type: [[Abilities and States]], [[Jumps]], [[Ground Pounds]]
 
 ----
 

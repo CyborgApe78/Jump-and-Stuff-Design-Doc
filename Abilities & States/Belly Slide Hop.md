@@ -7,7 +7,7 @@ tags:
 ---
 # _Belly Slide Hop_
 
-Type: [[Abilities]], [[Jumps]], [[Slides]]
+Type: [[Abilities and States]], [[Jumps]], [[Slides]]
 
 ----
 

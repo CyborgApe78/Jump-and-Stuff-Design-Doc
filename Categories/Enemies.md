@@ -4,7 +4,6 @@ tags:
 ---
 # Enemies
 
-[[Home]]
 
 ```dataview
 table

@@ -5,7 +5,6 @@ tags:
 # _Dashes_
 
 
-
 ```dataview
 table
 from #dashes 

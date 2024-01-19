@@ -4,7 +4,6 @@ tags:
 ---
 # Interactables
 
-[[Home]]
 
 ```dataview
 table
