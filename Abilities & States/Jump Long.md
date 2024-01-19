@@ -3,6 +3,7 @@ tags:
   - "#ability"
   - "#state"
   - jumps
+  - mario
 ---
 # _Jump Long_
 
@@ -14,28 +15,33 @@ Type: [[Abilities and States]], [[Jumps]]
 [[player]] has a lower [[Jump]] height, but travels farther 
 
 
+## Similar in other games
+
+* [[Mario]]
+
+
 ## State Transitions
 
 ### Input based
 
-* [[Jump Air]]
+* [[Bash]]
+* [[Dash Air]]
+* [[Dash Down]]
+* [[Dash Up]]
+* [[Dive]]
 * [[Glide]]
 * [[Grapple Hook]]
-* [[Bash]]
-* [[Dive]]
-* [[Dash Air]]
-* [[Dash Up]]
-* [[Dash Down]]
+* [[Jump Air]]
 
 ### Update based
 
 * [[Bonk]]
-* [[Jump Wall]]
-* [[Wall Slide]]
-* [[Jump Long]]
-* [[Roll]]
 * [[Crouch]]
+* [[Idle]]
 * [[Jump]]
+* [[Jump Long]]
+* [[Jump Wall]]
+* [[Roll]]
 * [[Skid]]
 * [[Walk]]
-* [[Idle]]
+* [[Wall Slide]]

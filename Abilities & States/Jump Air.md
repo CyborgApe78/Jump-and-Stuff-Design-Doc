@@ -18,21 +18,21 @@ Type: [[Abilities and States]], [[Jumps]]
 
 ### Input based
 
+* [[Bash]]
+* [[Dash Air]]
+* [[Dash Down]]
+* [[Dash Up]]
+* [[Dive]]
 * [[Fall]]
 * [[Glide]]
-* [[Dive]]
-* [[Ground Pound]]
-* [[Dash Air]]
-* [[Dash Up]]
-* [[Dash Down]]
 * [[Grapple Hook]]
-* [[Bash]]
+* [[Ground Pound]]
 
 
 ### Update based
 
-* [[Fall]]
 * [[Bonk]]
+* [[Fall]]
+* [[Idle]]
 * [[Jump Apex]]
 * [[Walk]]
-* [[Idle]]

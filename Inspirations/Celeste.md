@@ -4,11 +4,12 @@ tags:
 ---
 # _Celeste_
 
-Type: [[Inspirations]]
+Type: [[Inspirations]], [[2D Platformer]], [[Precision platformer]]
 
 ----
 
-Precision platformer
+
+
 
 
 ## Likes
@@ -24,3 +25,10 @@ Precision platformer
 
 ## Dislikes
 
+* 
+
+```dataview
+table
+from #celeste
+sort file.name asc
+```

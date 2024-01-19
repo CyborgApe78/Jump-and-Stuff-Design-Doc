@@ -4,6 +4,10 @@ tags:
   - state
   - jumps
   - "#wallinteraction"
+  - mario
+  - celeste
+  - ori
+  - guacamelee
 ---
 # _Jump Wall_
 
@@ -18,20 +22,20 @@ Type: [[Abilities and States]], [[Jumps]], [[Wall Interaction]]
 
 ### Input based
 
+* [[Bash]]
+* [[Dash Air]]
+* [[Dash Down]]
+* [[Dash Up]]
+* [[Dive]]
 * [[Fall]]
 * [[Glide]]
-* [[Dive]]
-* [[Ground Pound]]
 * [[Grapple Hook]]
-* [[Bash]]
-* [[Dash Up]]
-* [[Dash Down]]
-* [[Dash Air]]
+* [[Ground Pound]]
 
 ### Update based
 
-* [[Fall]]
 * [[Bonk]]
+* [[Fall]]
+* [[Idle]]
 * [[Jump Apex]]
 * [[Walk]]
-* [[Idle]]

@@ -18,18 +18,18 @@ Type: [[Abilities and States]], [[Wall Interaction]]
 
 ### Input based
 
+* [[Bash]]
+* [[Dash Air]]
+* [[Dash Climb]]
+* [[Dash Down]]
+* [[Dash Up]]
 * [[Fall]]
+* [[Grapple Hook]]
 * [[Jump Wall]]
 * [[Wall Grab]]
-* [[Grapple Hook]]
-* [[Bash]]
-* [[Dash Climb]]
-* [[Dash Air]]
-* [[Dash Up]]
-* [[Dash Down]]
 
 ### Update based
 
-* [[Fall]]
 * [[Crouch]]
+* [[Fall]]
 * [[Walk]]

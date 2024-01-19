@@ -3,6 +3,7 @@ tags:
   - ability
   - "#state"
   - jumps
+  - mario
 ---
 # _Jump Crouch_
 
@@ -10,24 +11,31 @@ Type: [[Abilities and States]], [[Jumps]], [[Crouches]]
 
 ----
 
+
 [[player]] keeps the one [[tile]] size for a jump
+
+
+## Similar in other games
+
+* [[Mario]]
+
 
 ## State Transitions
 
 ### Input based
 
-* [[Glide]]
-* [[Dive]]
-* [[Ground Pound]]
-* [[Dash Air]]
-* [[Dash Up]]
-* [[Dash Down]]
-* [[Grapple Hook]]
 * [[Bash]]
+* [[Dash Air]]
+* [[Dash Down]]
+* [[Dash Up]]
+* [[Dive]]
+* [[Glide]]
+* [[Grapple Hook]]
+* [[Ground Pound]]
 * [[Jump Air]]
 
 ### Update based
 
-* [[Crouch Walk]]
 * [[Crouch]]
+* [[Crouch Walk]]
 * [[Idle]]

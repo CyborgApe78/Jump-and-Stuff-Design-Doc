@@ -1,6 +1,7 @@
 ---
 tags:
   - enemy
+  - "#mario"
 ---
 # _Spiked Jumper_
 
@@ -14,4 +15,4 @@ Type: [[Enemies]]
 
 ## Similar in other games
 
-Mario Hoppycat
+* [[Mario]] [Hoppycat](https://www.mariowiki.com/Hoppycat)

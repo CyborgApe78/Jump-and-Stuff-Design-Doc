@@ -22,5 +22,5 @@ Type: [[Abilities and States]], [[Ground Pounds]]
 ### Update based
 
 * [[Crouch]]
-* [[Walk]]
 * [[Idle]]
+* [[Walk]]

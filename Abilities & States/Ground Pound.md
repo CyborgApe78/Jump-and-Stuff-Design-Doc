@@ -3,6 +3,8 @@ tags:
   - ability
   - state
   - groundpounds
+  - ori
+  - mario
 ---
 # _Ground Pound_
 
@@ -16,24 +18,30 @@ Type: [[Abilities and States]], [[Ground Pounds]]
 [[breaks blocks]]
 
 
+## Similar in other games
+
+* [[Mario]]
+* [[Ori]]
+
+
 ## State Transitions
 
 ### Input based
 
-* [[Jump]]
-* [[Jump Air]]
-* [[Fall]]
-* [[Glide]]
-* [[Dive Hop]]
+* [[Bash]]
 * [[Dash Air]]
 * [[Dash Down]]
 * [[Dash Up]]
+* [[Dive Hop]]
+* [[Fall]]
+* [[Glide]]
 * [[Grapple Hook]]
-* [[Bash]]
+* [[Jump]]
+* [[Jump Air]]
 * [[Swim]]
 
 ### Update based
 
-* [[Swim]]
 * [[Ground Pound Bounce]]
 * [[Ground Pound Land]]
+* [[Swim]]

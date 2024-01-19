@@ -4,6 +4,7 @@ tags:
   - state
   - jumps
   - "#slides"
+  - "#mario"
 ---
 # _Belly Slide Hop_
 
@@ -15,22 +16,27 @@ Type: [[Abilities and States]], [[Jumps]], [[Slides]]
 [[player]] jumps while sliding on belly
 
 
+## Similar in other games
+
+* [Mario] Sunshine
+
+
 ## State Transitions
 
 ### Input based
 
-* [[Jump Air]]
-* [[Glide]]
-* [[Ground Pound]]
-* [[Dash Up]]
-* [[Dash Down]]
-* [[Dash Air]]
-* [[Grapple Hook]]
 * [[Bash]]
+* [[Dash Air]]
+* [[Dash Down]]
+* [[Dash Up]]
+* [[Glide]]
+* [[Grapple Hook]]
+* [[Ground Pound]]
+* [[Jump Air]]
 
 ### Update based
 
-* [[Fall]]
-* [[Bonk]]
-* [[Roll]]
 * [[Belly Slide]]
+* [[Bonk]]
+* [[Fall]]
+* [[Roll]]

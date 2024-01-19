@@ -1,6 +1,7 @@
 ---
 tags:
   - object
+  - ori
 ---
 # _Doors_
 
@@ -13,3 +14,4 @@ Type: [[Objects]]
 
 ## Similar in other games
 
+* [[Ori]]

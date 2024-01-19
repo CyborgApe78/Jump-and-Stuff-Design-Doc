@@ -2,6 +2,8 @@
 tags:
   - ability
   - "#state"
+  - "#crouches"
+  - "#mario"
 ---
 # _Crouch_
 
@@ -11,6 +13,12 @@ Type: [[Abilities and States]], [[Crouches]]
 
 
 [[player]] is one [[tile]] tall and lower [[friction]]
+
+
+## Similar in other games
+
+* [[Mario]]
+
 
 ## State Transitions
 

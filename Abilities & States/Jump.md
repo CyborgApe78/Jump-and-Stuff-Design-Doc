@@ -27,8 +27,8 @@ func calculate_jump_velocity(height: float = jumpHeight, time: float = _jumpTime
 
 * [[Bash]]
 * [[Dash Air]]
-* [[Dash Up]]
 * [[Dash Down]]
+* [[Dash Up]]
 * [[Dive]]
 * [[Fall]]
 * [[Glide]]

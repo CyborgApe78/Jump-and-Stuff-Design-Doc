@@ -19,14 +19,14 @@ Type: [[Abilities and States]]
 
 * [[Bash]]
 * [[Crouch]]
-* [[Dash Up]]
 * [[Dash Ground]]
+* [[Dash Up]]
 * [[Grapple Hook]]
 * [[Jump]]
 
 
 ### Update based
 
-* [[Walk]]
 * [[Fall]]
 * [[Jump]]
+* [[Walk]]

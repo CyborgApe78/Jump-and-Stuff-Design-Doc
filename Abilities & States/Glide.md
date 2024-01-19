@@ -2,6 +2,7 @@
 tags:
   - "#ability"
   - "#state"
+  - "#ori"
 ---
 # _Glide_
 
@@ -13,23 +14,29 @@ Type: [[Abilities and States]]
 [[player]] fall is slow or pushed by wind
 great for keep velocity from other abilities
 
+
+## Similar in other games
+
+* [[Ori]]
+
+
 ## State Transitions
 
 ### Input based
 
-* [[Fall]]
-* [[Jump Air]]
-* [[Dive]]
-* [[Ground Pound]]
-* [[Grapple Hook]]
 * [[Bash]]
-* [[Dash Up]]
 * [[Dash Air]]
 * [[Dash Down]]
+* [[Dash Up]]
+* [[Dive]]
+* [[Fall]]
+* [[Grapple Hook]]
+* [[Ground Pound]]
+* [[Jump Air]]
 
 ### Update based
 
 * [[Bonk]]
 * [[Crouch]]
-* [[Walk]]
 * [[Idle]]
+* [[Walk]]

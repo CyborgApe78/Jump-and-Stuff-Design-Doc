@@ -3,6 +3,7 @@ tags:
   - "#ability"
   - "#state"
   - jumps
+  - ori
 ---
 # _Jump Crouch Charged_
 
@@ -14,24 +15,27 @@ Type: [[Abilities and States]], [[Jumps]], [[Crouches]]
 [[player]] jumps higher than [[Jump Crouch]]
 
 
+## Similar in other games
+
+* [[Ori]]
 ## State Transitions
 
 ### Input based
 
-* [[Glide]]
-* [[Fall]]
-* [[Dive]]
-* [[Ground Pound]]
-* [[Grapple Hook]]
 * [[Bash]]
-* [[Jump Air]]
-* [[Dash Up]]
 * [[Dash Air]]
 * [[Dash Down]]
+* [[Dash Up]]
+* [[Dive]]
+* [[Fall]]
+* [[Glide]]
+* [[Grapple Hook]]
+* [[Ground Pound]]
+* [[Jump Air]]
 
 ### Update based
 
-* [[Crouch Walk]]
 * [[Crouch]]
+* [[Crouch Walk]]
 * [[Idle]]
 * [[Jump Apex]]

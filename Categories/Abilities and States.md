@@ -4,7 +4,7 @@ tags:
 ---
 # Abilities and States
 
-#WIP only database file not working
+ #FIXME only database file not working
 
 %% Might change this to states
 

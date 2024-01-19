@@ -3,6 +3,7 @@ tags:
   - ability
   - "#state"
   - jumps
+  - "#celeste"
 ---
 
 # _Jump Apex_
@@ -15,25 +16,30 @@ Type: [[Abilities and States]], [[Jumps]]
 [[player]] has slightly lower [[Gravity]]
 
 
+## Similar in other games
+
+* [[Celeste]]
+
+
 ## State Transitions
 
 ### Input based
 
-* [[Fall]]
-* [[Glide]]
-* [[Dive]]
-* [[Ground Pound]]
-* [[Grapple Hook]]
 * [[Bash]]
-* [[Dash Up]]
 * [[Dash Down]]
 * [[Dash Up]]
+* [[Dash Up]]
+* [[Dive]]
+* [[Fall]]
+* [[Glide]]
+* [[Grapple Hook]]
+* [[Ground Pound]]
 
 ### Update based
 
 * [[Bonk]]
 * [[Fall]]
-* [[Walk]]
-* [[Idle]]
 * [[Fall]]
+* [[Idle]]
+* [[Walk]]
 

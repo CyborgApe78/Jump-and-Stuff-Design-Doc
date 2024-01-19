@@ -2,6 +2,7 @@
 tags:
   - "#ability"
   - "#state"
+  - mario
 ---
 
 # _Skid_
@@ -12,6 +13,11 @@ Type: [[Abilities and States]]
 
 
 [[player]] slides before changes direction
+
+
+## Similar in other games
+
+* [[Mario]]
 
 
 ## State Transitions

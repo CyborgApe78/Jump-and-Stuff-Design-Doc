@@ -2,6 +2,7 @@
 tags:
   - "#ability"
   - "#state"
+  - guacamelee
 ---
 # _Dash Down_
 
@@ -13,22 +14,27 @@ Type: [[Abilities and States]], [[Dashes]]
 [[player]] dashes up in the air
 
 
+## Similar in other games
+
+* [[Guacamelee]]
+
+
 ## State Transitions
 
 ### Input based
 
-* [[Jump Air]]
-* [[Fall]]
-* [[Glide]]
-* [[Dive]]
-* [[Ground Pound]]
-* [[Grapple Hook]]
 * [[Bash]]
 * [[Dash Air]]
-* [[Dash Up]]
 * [[Dash Down]]
+* [[Dash Up]]
+* [[Dive]]
+* [[Fall]]
+* [[Glide]]
+* [[Grapple Hook]]
+* [[Ground Pound]]
+* [[Jump Air]]
 
 ### Update based
 
-* [[Glide]]
 * [[Fall]]
+* [[Glide]]

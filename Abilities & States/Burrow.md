@@ -3,6 +3,7 @@ tags:
   - ability
   - state
   - "#WIP"
+  - "#ori"
 ---
 # _Burrow_
 
@@ -15,7 +16,9 @@ Type: [[Abilities and States]]
 [[player]] travels through sand and snow
 
 
-Inspired by the burrow ability from [[Ori Will of the Wisp]]
+## Similar in other games
+
+* [[Ori]]
 
 
 ## State Transitions

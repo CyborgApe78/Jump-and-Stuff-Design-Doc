@@ -2,6 +2,8 @@
 tags:
   - "#ability"
   - state
+  - "#crouches"
+  - mario
 ---
 # _Crouch Walk_
 
@@ -12,19 +14,25 @@ Type: [[Abilities and States]] [[Crouches]]
 
 [[player]] is one [[tile]] tall, slower [[move speed]] in [[move direction]]
 
+
+## Similar in other games
+
+* [[Mario]]
+
+
 ## State Transitions
 
 ### Input based
 
-* [[Walk]]
-* [[Idle]]
-* [[Dash Jump]]
-* [[Jump Ground Pound]]
-* [[Jump Crouch Charged]]
-* [[Jump Crouch]]
-* [[Roll]]
-* [[Grapple Hook]]
 * [[Bash]]
+* [[Dash Jump]]
+* [[Grapple Hook]]
+* [[Idle]]
+* [[Jump Crouch]]
+* [[Jump Crouch Charged]]
+* [[Jump Ground Pound]]
+* [[Roll]]
+* [[Walk]]
 
 
 ### Update based

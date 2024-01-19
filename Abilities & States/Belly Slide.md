@@ -3,6 +3,7 @@ tags:
   - ability
   - "#state"
   - slides
+  - "#mario"
 ---
 # _Belly Slide_
 
@@ -14,19 +15,24 @@ Type: [[Abilities and States]], [[Slides]]
 [[player]] slides along belly on the floor
 
 
+## Similar in other games
+
+* [[Mario]]
+
+
 ## State Transitions
 
 ### Input based
 
-* [[Belly Slide Hop]]
-* [[Roll]]
 * [[Belly Slide Dash]]
+* [[Belly Slide Hop]]
 * [[Crouch]]
+* [[Roll]]
 
 
 ### Update based
 
 * [[Crouch]]
 * [[Crouch Walk]]
-* [[Walk]]
 * [[Idle]]
+* [[Walk]]

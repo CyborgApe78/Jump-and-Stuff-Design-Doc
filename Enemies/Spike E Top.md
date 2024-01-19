@@ -1,6 +1,7 @@
 ---
 tags:
   - enemy
+  - "#mario"
 ---
 # _Spike E Top_
 
@@ -14,4 +15,4 @@ Walks back and forth with spikes on its top, can ignore ledges
 
 ## Similar in other games
 
-Mario Goomba
+* [[Mario]] [Spiny](https://www.mariowiki.com/Spiny)

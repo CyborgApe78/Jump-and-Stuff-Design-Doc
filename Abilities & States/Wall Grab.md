@@ -17,17 +17,17 @@ Type: [[Abilities and States]], [[Wall Interaction]]
 
 ### Input based
 
-* [[Wall Slide]]
-* [[Jump Wall]]
-* [[Dive]]
+* [[Bash]]
 * [[Dash Climb]]
 * [[Dash Wall]]
+* [[Dive]]
 * [[Grapple Hook]]
-* [[Bash]]
+* [[Jump Wall]]
+* [[Wall Slide]]
 
 ### Update based
 
-* [[Fall]]
 * [[Crouch]]
-* [[Walk]]
+* [[Fall]]
 * [[Idle]]
+* [[Walk]]

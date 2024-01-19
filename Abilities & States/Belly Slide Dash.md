@@ -19,12 +19,12 @@ Type: [[Abilities and States]], [[Dashes]]
 
 ### Input based
 
+* [[Belly Slide]]
 * [[Belly Slide Hop]]
 * [[Roll]]
-* [[Belly Slide]]
 
 ### Update based
 
-* [[Bonk]]
 * [[Belly Slide]]
+* [[Bonk]]
 * [[Fall]]

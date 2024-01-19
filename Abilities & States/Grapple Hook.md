@@ -2,6 +2,7 @@
 tags:
   - ability
   - "#state"
+  - ori
 ---
 # _Grapple Hook_
 
@@ -13,25 +14,30 @@ Type: [[Abilities and States]]
 [[player]] is pulled toward target
 
 
+## Similar in other games
+
+* [[Ori]]
+
+
 ## State Transitions
 
 ### Input based
 
+* [[Dash Air]]
+* [[Dash Down]]
+* [[Dash Up]]
+* [[Dive]]
+* [[Glide]]
+* [[Ground Pound]]
 * [[Jump]]
 * [[Jump Air]]
 * [[Jump Wall]]
-* [[Glide]]
-* [[Dive]]
-* [[Ground Pound]]
-* [[Dash Up]]
-* [[Dash Down]]
-* [[Dash Air]]
 
 ### Update based
 
-* [[Fall]]
 * [[Bonk]]
-* [[Wall Slide]]
 * [[Crouch]]
-* [[Walk]]
+* [[Fall]]
 * [[Idle]]
+* [[Walk]]
+* [[Wall Slide]]
