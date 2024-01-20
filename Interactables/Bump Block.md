@@ -14,4 +14,4 @@ Type: [[Interactables]]
 
 ## Similar in other games
 
-* [[Mario]] [Question Mark Blocks](https://www.mariowiki.com/%3F_Block)
+* [[Super Mario Odyssey]] [Question Mark Blocks](https://www.mariowiki.com/%3F_Block)

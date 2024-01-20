@@ -7,7 +7,7 @@ tags:
 ---
 # _Swim Dash_
 
-Type: [[Abilities and States]], [[Water Interaction]], [[Dashes]]
+Type: [[Abilities and States]], [[Water Interaction]], [[Dash]]
 
 ----
 

@@ -18,7 +18,7 @@ Type: [[Abilities and States]]
 ## Similar in other games
 
 * [[Mario]]
-* [[Prince of Persia]]
+* [[Prince of Persia Lost Crown]]
 
 
 ## State Transitions

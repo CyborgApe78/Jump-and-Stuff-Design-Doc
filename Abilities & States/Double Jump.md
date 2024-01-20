@@ -1,22 +1,20 @@
 ---
 tags:
   - ability
-  - state
+  - "#state"
   - jumps
-  - "#wallinteraction"
-  - mario
-  - celeste
-  - ori
-  - guacamelee
+aliases:
+  - jump air
 ---
-# _Jump Wall_
+# _Double Jump_
 
-Type: [[Abilities and States]], [[Jumps]], [[Wall Interaction]]
+Type: [[Abilities and States]], [[Jumps]]
 
 ----
 
 
-[[player]] jumps from the wall
+[[player]] [[Jump|jumps]] again in the air
+
 
 ## State Transitions
 
@@ -31,6 +29,7 @@ Type: [[Abilities and States]], [[Jumps]], [[Wall Interaction]]
 * [[Glide]]
 * [[Grapple Hook]]
 * [[Ground Pound]]
+
 
 ### Update based
 

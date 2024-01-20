@@ -17,7 +17,7 @@ Type: [[Abilities and States]], [[Dives]]
 
 ## Similar in other games
 
-* [[Mario]]
+* [[Super Mario Odyssey]]
 
 
 ## State Transitions
@@ -31,7 +31,7 @@ Type: [[Abilities and States]], [[Dives]]
 * [[Glide]]
 * [[Grapple Hook]]
 * [[Ground Pound]]
-* [[Jump Air]]
+* [[Double Jump]]
 
 ### Update based
 

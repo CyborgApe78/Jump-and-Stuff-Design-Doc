@@ -25,7 +25,7 @@ Type: [[Abilities and States]], [[Wall Interaction]]
 * [[Dash Up]]
 * [[Fall]]
 * [[Grapple Hook]]
-* [[Jump Wall]]
+* [[Wall Jump]]
 * [[Wall Grab]]
 
 ### Update based

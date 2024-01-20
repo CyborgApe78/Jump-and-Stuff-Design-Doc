@@ -9,7 +9,7 @@ tags:
 ---
 # _Dash Wall_
 
-Type: [[Abilities and States]], [[Dashes]], [[Wall Interaction]]
+Type: [[Abilities and States]], [[Dash]], [[Wall Interaction]]
 
 ----
 
@@ -20,7 +20,7 @@ Type: [[Abilities and States]], [[Dashes]], [[Wall Interaction]]
 ## Similar in other games
 
 * [[Hollow Knight]]
-* [[Guacamelee]]
+* [[Guacamelee 1]]
 
 
 ## State Transitions
@@ -36,9 +36,9 @@ Type: [[Abilities and States]], [[Dashes]], [[Wall Interaction]]
 * [[Glide]]
 * [[Grapple Hook]]
 * [[Ground Pound]]
-* [[Jump Air]]
+* [[Double Jump]]
 
 ### Update based
 
 * [[Bonk]]
-* [[Jump Wall]]
+* [[Wall Jump]]

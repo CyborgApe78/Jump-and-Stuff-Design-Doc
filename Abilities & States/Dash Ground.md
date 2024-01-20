@@ -9,7 +9,7 @@ tags:
 ---
 # _Dash Ground_
 
-Type: [[Abilities and States]], [[Dashes]]
+Type: [[Abilities and States]], [[Dash]]
 
 ----
 
@@ -19,7 +19,7 @@ Type: [[Abilities and States]], [[Dashes]]
 
 ## Similar in other games
 
-* [[Guacamelee]]
+* [[Guacamelee 1]]
 * [[Hollow Knight]]
 * [[Ori]]
 

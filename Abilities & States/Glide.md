@@ -32,7 +32,7 @@ great for keep velocity from other abilities
 * [[Fall]]
 * [[Grapple Hook]]
 * [[Ground Pound]]
-* [[Jump Air]]
+* [[Double Jump]]
 
 ### Update based
 

@@ -7,7 +7,7 @@ tags:
 ---
 # _Dash Down_
 
-Type: [[Abilities and States]], [[Dashes]]
+Type: [[Abilities and States]], [[Dash]]
 
 ----
 
@@ -17,7 +17,7 @@ Type: [[Abilities and States]], [[Dashes]]
 
 ## Similar in other games
 
-* [[Guacamelee]]
+* [[Guacamelee 1]]
 
 
 
@@ -33,7 +33,7 @@ Type: [[Abilities and States]], [[Dashes]]
 * [[Fall]]
 * [[Grapple Hook]]
 * [[Ground Pound]]
-* [[Jump Air]]
+* [[Double Jump]]
 
 ### Update based
 

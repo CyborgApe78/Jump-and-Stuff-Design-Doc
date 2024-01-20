@@ -1,23 +1,26 @@
 ---
 tags:
-  - ability
-  - "#state"
-  - jumps
+  - "#ability"
+  - state
+  - "#jumps"
+  - "#groundpounds"
   - mario
+aliases:
+  - Jump Ground Pound
 ---
-# _Jump Flip_
+# _Jump Ground Pound_
 
-Type: [[Abilities and States]], [[Jumps]]
+Type: [[Abilities and States]], [[Jumps]], [[Ground Pounds]]
 
 ----
 
 
-[[player]] jumps out of a [[Skid]] to change [[velocity]] to other direction
+[[player]] [[jumps]] after [[Ground Pound]] to get a boosted jump
 
 
 ## Similar in other games
 
-* [[Super Mario Odyssey]]
+*[[Super Mario Odyssey]] 
 
 
 ## State Transitions
@@ -34,10 +37,9 @@ Type: [[Abilities and States]], [[Jumps]]
 * [[Grapple Hook]]
 * [[Ground Pound]]
 
+
 ### Update based
 
-* [[Bonk]]
-* [[Fall]]
 * [[Idle]]
 * [[Jump Apex]]
 * [[Walk]]

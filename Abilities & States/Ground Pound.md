@@ -20,7 +20,7 @@ Type: [[Abilities and States]], [[Ground Pounds]]
 
 ## Similar in other games
 
-* [[Mario]]
+* [[Super Mario Odyssey]]
 * [[Ori]]
 
 
@@ -37,7 +37,7 @@ Type: [[Abilities and States]], [[Ground Pounds]]
 * [[Glide]]
 * [[Grapple Hook]]
 * [[Jump]]
-* [[Jump Air]]
+* [[Double Jump]]
 * [[Swim]]
 
 ### Update based

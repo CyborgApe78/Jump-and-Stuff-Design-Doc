@@ -15,4 +15,4 @@ Type: [[Enemies]]
 
 ## Similar in other games
 
-* [[Mario]] [Hoppycat](https://www.mariowiki.com/Hoppycat)
+* [[Super Mario Wonder]] [Hoppycat](https://www.mariowiki.com/Hoppycat)

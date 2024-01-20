@@ -22,7 +22,7 @@ Type: [[Abilities and States]], [[Wall Interaction]]
 * [[Dash Wall]]
 * [[Dive]]
 * [[Grapple Hook]]
-* [[Jump Wall]]
+* [[Wall Jump]]
 * [[Wall Slide]]
 
 ### Update based

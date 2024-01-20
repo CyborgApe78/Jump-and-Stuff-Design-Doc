@@ -18,7 +18,7 @@ Type: [[Abilities and States]], [[Jumps]], [[Ground Pounds]]
 
 ## Similar in other games
 
-* [[Mario]]
+* [[Super Mario Odyssey]]
 
 ## State Transitions
 
@@ -33,7 +33,7 @@ Type: [[Abilities and States]], [[Jumps]], [[Ground Pounds]]
 * [[Glide]]
 * [[Grapple Hook]]
 * [[Ground Pound]]
-* [[Jump Air]]
+* [[Double Jump]]
 
 ### Update based
 

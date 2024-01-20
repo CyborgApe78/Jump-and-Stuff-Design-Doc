@@ -8,7 +8,7 @@ tags:
 ---
 # _Dash Jump_
 
-Type: [[Abilities and States]], [[Dashes]], [[Jumps]]
+Type: [[Abilities and States]], [[Dash]], [[Jumps]]
 
 ----
 
@@ -31,7 +31,7 @@ Type: [[Abilities and States]], [[Dashes]], [[Jumps]]
 * [[Glide]]
 * [[Grapple Hook]]
 * [[Ground Pound]]
-* [[Jump Air]]
+* [[Double Jump]]
 
 ### Update based
 

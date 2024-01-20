@@ -17,7 +17,7 @@ Type: [[Abilities and States]], [[Ground Pounds]]
 
 ### Input based
 
-* [[Jump Ground Pound]]
+* [[Ground Pound Jump]]
 
 ### Update based
 

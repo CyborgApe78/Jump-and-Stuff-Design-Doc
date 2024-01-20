@@ -17,7 +17,7 @@ Type: [[Abilities and States]], [[Crouches]]
 
 ## Similar in other games
 
-* [[Mario]]
+* [[Super Mario Odyssey]]
 
 
 ## State Transitions
@@ -31,8 +31,8 @@ Type: [[Abilities and States]], [[Crouches]]
 * [[Idle]]
 * [[Jump Crouch]]
 * [[Jump Crouch Charged]]
-* [[Jump Ground Pound]]
-* [[Jump Long]]
+* [[Ground Pound Jump]]
+* [[Long Jump]]
 * [[Roll]]
 * [[Walk]]
 

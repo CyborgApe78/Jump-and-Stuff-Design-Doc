@@ -16,7 +16,7 @@ Type: [[Abilities and States]]
 
 ## Similar in other games
 
-* [[Mario]]
+* [[Super Mario Odyssey]]
 
 ## State Transitions
 

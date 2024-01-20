@@ -14,4 +14,4 @@ Counts down while [[player]] or [[Enemies]] are standing on it. Once it reaches 
 
 ## Similar in other games
 
-* [[Mario]] [Countdown Platform](https://www.mariowiki.com/Countdown_Platform)
+* [[Super Mario Odyssey]] [Countdown Platform](https://www.mariowiki.com/Countdown_Platform)

@@ -14,4 +14,4 @@ stretchs up and down and sideways
 
 ## Similar in other games
 
-* [[Mario]] [Stretch Block](https://www.mariowiki.com/Stretch_Block)
+* [[Super Mario World]] [Stretch Block](https://www.mariowiki.com/Stretch_Block)

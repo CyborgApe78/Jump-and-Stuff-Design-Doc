@@ -30,8 +30,8 @@ Type: [[Abilities and States]]
 * [[Glide]]
 * [[Ground Pound]]
 * [[Jump]]
-* [[Jump Air]]
-* [[Jump Wall]]
+* [[Double Jump]]
+* [[Wall Jump]]
 
 ### Update based
 

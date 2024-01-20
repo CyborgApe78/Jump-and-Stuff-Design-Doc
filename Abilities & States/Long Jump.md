@@ -17,7 +17,7 @@ Type: [[Abilities and States]], [[Jumps]]
 
 ## Similar in other games
 
-* [[Mario]]
+* [[Super Mario Odyssey]]
 
 
 ## State Transitions
@@ -31,7 +31,7 @@ Type: [[Abilities and States]], [[Jumps]]
 * [[Dive]]
 * [[Glide]]
 * [[Grapple Hook]]
-* [[Jump Air]]
+* [[Double Jump]]
 
 ### Update based
 
@@ -39,8 +39,8 @@ Type: [[Abilities and States]], [[Jumps]]
 * [[Crouch]]
 * [[Idle]]
 * [[Jump]]
-* [[Jump Long]]
-* [[Jump Wall]]
+* [[Long Jump]]
+* [[Wall Jump]]
 * [[Roll]]
 * [[Skid]]
 * [[Walk]]

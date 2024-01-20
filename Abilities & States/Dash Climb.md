@@ -8,7 +8,7 @@ tags:
 ---
 # _Dash Climb_
 
-Type: [[Abilities and States]], [[Dashes]], [[Wall Interaction]]
+Type: [[Abilities and States]], [[Dash]], [[Wall Interaction]]
 
 ----
 
@@ -18,7 +18,7 @@ Type: [[Abilities and States]], [[Dashes]], [[Wall Interaction]]
 
 ## Similar in other games
 
-* [[Guacamelee]]
+* [[Guacamelee 1]]
 
 
 
@@ -32,7 +32,7 @@ Type: [[Abilities and States]], [[Dashes]], [[Wall Interaction]]
 * [[Dive]]
 * [[Fall]]
 * [[Ground Pound]]
-* [[Jump Air]]
+* [[Double Jump]]
 
 ### Update based
 

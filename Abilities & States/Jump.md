@@ -3,6 +3,9 @@ tags:
   - ability
   - state
   - "#jumps"
+aliases:
+  - jump
+  - jumps
 ---
 # _Jump_
 

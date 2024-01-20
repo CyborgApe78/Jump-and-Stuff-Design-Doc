@@ -32,7 +32,7 @@ Type: [[Abilities and States]], [[Jumps]], [[Slides]]
 * [[Glide]]
 * [[Grapple Hook]]
 * [[Ground Pound]]
-* [[Jump Air]]
+* [[Double Jump]]
 
 ### Update based
 

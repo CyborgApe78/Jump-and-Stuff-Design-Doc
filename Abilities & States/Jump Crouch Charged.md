@@ -31,7 +31,7 @@ Type: [[Abilities and States]], [[Jumps]], [[Crouches]]
 * [[Glide]]
 * [[Grapple Hook]]
 * [[Ground Pound]]
-* [[Jump Air]]
+* [[Double Jump]]
 
 ### Update based
 

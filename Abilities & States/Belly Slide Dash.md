@@ -7,7 +7,7 @@ tags:
 ---
 # _Belly Slide Dash_
 
-Type: [[Abilities and States]], [[Dashes]]
+Type: [[Abilities and States]], [[Dash]]
 
 ----
 

@@ -1,25 +1,24 @@
 ---
 tags:
-  - "#ability"
+  - ability
   - state
-  - "#jumps"
-  - "#groundpounds"
+  - jumps
+  - "#wallinteraction"
   - mario
+  - celeste
+  - ori
+  - guacamelee
+aliases:
+  - Jump Wall
 ---
-# _Jump Ground Pound_
+# _Wall Jump_
 
-Type: [[Abilities and States]], [[Jumps]], [[Ground Pounds]]
+Type: [[Abilities and States]], [[Jumps]], [[Wall Interaction]]
 
 ----
 
 
-[[player]] jumps after [[Ground Pound]] to get a boosted jump
-
-
-## Similar in other games
-
-*[[Mario]] 
-
+[[player]] jumps from the wall
 
 ## State Transitions
 
@@ -35,9 +34,10 @@ Type: [[Abilities and States]], [[Jumps]], [[Ground Pounds]]
 * [[Grapple Hook]]
 * [[Ground Pound]]
 
-
 ### Update based
 
+* [[Bonk]]
+* [[Fall]]
 * [[Idle]]
 * [[Jump Apex]]
 * [[Walk]]

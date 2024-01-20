@@ -1,6 +1,7 @@
 ---
 tags:
   - enemy
+  - mario
 ---
 # _Wall E Crawler_
 

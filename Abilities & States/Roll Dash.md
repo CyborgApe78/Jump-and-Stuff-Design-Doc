@@ -7,7 +7,7 @@ tags:
 ---
 # _Roll Dash_
 
-Type: [[Abilities and States]], [[Rolls]], [[Dashes]]
+Type: [[Abilities and States]], [[Rolls]], [[Dash]]
 
 ----
 
