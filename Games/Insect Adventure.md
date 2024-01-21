@@ -4,7 +4,7 @@ tags:
 ---
 # _Insect Adventure_
 
-Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
+Type: [[Game]], [[2D Platformer]], [[Metroidvania]], [[Indie]]
 Creator: [[]]
 
 ----

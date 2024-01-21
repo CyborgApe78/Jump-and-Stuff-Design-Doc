@@ -1,12 +1,12 @@
 ---
 tags:
-  - inspiration
   - game
 ---
-# _Hollow Knight_
+# _Steamworld Dig 2_
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
-Creator: [[Team Cherry]]
+Series: [[Steamworld]]
+Creator: [[Thunderful]]
 
 ----
 
@@ -15,18 +15,14 @@ Creator: [[Team Cherry]]
 
 
 ## Likes
-* [[Randomizer]]
-	* Charm costs
-	* Map shows what is in logic
+* Ability upgrades
+* [[Dungeons]]
 
 ## Dislikes
 * 
 
 ## [[Abilities]]
-* [[Dash]]
-* [[Dash Wall]] - Crystal Heart
-* [[Double Jump]]
-* [[Pogo]]
+* 
 
 ## [[Hazards]]
 * 

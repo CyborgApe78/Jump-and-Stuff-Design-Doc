@@ -4,8 +4,8 @@ tags:
 ---
 # _Islet_
 
-Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
-Creator: [[]]
+Type: [[Game]], [[2D Platformer]], [[Metroidvania]], [[Indie]]
+Creator: [[Kyle Thompson]]
 
 ----
 

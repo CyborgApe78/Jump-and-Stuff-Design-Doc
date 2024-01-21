@@ -15,8 +15,9 @@ Creator: [[Nintendo]]
 
 
 ## Likes
+* [[Ability Combos]]
+* [[Fluid Movement]]
 * 
-
 
 ## Dislikes
 * 

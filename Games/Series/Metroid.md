@@ -1,6 +1,8 @@
 ---
 tags:
   - inspiration
+aliases:
+  - Metroid Series
 ---
 # _Metroid Series_
 

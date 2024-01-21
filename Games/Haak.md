@@ -14,15 +14,16 @@ Creator: [[]]
 
 
 ## Likes
-* [[Stat Upgrades]]
-* No [[Double Jump]]
-* Can use [[Grapple Hook]] whenever
+* [[Stat upgrades]]
+* No [[double jump]]
+* Can use [[grapple hook]] whenever
+* Button press near edge for [[ledge grab]]
 
 ## Dislikes
 * 
 
 ## [[Abilities]]
-* [[Grapple Hook]]
+* [[Grapple hook]]
 * [[Dash]]
 * [[Glide]]
 * [[Slide]]

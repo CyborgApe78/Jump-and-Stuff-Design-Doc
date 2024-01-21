@@ -5,7 +5,7 @@ tags:
 ---
 # _Celeste_
 
-Type: [[Game]], [[2D Platformer]], [[Precision platformer]]
+Type: [[Game]], [[2D Platformer]], [[Precision platformer]], [[Indie]]
 Creator: [[Maddy Makes Games]], [[Extremely OK Games]]
 
 ----
@@ -20,6 +20,7 @@ Creator: [[Maddy Makes Games]], [[Extremely OK Games]]
 * Platforming bosses
 * Lots of options to customize difficulty
 * Highly [[modable]]
+* [[Dash Blocks]]
 
 ## Dislikes
 * 
@@ -36,7 +37,5 @@ Creator: [[Maddy Makes Games]], [[Extremely OK Games]]
 * 
 
 ## [[Platforms]]
-* 
-  
-## Features for my game
+* React to [[dash]]
 * 

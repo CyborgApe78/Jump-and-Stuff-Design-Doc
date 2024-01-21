@@ -3,7 +3,7 @@ tags:
   - inspiration
   - game
 ---
-# _Convergence: League of Legends Story_
+# _Convergence: A League of Legends Story_
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
 Series: [[League of Legends]]

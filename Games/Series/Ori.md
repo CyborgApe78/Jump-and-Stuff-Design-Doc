@@ -1,6 +1,8 @@
 ---
 tags:
   - inspiration
+aliases:
+  - Ori Series
 ---
 # _Ori Series_
 
