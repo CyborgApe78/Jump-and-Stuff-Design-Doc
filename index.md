@@ -11,7 +11,10 @@ Using [Godot 4 game engine](https://godotengine.org/)
 Also includes my thoughts on games that have inspired me to work on my own game
 
 Dream features:
-* 
+* Variety on the [[abilities]] and [[upgrades]] like in [[A Robot Named Fight]]
+* Multiplayer, like [[Super Mario Odyssey]] and [[Hollow Knight]]
+	* [[tag]], [[prop hunt]], [[co-op]]
+* [Archipelago Integration](https://archipelago.gg/)
 
 [[Abilities and States]] [[Enemies]] [[Hazards]] [[Interactables]]
 
