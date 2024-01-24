@@ -12,7 +12,7 @@ Type: [[Abilities and States]], [[Crouches]]
 ----
 
 
-[[player]] is one [[tile]] tall and lower [[friction]]
+[[Player]] is one [[tile]] tall and lower [[friction]]
 
 
 ## Similar in other games

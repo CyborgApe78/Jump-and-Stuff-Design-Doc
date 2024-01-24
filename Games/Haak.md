@@ -5,7 +5,10 @@ tags:
 # _Haak_
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
-Creator: [[]]
+Creator: [[Blingame]]
+Release Date: [[September 16]], [[2020]]
+Platforms: [[Nintendo Switch]], [[Android]], [[Microsoft Windows]], [[iOS]]
+Game Engine: [[Unity]]
 
 ----
 

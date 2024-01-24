@@ -11,7 +11,7 @@ Type: [[Abilities and States]]
 ----
 
 
-[[player]] is pulled toward target
+[[Player]] is pulled toward target
 
 
 ## Similar in other games

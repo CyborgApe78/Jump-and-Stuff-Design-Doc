@@ -7,6 +7,10 @@ tags:
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
 Series: [[Ori]]
 Creator: [[Moon Studios]]
+Release Date: [[March 10]], [[2015]]
+Platforms: [[Nintendo Switch]], [[Xbox One]], [[Microsoft Windows]], [[Xbox 360]]
+Game Engine: [[Unity]]
+Composer: [[Gareth Coker]]
 
 ----
 

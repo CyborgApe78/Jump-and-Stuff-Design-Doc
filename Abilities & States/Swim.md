@@ -12,7 +12,7 @@ Type: [[Abilities and States]], [[Water Interaction]]
 ----
 
 
-[[player]] swims in [[Water]]
+[[Player]] swims in [[Water]]
 
 
 ## State Transitions

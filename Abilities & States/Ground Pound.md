@@ -13,9 +13,9 @@ Type: [[Abilities and States]], [[Ground Pounds]]
 ----
 
 
-[[player]] quickly falls toward ground
+[[Player]] quickly falls toward ground
 
-[[breaks blocks]]
+[[breakable blocks|break blocks]]
 
 
 ## Similar in other games

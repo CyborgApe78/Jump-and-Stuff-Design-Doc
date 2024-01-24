@@ -1,7 +1,7 @@
 ---
 tags:
   - enemy
-  - "#mario"
+  - actor
 ---
 # _Spike E Top_
 

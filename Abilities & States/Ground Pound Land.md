@@ -11,7 +11,7 @@ Type: [[Abilities and States]], [[Ground Pounds]]
 ----
 
 
-[[player]] is locked after ground pound
+[[Player]] is locked after ground pound
 
 ## State Transitions
 

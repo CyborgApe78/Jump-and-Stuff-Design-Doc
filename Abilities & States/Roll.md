@@ -12,7 +12,7 @@ Type: [[Abilities and States]], [[Rolls]]
 ----
 
 
-[[player]] rolls along the ground, can go up walls with spike upgrade
+[[Player]] rolls along the ground, can go up walls with spike upgrade
 
 
 ## Similar in other games

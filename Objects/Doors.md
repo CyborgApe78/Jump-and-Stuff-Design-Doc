@@ -10,7 +10,7 @@ Type: [[Objects]]
 ----
 
 
-[[player]] uses a [[key]] to open
+[[Player]] uses a [[key]] to open
 
 ## Similar in other games
 

@@ -11,7 +11,7 @@ Type: [[Abilities and States]]
 ----
 
 
-[[player]] hits the wall or ground at greater than [[move speed]]
+[[Player]] hits the wall or ground at greater than [[move speed]]
 
 
 ## Similar in other games

@@ -1,7 +1,7 @@
 ---
 tags:
   - enemy
-  - "#mario"
+  - actor
 ---
 # _Spiked Jumper_
 
@@ -10,7 +10,7 @@ Type: [[Enemies]]
 ----
 
 
-[[Jump]]s when the [[player]] jumps
+[[Jump|Jumps]] when the [[Player]] [[Jump|jumps]]
 
 
 ## Similar in other games

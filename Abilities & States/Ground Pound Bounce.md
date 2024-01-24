@@ -13,7 +13,7 @@ Type: [[Abilities and States]], [[Jumps]], [[Ground Pounds]]
 ----
 
 
-[[player]] bounces off the ground if ground pound is not held
+[[Player]] bounces off the ground if ground pound is not held
 
 
 ## Similar in other games

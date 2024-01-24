@@ -14,7 +14,7 @@ Type: [[Abilities and States]], [[Dash]], [[Wall Interaction]]
 ----
 
 
-[[player]] dashes away from the wall
+[[Player]] dashes away from the wall
 
 
 ## Similar in other games

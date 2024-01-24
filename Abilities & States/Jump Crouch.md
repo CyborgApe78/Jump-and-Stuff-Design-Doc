@@ -12,7 +12,7 @@ Type: [[Abilities and States]], [[Jumps]], [[Crouches]]
 ----
 
 
-[[player]] keeps the one [[tile]] size for a jump
+[[Player]] keeps the one [[tile]] size for a jump
 
 
 ## Similar in other games

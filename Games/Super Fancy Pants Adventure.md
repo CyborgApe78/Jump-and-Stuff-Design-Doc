@@ -2,11 +2,13 @@
 tags:
   - game
 ---
-# _Fancy Pants_
+# _Super Fancy Pants Adventure_
 
 Type: [[Game]], [[2D Platformer]]
 Series: [[Fancy Pants Adventure]]
-Creator: [[]]
+Creator: [[Brad Borne]]
+Release Date: [[September 20]], [[2017]]
+Platforms: [[Android]], [[Microsoft Windows]], [[macOS]]
 
 ----
 

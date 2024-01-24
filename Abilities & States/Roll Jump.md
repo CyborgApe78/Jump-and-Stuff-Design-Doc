@@ -12,7 +12,7 @@ Type: [[Abilities and States]], [[Rolls]]
 ----
 
 
-[[player]] jumps during roll
+[[Player]] jumps during roll
 
 
 ## State Transitions

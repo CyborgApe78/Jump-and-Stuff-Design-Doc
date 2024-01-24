@@ -11,7 +11,7 @@ Type: [[Abilities and States]]
 ----
 
 
-[[player]] base moving on the ground
+[[Player]] base moving on the ground
 
 
 ## State Transitions

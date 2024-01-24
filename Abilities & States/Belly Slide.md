@@ -12,7 +12,7 @@ Type: [[Abilities and States]], [[Slides]]
 ----
 
 
-[[player]] slides along belly on the floor
+[[Player]] slides along belly on the floor
 
 
 ## Similar in other games

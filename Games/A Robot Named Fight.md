@@ -5,8 +5,10 @@ tags:
 # _A Robot Named Fight_
 
 Type: [[Game]], [[2D Platformer]]
-Series: [[]]
-Creator: [[]]
+Creator: [[Morning Star Game Studio]]
+Release Date: [[September 7]], [[2017]]
+Platforms: [[Nintendo Switch]], [[Linux]], [[Microsoft Windows]], [[macOS]]
+Game Engine: [[Unity]]
 
 ----
 

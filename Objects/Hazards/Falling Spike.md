@@ -9,7 +9,8 @@ Type: [[Hazards]]
 ----
 
 
-Falls when [[player]] walks under and makes a platform
+Falls when [[Player]] or [[Enemies]] walks under and makes a platform
+Uses [[ActorDetector]]
 
 ## Similar in other games
 

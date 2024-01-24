@@ -11,7 +11,7 @@ Type: [[Abilities and States]]
 ----
 
 
-[[player]] stops time and redirects [[Enemies]] and [[projectiles]]
+[[Player]] stops time and redirects [[Enemies]] and [[projectiles]]
 
 ## Similar in other games
 

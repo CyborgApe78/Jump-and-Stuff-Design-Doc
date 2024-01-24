@@ -13,7 +13,7 @@ Type: [[Abilities and States]], [[Jumps]], [[Slides]]
 ----
 
 
-[[player]] jumps while sliding on belly
+[[Player]] jumps while sliding on belly
 
 
 ## Similar in other games

@@ -10,7 +10,7 @@ Type: [[Abilities and States]]
 ----
 
 
-[[player]] is not moving
+[[Player]] is not moving
 
 
 ## State Transitions

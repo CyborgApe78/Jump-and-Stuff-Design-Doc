@@ -9,7 +9,7 @@ Type: [[Platforms]]
 ----
 
 
-falls when the [[player]] or [[Enemies]] land on it
+falls when the [[Player]] or [[Enemies]] land on it
 
 
 ## Similar in other games

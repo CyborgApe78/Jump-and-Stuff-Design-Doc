@@ -9,7 +9,7 @@ Type: [[Platforms]]
 ----
 
 
-moves in specific direction when [[player]] or [[Enemies]] land on
+moves in specific direction when [[Player]] or [[Enemies]] land on
 
 
 ## Similar in other games

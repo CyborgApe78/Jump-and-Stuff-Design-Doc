@@ -9,7 +9,7 @@ Type: [[Interactables]]
 
 ----
 
-[[save point]] that the [[player]] can [[fast travel]] to
+[[save point]] that the [[Player]] can [[fast travel]] to
 
 
 ## Similar in other games

@@ -12,7 +12,7 @@ Type: [[Abilities and States]], [[Dash]]
 ----
 
 
-[[player]] dashes down in the air
+[[Player]] dashes down in the air
 
 
 ## Similar in other games

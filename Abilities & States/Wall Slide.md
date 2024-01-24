@@ -11,7 +11,7 @@ Type: [[Abilities and States]], [[Wall Interaction]]
 ----
 
 
-[[player]] slides down wall
+[[Player]] slides down wall
 
 
 ## State Transitions

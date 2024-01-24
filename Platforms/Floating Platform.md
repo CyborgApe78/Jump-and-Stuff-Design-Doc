@@ -9,7 +9,7 @@ Type: [[Platforms]]
 ----
 
 
-sinks down when [[player]] or [[Enemies]] land on. raises back up after leaving
+sinks down when [[Player]] or [[Enemies]] land on. raises back up after leaving
 
 ## Similar in other games
 

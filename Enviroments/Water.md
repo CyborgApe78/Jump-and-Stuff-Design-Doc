@@ -9,7 +9,7 @@ Type: [[Environments]]
 ----
 
 
-[[player]] swims in
+[[Player]] swims in
 
 ## Similar in other games
 

@@ -14,7 +14,7 @@ Type: [[Abilities and States]], [[Jumps]]
 ----
 
 
-Add force to [[player]] to [[Jump]] off surfaces. [[Gravity]] is added to player's velocity
+Add force to [[Player]] to [[Jump]] off surfaces. [[Gravity]] is added to player's velocity
 
 [[Jump Consecutive]] 
 

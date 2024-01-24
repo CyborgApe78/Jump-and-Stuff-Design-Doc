@@ -12,7 +12,7 @@ Type: [[Abilities and States]], [[Water Interaction]], [[Dash]]
 ----
 
 
-[[player]] dashes in [[Water]]
+[[Player]] dashes in [[Water]]
 
 
 ## Similar in other games

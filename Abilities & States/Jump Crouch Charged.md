@@ -12,7 +12,7 @@ Type: [[Abilities and States]], [[Jumps]], [[Crouches]]
 ----
 
 
-[[player]] jumps higher than [[Jump Crouch]]
+[[Player]] jumps higher than [[Jump Crouch]]
 
 
 ## Similar in other games

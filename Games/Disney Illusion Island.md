@@ -4,8 +4,11 @@ tags:
 ---
 # _Disney Illusion Island_
 
-Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
+Type: [[Game]], [[2D Platformer]], [[Metroidvania]], [[Collect-A-Thon]]
 Creator: [[Disney]]
+Release Date: [[July 28]] [[2023]]
+Platforms: [[Nintendo Switch]]
+Composer: [[ David Housden]]
 
 ----
 

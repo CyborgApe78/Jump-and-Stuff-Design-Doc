@@ -11,7 +11,7 @@ Type: [[Abilities and States]]
 ----
 
 
-[[player]] fall is slow or pushed by wind
+[[Player]] fall is slow or pushed by wind
 great for keep velocity from other abilities
 
 

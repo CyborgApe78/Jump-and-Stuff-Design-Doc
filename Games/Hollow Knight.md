@@ -7,6 +7,11 @@ tags:
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
 Creator: [[Team Cherry]]
+Release Date: [[February 24]], [[2017]]
+Platforms:  [[Nintendo Switch]], [[Playstation 4]], [[macOS]], [[Xbox One]], [[Xbox Cloud Gaming]],
+[[Linux]], [[Microsoft Windows]]
+Game Engine: [[Unity]]
+Composer: [[Christopher Larkin]]
 
 ----
 

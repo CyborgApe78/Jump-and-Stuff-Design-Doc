@@ -12,7 +12,7 @@ Type: [[Abilities and States]]
 ----
 
 
-[[player]] swings around [[Trapeze Bar]]
+[[Player]] swings around [[Trapeze Bar]]
 
 
 ## Similar in other games

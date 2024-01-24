@@ -14,7 +14,7 @@ Type: [[Abilities and States]], [[Dash]]
 ----
 
 
-[[player]] dashes sideways in the air
+[[Player]] dashes sideways in the air
 
 
 ## Similar in other games

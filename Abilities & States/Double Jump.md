@@ -13,7 +13,7 @@ Type: [[Abilities and States]], [[Jumps]]
 ----
 
 
-[[player]] [[Jump|jumps]] again in the air
+[[Player]] [[Jump|jumps]] again in the air
 
 
 ## State Transitions

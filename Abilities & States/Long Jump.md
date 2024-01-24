@@ -12,7 +12,7 @@ Type: [[Abilities and States]], [[Jumps]]
 ----
 
 
-[[player]] has a lower [[Jump]] height, but travels farther 
+[[Player]] has a lower [[Jump]] height, but travels farther 
 
 
 ## Similar in other games

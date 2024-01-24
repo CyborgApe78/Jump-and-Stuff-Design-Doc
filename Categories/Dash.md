@@ -9,4 +9,4 @@ aliases:
 # _Dash_
 
 
-Typically sends [[player]] in quickly in a specific [[vector]]
+Typically sends [[Player]] in quickly in a specific [[vector]]

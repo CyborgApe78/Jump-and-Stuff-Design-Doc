@@ -13,7 +13,7 @@ Type: [[Abilities and States]], [[Jumps]]
 ----
 
 
-[[player]] has slightly lower [[Gravity]]
+[[Player]] has slightly lower [[Gravity]]
 
 
 ## Similar in other games

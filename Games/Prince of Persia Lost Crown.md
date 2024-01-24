@@ -6,8 +6,11 @@ tags:
 # _Prince of Persia: The Lost Crown_
 
 Type: [[Game]], [[2D Platformer]], [[3D Platformer]], [[Metroidvania]]
-Series: [[Prince of Persi2D Platformera]]
+Series: [[Prince of Persia]], [[2D Platformer]]
 Creator: [[Ubisoft]]
+Release Date: [[January 18]], [[2024]]
+Platforms: [[Nintendo Switch]], [[Xbox One]], [[Microsoft Windows]], [[Xbox Series X and S]], [[Playstation 5]], [[Playstation 4]]
+Composer: [[Gareth Coker]], [[Metrix]]
 
 ----
 
@@ -31,6 +34,14 @@ Dash into a stylish and thrilling action-adventure platformer set in a mythologi
 * [[Bow and Arrow]]
 * [[Chakram]]
 * [[Parry]]
+* [[Dimension Swap]]
+* [[Double Jump]]
+* [[Parry]]
+
+## [[Locations]]
+* [[Desert]]
+* [[Forest]]
+* [[Clocktower]]
 
 ## [[Hazards]]
 * Remote triggered traps
@@ -40,4 +51,4 @@ Dash into a stylish and thrilling action-adventure platformer set in a mythologi
 
 ## [[Platforms]]
 * React to [[move direction]]
-* Turn [[on/off]] from [[player]] interaction
+* Turn [[on/off]] from [[Player]] interaction

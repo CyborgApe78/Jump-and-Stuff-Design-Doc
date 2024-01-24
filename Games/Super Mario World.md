@@ -7,6 +7,9 @@ tags:
 Type: [[Game]], [[2D Platformer]]
 Series: [[Mario]]
 Creator: [[Nintendo]]
+Release Date: [[November 21]], [[1990]]
+Platforms: [[SNES]]
+Composer: [[Koji Kondo]]
 
 ----
 
@@ -22,7 +25,16 @@ Creator: [[Nintendo]]
 * 
 
 ## [[Abilities]]
-* 
+* [[Crouch]]
+* [[Sprint]]
+* [[Fly]]
+* [[Jump]]
+* [[Shell Toss]]
+* [[Slide]]
+* [[Spin Jump]]
+* [[Stomp]]
+* [[Swallow]]
+* [[Swim]]
 
 ## [[Hazards]]
 * 

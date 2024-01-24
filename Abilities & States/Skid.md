@@ -12,7 +12,7 @@ Type: [[Abilities and States]]
 ----
 
 
-[[player]] slides before changes direction
+[[Player]] slides before changes direction
 
 
 ## Similar in other games

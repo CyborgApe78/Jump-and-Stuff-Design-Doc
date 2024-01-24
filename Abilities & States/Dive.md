@@ -12,7 +12,7 @@ Type: [[Abilities and States]], [[Dives]]
 ----
 
 
-[[player]] dives in the air
+[[Player]] dives in the air
 
 
 ## Similar in other games

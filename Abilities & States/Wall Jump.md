@@ -18,7 +18,7 @@ Type: [[Abilities and States]], [[Jumps]], [[Wall Interaction]]
 ----
 
 
-[[player]] jumps from the wall
+[[Player]] jumps from the wall
 
 ## State Transitions
 

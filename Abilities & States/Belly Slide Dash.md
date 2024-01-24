@@ -12,7 +12,7 @@ Type: [[Abilities and States]], [[Dash]]
 ----
 
 
-[[player]] has increased speed while sliding
+[[Player]] has increased speed while sliding
 
 
 ## State Transitions

@@ -13,7 +13,7 @@ Type: [[Abilities and States]], [[Jumps]], [[Dives]]
 ----
 
 
-[[player]] [[Dive]]s out of [[Ground Pound]] for extra height and distance
+[[Player]] [[Dive]]s out of [[Ground Pound]] for extra height and distance
 
 
 ## Similar in other games

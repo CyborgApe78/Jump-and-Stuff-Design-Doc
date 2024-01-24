@@ -11,7 +11,7 @@ Type: [[Abilities and States]], [[Dash]]
 ----
 
 
-[[player]] dashes up in the air
+[[Player]] dashes up in the air
 
 
 ## Similar in other games

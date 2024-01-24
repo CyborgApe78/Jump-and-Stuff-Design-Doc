@@ -12,7 +12,7 @@ Type: [[Abilities and States]], [[Jumps]]
 ----
 
 
-[[player]] jumps out of a [[Skid]] to change [[velocity]] to other direction
+[[Player]] jumps out of a [[Skid]] to change [[velocity]] to other direction
 
 
 ## Similar in other games

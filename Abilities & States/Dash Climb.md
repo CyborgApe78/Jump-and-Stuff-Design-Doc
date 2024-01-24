@@ -13,7 +13,7 @@ Type: [[Abilities and States]], [[Dash]], [[Wall Interaction]]
 ----
 
 
-[[player]] dashes up the wall
+[[Player]] dashes up the wall
 
 
 ## Similar in other games

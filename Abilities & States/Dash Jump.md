@@ -13,7 +13,7 @@ Type: [[Abilities and States]], [[Dash]], [[Jumps]]
 ----
 
 
-[[player]] aim dashes out of crouch
+[[Player]] aim dashes out of crouch
 
 
 ## Similar in other games

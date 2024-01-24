@@ -12,7 +12,7 @@ Type: [[Abilities and States]], [[Rolls]], [[Dash]]
 ----
 
 
-[[player]] speed is boosted during roll
+[[Player]] speed is boosted during roll
 
 
 ## State Transitions

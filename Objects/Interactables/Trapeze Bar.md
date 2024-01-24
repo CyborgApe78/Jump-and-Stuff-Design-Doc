@@ -11,7 +11,7 @@ Type: [[Interactables]]
 ----
 
 
-[[player]] swings around it using [[Trapeze]]
+[[Player]] swings around it using [[Trapeze]]
 
 ## Similar in other games
 

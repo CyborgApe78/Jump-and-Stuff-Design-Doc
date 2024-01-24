@@ -1,9 +1,11 @@
 ---
-tags:
+tags: 
+aliases:
+  - Turrets
 ---
 # _Turret_
 
-Type: [[Hazards]]
+Type: [[Hazards]], [[Turrets]]
 
 ----
 

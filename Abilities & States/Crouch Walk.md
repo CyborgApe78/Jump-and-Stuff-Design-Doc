@@ -12,7 +12,7 @@ Type: [[Abilities and States]] [[Crouches]]
 ----
 
 
-[[player]] is one [[tile]] tall, slower [[move speed]] in [[move direction]]
+[[Player]] is one [[tile]] tall, slower [[move speed]] in [[move direction]]
 
 
 ## Similar in other games

@@ -1,12 +1,18 @@
 ---
 tags:
   - game
+aliases:
+  - "Demon Turf: Neon Splash"
+  - Demon Turf
 ---
-# _Demon Turf_
+# _Demon Turf: Neon Splash_
 
-Type: [[Game]], [[2D Platformer]]
-Series: [[]]
-Creator: [[]]
+Type: [[Game]], [[3D Platformer]]
+Series: [[Demon Turf]]
+Creator: [[Fabraz]]
+Release Date: [[April 14]], [[2022]]
+Platforms: [[Nintendo Switch]], [[Microsoft Windows]]
+Game Engine: [[Unity]]
 
 ----
 

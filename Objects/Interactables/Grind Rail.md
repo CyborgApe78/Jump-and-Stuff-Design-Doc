@@ -11,7 +11,7 @@ Type: [[Interactables]]
 ----
 
 
-[[player]] follows [[Path2D]] using the [[Grind]] ability
+[[Player]] follows [[Path2D]] using the [[Grind]] ability
 
 
 ## Similar in other games

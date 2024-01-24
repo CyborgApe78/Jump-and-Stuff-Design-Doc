@@ -8,6 +8,9 @@ tags:
 Type: [[Game]], [[2D Platformer]], [[3D Platformer]]
 Series: [[Mario]]
 Creator: [[Nintendo]]
+Release Date: [[October 27]], [[2017]]
+Platforms: [[Nintendo Switch]]
+Composer: [[Koji Kondo]], [[Shiho Fujii]], [[Naoto Kubo]]
 
 ----
 

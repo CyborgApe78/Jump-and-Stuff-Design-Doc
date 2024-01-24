@@ -12,7 +12,7 @@ Type: [[Abilities and States]]
 ----
 
 
-[[player]] grinds along [[Grind Rail]]
+[[Player]] grinds along [[Grind Rail]]
 
 
 

@@ -15,7 +15,7 @@ Type: [[Abilities and States]], [[Jumps]], [[Ground Pounds]]
 ----
 
 
-[[player]] [[jumps]] after [[Ground Pound]] to get a boosted jump
+[[Player]] [[jumps]] after [[Ground Pound]] to get a boosted jump
 
 
 ## Similar in other games

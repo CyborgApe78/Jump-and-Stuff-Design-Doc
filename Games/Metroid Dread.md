@@ -6,7 +6,11 @@ tags:
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
 Series: [[Metroid]]
-Creator: [[Nintendo]]
+Creator: [[Nintendo]], [[Mercury Steam]]
+Release Date: [[October 8]], [[2021]]
+Platforms: [[Nintendo Switch]]
+Game Engine: [[Mercury Engine]]
+Composer: [[Sayako Doi]], [[Soshi Abe]]
 
 ----
 
@@ -22,13 +26,14 @@ Creator: [[Nintendo]]
 	* Progressive pickups, instead of an individual pickup for each suit, bomb, cannon, jump, etc.
 
 ## Dislikes
-* 
+* Game pauses whenever [[pickups]] are acquired
 
 ## [[Abilities]]
 * [[Grapple Hook]]
 * [[Charged Shot]]
 * [[Shinespark]]
 * [[Speed Booster]]
+* [[Missile]]
 
 ## [[Hazards]]
 * 

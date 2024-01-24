@@ -1,6 +1,8 @@
 ---
 tags:
   - "#state"
+aliases:
+  - falling
 ---
 # _Fall_
 
@@ -8,7 +10,7 @@ Type: [[Abilities and States]]
 
 ----
 
-[[player]] falls to ground
+[[Player]] falls to ground
 
 ## State Transitions
 

@@ -6,6 +6,9 @@ tags:
 Type: [[]]
 Series: [[]]
 Creator: [[]]
+Release Date: [[]]
+Platforms: [[]]
+Game Engine: [[]]
 
 ----
 

@@ -14,7 +14,7 @@ Type: [[Abilities and States]], [[Dash]]
 ----
 
 
-[[player]] dashes along the ground
+[[Player]] dashes along the ground
 
 
 ## Similar in other games

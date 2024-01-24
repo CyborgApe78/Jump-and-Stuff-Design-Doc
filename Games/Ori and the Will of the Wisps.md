@@ -7,6 +7,10 @@ tags:
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
 Series: [[Ori]]
 Creator: [[Moon Studios]]
+Release Date: [[March 11]], [[2020]]
+Platforms: [[Nintendo Switch]], [[Xbox One]], [[Microsoft Windows]], [[Xbox Series X and S]], [[Xbox Cloud Gaming]]
+Game Engine: [[Unity]]
+Composer: [[Gareth Coker]]
 
 ----
 

@@ -6,6 +6,9 @@ tags:
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]], [[Indie]]
 Creator: [[Kyle Thompson]]
+Release Date: [[August 24]] [[2022]]
+Platforms: [[Nintendo Switch]], [[Xbox One]], [[Microsoft Windows]], [[Xbox Series X and S]]
+Game Engine: [[Gamemaker]]
 
 ----
 
