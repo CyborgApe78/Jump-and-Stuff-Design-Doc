@@ -32,6 +32,7 @@ Composer: [[Christopher Larkin]]
 * [[Dash Wall]] - Crystal Heart
 * [[Double Jump]]
 * [[Pogo]]
+* [[light upgrade]]
 
 ## [[Hazards]]
 * 

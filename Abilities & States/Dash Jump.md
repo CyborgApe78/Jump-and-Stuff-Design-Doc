@@ -5,6 +5,9 @@ tags:
   - dashes
   - jumps
   - "#ori"
+aliases:
+  - charged jump
+  - charge jump
 ---
 # _Dash Jump_
 

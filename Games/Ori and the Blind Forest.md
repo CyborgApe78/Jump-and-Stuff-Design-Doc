@@ -33,10 +33,14 @@ Composer: [[Gareth Coker]]
 
 ## [[Abilities]]
 * [[Dash]]
-* [[Grenade]]
+* [[Grenade]], called [[Light Burst]]
 * [[Bash]]
 * [[Double Jump]]
-* [[Glide]]
+* [[Glide]], called [[Kuro's Feather]]
+* [[Dash Jump|Charge Jump]]
+* [[Wall Jump]]
+* [[Wall Climb]]
+* [[Spirit Flame]]
 
 ## [[Hazards]]
 * 

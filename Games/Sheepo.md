@@ -12,7 +12,7 @@ Game Engine: [[Gamemaker]]
 
 ----
 
-
+[[Upgrades]] are like [[Super Mario Odyssey]] [[captures]]
 
 
 

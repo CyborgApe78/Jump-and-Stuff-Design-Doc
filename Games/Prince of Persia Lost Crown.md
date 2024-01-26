@@ -23,6 +23,7 @@ Dash into a stylish and thrilling action-adventure platformer set in a mythologi
 * Back plus jump is a [[back flip]]
 * [[Sprint]] out of a [[slide]]
 * [[Fluid Movement]]
+* [[Memory Shards]], screenshots on the map
 
 ## Dislikes
 * Lose [[sprint]] through load zones

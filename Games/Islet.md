@@ -17,7 +17,7 @@ Game Engine: [[Gamemaker]]
 
 
 ## Likes
-* Choice for stat upgrades
+* Choice for [[stat upgrades]]
 
 ## Dislikes
 * 
@@ -25,6 +25,9 @@ Game Engine: [[Gamemaker]]
 ## [[Abilities]]
 * [[Bow and Arrow]]
 * [[Teleport]] arrow
+* [[Cloud]] arrow, [[create platform]]
+* [[Ground Pound]]
+* [[Wall Run]]
 
 ## [[Hazards]]
 * 

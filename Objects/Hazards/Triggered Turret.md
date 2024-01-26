@@ -8,7 +8,7 @@ Type: [[Hazards]], [[Turrets]]
 ----
 
 
-[[Turret]] that is triggered by a [[detector]]
+[[Turret]] that is triggered by a [[ActorDetector]]
 
 
 ## Similar in other games

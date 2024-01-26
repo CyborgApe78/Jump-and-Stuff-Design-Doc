@@ -24,7 +24,9 @@ Platforms: [[Microsoft Windows]]
 * 
 
 ## [[Abilities]]
-* 
+* [[Grapple Hook]]
+* [[Speed Booster]]
+* [[Wall Jump]]
 
 ## [[Hazards]]
 * 
