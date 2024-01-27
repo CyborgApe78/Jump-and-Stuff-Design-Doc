@@ -9,7 +9,7 @@ Type: [[Platforms]]
 ----
 
 
-Counts down while [[Player]] or [[Enemies]] are standing on it. Once it reaches zero it disappears. Resets later
+Counts down the number of landings from [[Player]] or [[Enemies]]. Once it reaches zero it disappears. Resets later. [[One way]]
 
 
 ## Similar in other games

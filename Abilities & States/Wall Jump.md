@@ -19,6 +19,8 @@ Type: [[Abilities and States]], [[Jumps]], [[Wall Interaction]]
 
 
 [[Player]] jumps from the wall
+Can jump on the same wall once without touching the ground
+Different jump arcs for up, down and away/no [[input]], similar to [[Super Fancy Pants Adventure]]
 
 ## State Transitions
 
