@@ -40,5 +40,5 @@ Type: [[Abilities and States]], [[Dash]], [[Wall Interaction]]
 
 ### Update based
 
-* [[Bonk]]
+* [[Abilities & States/Bonk]]
 * [[Wall Jump]]

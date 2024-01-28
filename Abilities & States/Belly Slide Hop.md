@@ -37,6 +37,6 @@ Type: [[Abilities and States]], [[Jumps]], [[Slides]]
 ### Update based
 
 * [[Belly Slide]]
-* [[Bonk]]
+* [[Abilities & States/Bonk]]
 * [[Fall]]
 * [[Roll]]

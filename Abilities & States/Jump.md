@@ -41,7 +41,7 @@ func calculate_jump_velocity(height: float = jumpHeight, time: float = _jumpTime
 
 ### Update based
 
-* [[Bonk]]
+* [[Abilities & States/Bonk]]
 * [[Fall]]
 * [[Idle]]
 * [[Jump Apex]]

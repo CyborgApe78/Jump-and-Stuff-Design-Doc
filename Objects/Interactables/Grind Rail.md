@@ -1,8 +1,7 @@
 ---
 tags:
   - interactable
-  - "#sonic"
-  - "#convergence"
+  - "#WIP"
 ---
 # _Grind Rail_
 

@@ -1,17 +1,18 @@
 ---
 tags:
   - mechanic
+  - "#WIP"
 ---
 # _Regrab_
 
 Type: [[Mechanics]]
+Inspired by: [[Super Mario World]]
 
 ----
 
 This doesn't work well with [[Double Jump]], need to decide which to keep
 
 
-## Similar in other games
 
 * [[Super Mario World]]
 	If you press the jump button (regular or spin) and then immediately release it, you will jump to a low height and fall very quickly back to the ground. If you are moving horizontally, you will have a very short horizontal range.

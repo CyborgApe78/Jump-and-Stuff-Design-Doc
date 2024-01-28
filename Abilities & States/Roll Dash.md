@@ -24,6 +24,6 @@ Type: [[Abilities and States]], [[Rolls]], [[Dash]]
 
 ### Update based
 
-* [[Bonk]]
+* [[Abilities & States/Bonk]]
 * [[Fall]]
 * [[Roll]]

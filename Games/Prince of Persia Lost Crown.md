@@ -26,6 +26,7 @@ Dash into a stylish and thrilling action-adventure platformer set in a mythologi
 * [[Sprint]] out of a [[slide]]
 * [[Fluid Movement]]
 * [[Memory Shards]], screenshots on the map
+* [[Wall Hook]]
 
 ## Dislikes
 * Lose [[sprint]] through load zones

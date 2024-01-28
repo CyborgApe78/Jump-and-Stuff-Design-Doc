@@ -1,8 +1,6 @@
 ---
 tags:
   - interactable
-  - "#mario"
-  - "#princeofpersia"
 ---
 # _Trapeze Bar_
 

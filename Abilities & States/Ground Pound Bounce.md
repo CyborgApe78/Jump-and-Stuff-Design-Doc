@@ -37,7 +37,7 @@ Type: [[Abilities and States]], [[Jumps]], [[Ground Pounds]]
 
 ### Update based
 
-* [[Bonk]]
+* [[Abilities & States/Bonk]]
 * [[Idle]]
 * [[Walk]]
 * [[Wall Slide]]

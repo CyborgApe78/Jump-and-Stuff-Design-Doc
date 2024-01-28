@@ -31,7 +31,7 @@ Type: [[Abilities and States]], [[Rolls]]
 
 ### Update based
 
-* [[Bonk]]
+* [[Abilities & States/Bonk]]
 * [[Crouch]]
 * [[Fall]]
 * [[Idle]]

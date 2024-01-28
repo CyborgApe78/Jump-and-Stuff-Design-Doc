@@ -38,7 +38,7 @@ Different jump arcs for up, down and away/no [[input]], similar to [[Super Fancy
 
 ### Update based
 
-* [[Bonk]]
+* [[Abilities & States/Bonk]]
 * [[Fall]]
 * [[Idle]]
 * [[Jump Apex]]

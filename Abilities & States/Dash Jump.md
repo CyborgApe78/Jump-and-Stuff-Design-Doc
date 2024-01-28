@@ -38,5 +38,5 @@ Type: [[Abilities and States]], [[Dash]], [[Jumps]]
 
 ### Update based
 
-* [[Bonk]]
+* [[Abilities & States/Bonk]]
 * [[Fall]]

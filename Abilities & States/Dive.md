@@ -36,6 +36,6 @@ Type: [[Abilities and States]], [[Dives]]
 ### Update based
 
 * [[Belly Slide]]
-* [[Bonk]]
+* [[Abilities & States/Bonk]]
 * [[Fall]]
 * [[Roll]]

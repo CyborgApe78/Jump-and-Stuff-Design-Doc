@@ -26,5 +26,5 @@ Type: [[Abilities and States]], [[Dash]]
 ### Update based
 
 * [[Belly Slide]]
-* [[Bonk]]
+* [[Abilities & States/Bonk]]
 * [[Fall]]

@@ -40,7 +40,7 @@ Type: [[Abilities and States]], [[Dash]]
 
 ### Update based
 
-* [[Bonk]]
+* [[Abilities & States/Bonk]]
 * [[Fall]]
 * [[Glide]]
 * [[Walk]]

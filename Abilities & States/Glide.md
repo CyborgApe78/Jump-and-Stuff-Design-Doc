@@ -36,7 +36,7 @@ great for keep velocity from other abilities
 
 ### Update based
 
-* [[Bonk]]
+* [[Abilities & States/Bonk]]
 * [[Crouch]]
 * [[Idle]]
 * [[Walk]]

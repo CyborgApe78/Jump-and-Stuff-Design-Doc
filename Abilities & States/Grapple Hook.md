@@ -53,7 +53,7 @@ Type: [[Abilities and States]]
 
 ### Update based
 
-* [[Bonk]]
+* [[Abilities & States/Bonk]]
 * [[Crouch]]
 * [[Fall]]
 * [[Idle]]

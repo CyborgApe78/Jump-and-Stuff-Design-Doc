@@ -40,7 +40,7 @@ Platforms: [[Nintendo Switch]], [[Xbox One]], [[Playstation 4]], [[Microsoft Win
 * [[Wall Jump]] called Goat Jump
 * [[Glide]] called Pollo Glide
 * [[Dash Diagonal]] called Pollo Shot
-* [[Slide]] called Pollo Slide,  [[breaks block]] that are orange
+* [[Slide]] called Pollo Slide,  [[breakable blocks|break blocks]] that are orange
 
 ## [[Hazards]]
 * 

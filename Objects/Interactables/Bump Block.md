@@ -1,7 +1,7 @@
 ---
 tags:
   - interactable
-  - "#mario"
+  - "#WIP"
 ---
 # _Bump Block_
 

@@ -36,7 +36,7 @@ Type: [[Abilities and States]], [[Jumps]]
 
 ### Update based
 
-* [[Bonk]]
+* [[Abilities & States/Bonk]]
 * [[Fall]]
 * [[Idle]]
 * [[Jump Apex]]

@@ -1,11 +1,10 @@
 ---
 tags:
   - category
-  - "#TODO"
 ---
 # _Platforms_
 
-to add:
+#WIP :
 * disappears if that direction is pushed/facing
 
 ```dataview

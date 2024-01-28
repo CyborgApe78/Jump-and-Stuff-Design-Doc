@@ -1,7 +1,8 @@
 ---
 tags:
   - object
-  - ori
+aliases:
+  - door
 ---
 # _Doors_
 
