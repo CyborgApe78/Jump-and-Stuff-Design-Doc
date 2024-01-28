@@ -28,7 +28,7 @@ Platforms: [[Playstation 4]], [[Nintendo Switch]], [[Linux]], [[Microsoft Window
 ## [[Hazards]]
 * 
 
-## [[Enemies]]
+## [[Categories/Enemies]]
 * 
 
 ## Features for my game

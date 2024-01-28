@@ -28,11 +28,11 @@ Type: [[Abilities and States]]
 * [[Ori]]
 	* certain [[wall]]s can be grappled
 	* some targets let you fly past them, others stop 
-	* can grapple to [[Enemies]]
+	* can grapple to [[Categories/Enemies]]
 * [[Prince of Persia Lost Crown]]
 	* if button held, target it pulled to player
 	* can attach to [[Trapeze Bar]]
-	* can grapple to [[Enemies]]
+	* can grapple to [[Categories/Enemies]]
 * [[Steamworld Dig 2]]
 	* fires in a straight line
 

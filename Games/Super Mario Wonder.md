@@ -43,7 +43,7 @@ Composer: [[Koji Kondo]], [[Shiho Fujii]], [[Sayako Doi]]
 ## [[Hazards]]
 * 
 
-## [[Enemies]]
+## [[Categories/Enemies]]
 * 
 
 ## Features for my game

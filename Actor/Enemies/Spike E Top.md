@@ -5,7 +5,7 @@ tags:
 ---
 # _Spike E Top_
 
-Type: [[Enemies]]
+Type: [[Categories/Enemies]]
 
 ----
 

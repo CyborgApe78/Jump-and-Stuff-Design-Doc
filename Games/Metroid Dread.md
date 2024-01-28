@@ -54,7 +54,7 @@ Composer: [[Sayako Doi]], [[Soshi Abe]]
 ## [[Hazards]]
 * 
 
-## [[Enemies]]
+## [[Categories/Enemies]]
 * 
 
 ## Features for my game

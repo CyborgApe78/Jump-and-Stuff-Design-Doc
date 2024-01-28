@@ -30,7 +30,7 @@ Composer:  [[Grant Kirkhope]], [[David Wise]]
 ## [[Hazards]]
 * 
 
-## [[Enemies]]
+## [[Categories/Enemies]]
 * 
 
 ## Features for my game

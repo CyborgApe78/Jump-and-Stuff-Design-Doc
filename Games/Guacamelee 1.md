@@ -43,7 +43,7 @@ Composer: [[Rom Di Prisco]]
 ## [[Hazards]]
 * 
 
-## [[Enemies]]
+## [[Categories/Enemies]]
 * 
 
 ## Features for my game

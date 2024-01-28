@@ -37,7 +37,7 @@ Composer: [[Lena Raine]]
 ## [[Hazards]]
 * 
 
-## [[Enemies]]
+## [[Categories/Enemies]]
 * 
 
 ## [[Platforms]]

@@ -45,7 +45,7 @@ Platforms: [[Nintendo Switch]], [[Xbox One]], [[Playstation 4]], [[Microsoft Win
 ## [[Hazards]]
 * 
 
-## [[Enemies]]
+## [[Categories/Enemies]]
 * 
 
 ## Features for my game

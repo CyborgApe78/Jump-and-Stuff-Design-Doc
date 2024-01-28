@@ -29,7 +29,7 @@ Composer: [[Grant Kirkhope]]
 ## [[Hazards]]
 * 
 
-## [[Enemies]]
+## [[Categories/Enemies]]
 * 
 
 ## Features for my game

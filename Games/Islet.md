@@ -32,7 +32,7 @@ Game Engine: [[Gamemaker]]
 ## [[Hazards]]
 * 
 
-## [[Enemies]]
+## [[Categories/Enemies]]
 * 
 
 ## Features for my game

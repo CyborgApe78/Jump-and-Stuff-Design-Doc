@@ -39,7 +39,7 @@ Composer: [[Koji Kondo]]
 ## [[Hazards]]
 * 
 
-## [[Enemies]]
+## [[Categories/Enemies]]
 * 
 
 ## Features for my game

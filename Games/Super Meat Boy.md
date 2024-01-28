@@ -28,7 +28,7 @@ Composer: [[Danny Baranowsky]]
 ## [[Hazards]]
 * 
 
-## [[Enemies]]
+## [[Categories/Enemies]]
 * 
 
 ## Features for my game

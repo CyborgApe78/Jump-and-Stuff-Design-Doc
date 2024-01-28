@@ -45,7 +45,7 @@ Composer: [[Gareth Coker]]
 ## [[Hazards]]
 * 
 
-## [[Enemies]]
+## [[Categories/Enemies]]
 * 
 
 ## Features for my game

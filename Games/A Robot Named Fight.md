@@ -28,7 +28,7 @@ Game Engine: [[Unity]]
 ## [[Hazards]]
 * 
 
-## [[Enemies]]
+## [[Categories/Enemies]]
 * 
 
 ## Features for my game

@@ -30,7 +30,7 @@ Platforms: [[Android]], [[Microsoft Windows]], [[macOS]]
 ## [[Hazards]]
 * 
 
-## [[Enemies]]
+## [[Categories/Enemies]]
 * 
 
 ## Features for my game

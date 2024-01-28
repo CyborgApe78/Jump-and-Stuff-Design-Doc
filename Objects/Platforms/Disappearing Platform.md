@@ -9,7 +9,7 @@ Type: [[Platforms]]
 ----
 
 
- Disappears after [[Player]] or [[Enemies]] land on it.
+ Disappears after [[Player]] or [[Categories/Enemies]] land on it.
  Using Ground layer so that [[wall jump]] works correctly
 
 ## Similar in other games

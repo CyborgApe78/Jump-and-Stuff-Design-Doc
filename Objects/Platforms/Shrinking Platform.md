@@ -9,7 +9,7 @@ Type: [[Platforms]]
 ----
 
 
-Platform shrinks when [[Player]] or [[Enemies]] land on it
+Platform shrinks when [[Player]] or [[Categories/Enemies]] land on it
 
 
 ## Similar in other games

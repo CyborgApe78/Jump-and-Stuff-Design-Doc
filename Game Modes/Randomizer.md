@@ -30,5 +30,15 @@ Need to decide between:
 * [[Metroid Dread]]
 	* Which [[ability]] is used to open a [[Doors|door]]
 	* [[Pickups]] show what they actually are on map
+	* [Github](https://github.com/randovania/randovania)
 * [[Ori and the Blind Forest]]
 	* In logic shown on map
+	* [FAQ](https://orirando.com/faq)
+	* [Github](https://github.com/sparkle-preference/OriDERandomizer/tree/4.0)
+* [[Ori and the Will of the Wisps]]
+	* [new items](https://wiki.orirando.com/features/new-items/)
+
+### Item Ideas
+[20XX](https://20xx.fandom.com/wiki/Augments)
+
+https://archipelago.gg/

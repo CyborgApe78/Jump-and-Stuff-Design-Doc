@@ -29,7 +29,7 @@ Platforms: [[Nintendo Switch]], [[Xbox One]], [[Playstation 4]], [[Linux]], [[Mi
 ## [[Hazards]]
 * 
 
-## [[Enemies]]
+## [[Categories/Enemies]]
 * 
 
 ## Features for my game

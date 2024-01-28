@@ -24,5 +24,5 @@ Dream features:
 * [Archipelago Integration](https://archipelago.gg/)
 * [[Quick save]] like system for practicing
 
-[[Abilities and States]] [[Enemies]] [[Hazards]] [[Interactables]] [[Mechanics]] [[Objects]] [[Systems]]
+[[Abilities and States]] [[Categories/Enemies]] [[Hazards]] [[Interactables]] [[Mechanics]] [[Objects]] [[Systems]]
 

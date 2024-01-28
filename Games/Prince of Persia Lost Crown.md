@@ -50,7 +50,7 @@ Dash into a stylish and thrilling action-adventure platformer set in a mythologi
 ## [[Hazards]]
 * Remote triggered traps
 
-## [[Enemies]]
+## [[Categories/Enemies]]
 * 
 
 ## [[Platforms]]

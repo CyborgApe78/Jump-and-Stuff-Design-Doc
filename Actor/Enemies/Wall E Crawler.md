@@ -5,7 +5,7 @@ tags:
 ---
 # _Wall E Crawler_
 
-Type: [[Enemies]]
+Type: [[Categories/Enemies]]
 
 ----
 
