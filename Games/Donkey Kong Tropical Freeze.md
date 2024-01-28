@@ -6,7 +6,7 @@ tags:
 
 Type: [[Game]], [[2D Platformer]]
 Series: [[Donkey Kong]]
-Creator: [[Nintendo]], [[Retro Studios]]
+Developer: [[Nintendo]], [[Retro Studios]]
 Release Date: [[February 13]], [[2014]]
 Platforms: [[Nintendo Switch]], [[Wii U]]
 Composer: [[David Wise]]

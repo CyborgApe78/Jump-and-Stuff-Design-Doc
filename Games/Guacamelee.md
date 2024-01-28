@@ -3,11 +3,11 @@ tags:
   - inspiration
   - game
 ---
-# _Guacamelee 1_
+# _Guacamelee_
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
-Series: [[Guacamelee]]
-Creator: [[Drink Box Studio]]
+Series: [[Guacamelee Series]]
+Developer: [[Drink Box Studio]]
 Release Date: [[April 9]], [[2013]]
 Platforms: [[Nintendo Switch]], [[Xbox One]], [[Playstation 4]], [[Microsoft Windows]], [[Playstation 3]], [[Xbox 360]], [[Playstation Vita]], [[macOS]], [[Wii U]]
 Composer: [[Rom Di Prisco]]

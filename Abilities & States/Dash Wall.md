@@ -20,7 +20,7 @@ Type: [[Abilities and States]], [[Dash]], [[Wall Interaction]]
 ## Similar in other games
 
 * [[Hollow Knight]]
-* [[Guacamelee 1]]
+* [[Guacamelee]]
 
 
 ## State Transitions

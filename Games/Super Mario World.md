@@ -5,8 +5,8 @@ tags:
 # _Super Mario World_
 
 Type: [[Game]], [[2D Platformer]]
-Series: [[Mario]]
-Creator: [[Nintendo]]
+Series: [[Mario Series]]
+Developer: [[Nintendo]]
 Release Date: [[November 21]], [[1990]]
 Platforms: [[SNES]]
 Composer: [[Koji Kondo]]

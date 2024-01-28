@@ -18,7 +18,7 @@ Type: [[Abilities and States]], [[Dash]], [[Wall Interaction]]
 
 ## Similar in other games
 
-* [[Guacamelee 1]]
+* [[Guacamelee]]
 
 
 

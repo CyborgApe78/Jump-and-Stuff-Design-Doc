@@ -16,4 +16,4 @@ holding down while [[falling]] will allow [[Player]] to pass through
 
 ## Similar in other games
 
-* [[Mario]] [Semisolid Platform](https://www.mariowiki.com/Semisolid_Platform)
+* [[Mario Series]] [Semisolid Platform](https://www.mariowiki.com/Semisolid_Platform)

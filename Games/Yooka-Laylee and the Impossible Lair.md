@@ -6,7 +6,7 @@ tags:
 
 Type: [[Game]], [[2D Platformer]]
 Series: [[Yooka-Laylee]]
-Creator: [[Playtonic Games]]
+Developer: [[Playtonic Games]]
 Release Date: [[April 11]], [[2017]]
 Platforms: [[Nintendo Switch]], [[Xbox One]], [[Playstation 4]], [[Microsoft Windows]], [[Amazon Luna]]
 Composer:  [[Grant Kirkhope]], [[David Wise]]

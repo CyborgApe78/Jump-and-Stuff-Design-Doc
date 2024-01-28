@@ -13,7 +13,7 @@ Type: [[Actor]]
 
 ## [[Dash]]
 
-Currently [[Dash|dash]] has multiple version similar to [[Guacamelee]]
+Currently [[Dash|dash]] has multiple version similar to [[Guacamelee Series]]
 * [[Dash Up]]
 * [[Dash Down]]
 * [[Dash Air]]

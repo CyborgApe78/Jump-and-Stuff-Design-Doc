@@ -14,7 +14,7 @@ Type: [[Systems]]
 
 ----
 
-Interchangeable [[upgrades]] for the [[Player|player]]
+Interchangeable [[Upgrades]] for the [[Player|player]]
 
 
 ## Similar in other games

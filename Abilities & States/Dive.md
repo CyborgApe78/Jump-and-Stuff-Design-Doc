@@ -14,7 +14,7 @@ Type: [[Abilities and States]], [[Dives]]
 
 [[Player]] dives in the air
 
-
+**![](https://lh7-us.googleusercontent.com/5EHUYQuztKhMu_D47VI6ldTISuTofM59LbHM9niehsVmiItZZbnIE1dk1zBLlIDfFsyEpZttIeC2L0dtUvv6HCE6ML4qs8VzVmUHKc8vK-b77lty7tM24pL3oTQp2ZCsd-NBUzpcllaqXr0CC9newzY)**
 ## Similar in other games
 
 * [[Super Mario Odyssey]]

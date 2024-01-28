@@ -17,7 +17,7 @@ Type: [[Abilities and States]], [[Dash]]
 
 ## Similar in other games
 
-* [[Guacamelee 1]]
+* [[Guacamelee]]
 
 
 

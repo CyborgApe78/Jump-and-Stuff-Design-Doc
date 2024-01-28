@@ -13,6 +13,7 @@ Type: [[Abilities and States]], [[Water Interaction]]
 
 
 [[Player]] swims in [[Water]]
+[[upgrades]] to go through different types; water, lava, poison
 
 
 ## State Transitions

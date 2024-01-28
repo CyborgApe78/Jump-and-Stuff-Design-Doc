@@ -13,4 +13,4 @@ Spins around base
 
 ## Similar in other games
 
- * [[Mario]] [Fire Bar](https://www.mariowiki.com/Fire_Bar)
+ * [[Mario Series]] [Fire Bar](https://www.mariowiki.com/Fire_Bar)

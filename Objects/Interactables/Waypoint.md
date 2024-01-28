@@ -14,4 +14,4 @@ Type: [[Interactables]]
 
 ## Similar in other games
 
-* [[Ori]]
+* [[Ori Series]]

@@ -15,5 +15,5 @@ Follows [[Path2D]] with a detector for player to adjust speed
 
 ## Similar in other games
 
-* [[Ori]] [[chase sequences]]
+* [[Ori Series]] [[chase sequences]]
 

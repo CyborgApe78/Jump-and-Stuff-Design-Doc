@@ -5,7 +5,7 @@ tags:
 
 Type: [[]]
 Series: [[]]
-Creator: [[]]
+Developer: [[]]
 Release Date: [[]]
 Platforms: [[]]
 Game Engine: [[]]

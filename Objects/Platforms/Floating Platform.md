@@ -13,4 +13,4 @@ sinks down when [[Player]] or [[Categories/Enemies]] land on. raises back up aft
 
 ## Similar in other games
 
-* [[Mario]] figure out the name
+* [[Mario Series]] figure out the name

@@ -9,7 +9,7 @@ aliases:
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
 Series: [[League of Legends]]
-Creator: [[Riot]], [[Double Stallion]]
+Developer: [[Riot]], [[Double Stallion]]
 Release Date: [[May 23]], [[2023]]
 Platforms: [[Playstation 5]], [[Nintendo Switch]], [[Xbox One]], [[Playstation 4]], [[Microsoft Windows]], [[Xbox Series X and S]]
 Game Engine: [[Unity]]

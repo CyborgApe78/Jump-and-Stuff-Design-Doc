@@ -17,7 +17,7 @@ Type: [[Abilities and States]], [[Water Interaction]], [[Dash]]
 
 ## Similar in other games
 
-* [[Ori]]
+* [[Ori Series]]
 
 
 ## State Transitions

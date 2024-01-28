@@ -5,8 +5,8 @@ tags:
 # _Ori and the Will of the Wisps
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
-Series: [[Ori]]
-Creator: [[Moon Studios]]
+Series: [[Ori Series]]
+Developer: [[Moon Studios]]
 Release Date: [[March 11]], [[2020]]
 Platforms: [[Nintendo Switch]], [[Xbox One]], [[Microsoft Windows]], [[Xbox Series X and S]], [[Xbox Cloud Gaming]]
 Game Engine: [[Unity]]

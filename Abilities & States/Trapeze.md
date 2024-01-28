@@ -17,7 +17,7 @@ Type: [[Abilities and States]]
 
 ## Similar in other games
 
-* [[Mario]]
+* [[Mario Series]]
 * [[Prince of Persia Lost Crown]]
 
 

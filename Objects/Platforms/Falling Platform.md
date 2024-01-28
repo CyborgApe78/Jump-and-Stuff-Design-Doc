@@ -14,4 +14,4 @@ falls when the [[Player]] or [[Categories/Enemies]] land on it. [[One way]]
 
 ## Similar in other games
 
-* [[Mario]] [Flimsy Platform](https://www.mariowiki.com/Flimsy_Lift)
+* [[Mario Series]] [Flimsy Platform](https://www.mariowiki.com/Flimsy_Lift)

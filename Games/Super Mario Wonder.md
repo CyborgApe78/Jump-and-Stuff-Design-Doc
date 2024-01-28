@@ -5,8 +5,8 @@ tags:
 # _Super Mario Wonder_
 
 Type: [[Game]], [[2D Platformer]]
-Series: [[Mario]]
-Creator: [[Nintendo]]
+Series: [[Mario Series]]
+Developer: [[Nintendo]]
 Release Date: [[October 20]], [[2023]]
 Platforms: [[Nintendo Switch]]
 Composer: [[Koji Kondo]], [[Shiho Fujii]], [[Sayako Doi]]

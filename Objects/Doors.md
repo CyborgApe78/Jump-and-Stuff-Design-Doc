@@ -15,4 +15,4 @@ Type: [[Objects]]
 
 ## Similar in other games
 
-* [[Ori]]
+* [[Ori Series]]

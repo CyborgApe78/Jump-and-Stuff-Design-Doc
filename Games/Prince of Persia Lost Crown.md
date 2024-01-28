@@ -7,7 +7,7 @@ tags:
 
 Type: [[Game]], [[2D Platformer]], [[3D Platformer]], [[Metroidvania]]
 Series: [[Prince of Persia]], [[2D Platformer]]
-Creator: [[Ubisoft]]
+Developer: [[Ubisoft]]
 Release Date: [[January 18]], [[2024]]
 Platforms: [[Nintendo Switch]], [[Xbox One]], [[Microsoft Windows]], [[Xbox Series X and S]], [[Playstation 5]], [[Playstation 4]]
 Composer: [[Gareth Coker]], [[Metrix]]

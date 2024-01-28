@@ -3,7 +3,6 @@ tags:
   - ability
   - "#state"
   - jumps
-  - "#celeste"
 ---
 
 # _Jump Apex_

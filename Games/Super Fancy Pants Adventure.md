@@ -6,7 +6,7 @@ tags:
 
 Type: [[Game]], [[2D Platformer]]
 Series: [[Fancy Pants Adventure]]
-Creator: [[Brad Borne]]
+Developer: [[Brad Borne]]
 Release Date: [[September 20]], [[2017]]
 Platforms: [[Android]], [[Microsoft Windows]], [[macOS]]
 

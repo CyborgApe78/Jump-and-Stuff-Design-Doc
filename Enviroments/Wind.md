@@ -13,3 +13,4 @@ Pushes [[Player]] in a direction when using [[Glide]]
 
 ## Similar in other games
 
+* [[Ori Series]]

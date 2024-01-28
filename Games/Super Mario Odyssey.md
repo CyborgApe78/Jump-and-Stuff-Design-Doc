@@ -6,8 +6,8 @@ tags:
 # _Super Mario Odyssey_
 
 Type: [[Game]], [[2D Platformer]], [[3D Platformer]]
-Series: [[Mario]]
-Creator: [[Nintendo]]
+Series: [[Mario Series]]
+Developer: [[Nintendo]]
 Release Date: [[October 27]], [[2017]]
 Platforms: [[Nintendo Switch]]
 Composer: [[Koji Kondo]], [[Shiho Fujii]], [[Naoto Kubo]]

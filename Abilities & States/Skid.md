@@ -2,7 +2,6 @@
 tags:
   - "#ability"
   - "#state"
-  - mario
 ---
 
 # _Skid_

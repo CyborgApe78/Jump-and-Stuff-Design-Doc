@@ -3,7 +3,6 @@ tags:
   - ability
   - "#state"
   - "#crouches"
-  - "#mario"
 ---
 # _Crouch_
 

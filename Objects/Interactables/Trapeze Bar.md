@@ -13,5 +13,5 @@ Type: [[Interactables]]
 
 ## Similar in other games
 
-* [[Mario]]
+* [[Mario Series]]
 * [[Prince of Persia Lost Crown]]

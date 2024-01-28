@@ -4,7 +4,6 @@ tags:
   - state
   - dashes
   - jumps
-  - "#ori"
 aliases:
   - charged jump
   - charge jump
@@ -21,7 +20,7 @@ Type: [[Abilities and States]], [[Dash]], [[Jumps]]
 
 ## Similar in other games
 
-* [[Ori]]
+* [[Ori Series]]
 
 
 ## State Transitions

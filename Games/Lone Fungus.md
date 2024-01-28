@@ -5,7 +5,7 @@ tags:
 # _Lone Fungus_
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]], [[Indie]]
-Creator: [[Basti Games]]
+Developer: [[Basti Games]]
 Release Date: [[April 7]], [[2023]]
 Platforms: [[Microsoft Windows]]
 

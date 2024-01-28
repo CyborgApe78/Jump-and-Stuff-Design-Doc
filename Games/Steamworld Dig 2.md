@@ -6,7 +6,7 @@ tags:
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
 Series: [[Steamworld]]
-Creator: [[Thunderful]]
+Developer: [[Thunderful]]
 Release Date: [[September 21]], [[2017]]
 Platforms: [[Nintendo Switch]], [[Xbox One]], [[Playstation 4]], [[Linux]], [[Microsoft Windows]], [[Playstation Vita]], [[macOS]], [[Google Stadia]], [[Nintendo 3DS]]
 

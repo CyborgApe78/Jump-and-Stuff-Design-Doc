@@ -6,7 +6,7 @@ tags:
 # _Celeste_
 
 Type: [[Game]], [[2D Platformer]], [[Precision platformer]], [[Indie]]
-Creator: [[Maddy Makes Games]], [[Extremely OK Games]]
+Developer: [[Maddy Makes Games]], [[Extremely OK Games]]
 Release Date: [[January 5th]], [[2018]]
 Platforms: [[Nintendo Switch]], [[Playstation 4]], [[macOS]], [[Linux]], [[Xbox One]], [[Microsoft Windows]], [[Google Stadia]], 
 Game Engine: [[Microsoft XNA]], [[MonoGame]]

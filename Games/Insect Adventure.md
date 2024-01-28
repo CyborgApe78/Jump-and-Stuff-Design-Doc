@@ -5,7 +5,7 @@ tags:
 # _Insect Adventure_
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]], [[Indie]]
-Creator: [[Mayo-Force LLC]]
+Developer: [[Mayo-Force LLC]]
 Release Date: [[May 17]], [[2021]]
 Platforms: [[Microsoft Windows]]
 

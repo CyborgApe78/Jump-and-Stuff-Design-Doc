@@ -6,8 +6,8 @@ tags:
 # _Guacamelee 2_
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
-Series: [[Guacamelee]]
-Creator: [[Drink Box Studio]]
+Series: [[Guacamelee Series]]
+Developer: [[Drink Box Studio]]
 Release Date: [[August 21]], [[2018]]
 Platforms: [[Nintendo Switch]], [[Xbox One]], [[Playstation 4]], [[Microsoft Windows]]
 

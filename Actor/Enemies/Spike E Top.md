@@ -15,4 +15,4 @@ Walks back and forth with spikes on its top, can ignore ledges
 
 ## Similar in other games
 
-* [[Mario]] [Spiny](https://www.mariowiki.com/Spiny)
+* [[Mario Series]] [Spiny](https://www.mariowiki.com/Spiny)

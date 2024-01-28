@@ -14,6 +14,25 @@ Type: [[Abilities and States]]
 [[Player]] is pulled toward target
 
 
+![](https://lh7-us.googleusercontent.com/ND6uL6_OZBUEZX_USjwBxC7fuqt-joEpVCNMzWQ8rc8OzYW4JX_S1AKNGDMN-lJbxf65pyXdgPnfKqdbpGx4kJpL8G3LDDJ0FjpvmXviLCRcvkiYh_K_AFwUcS4fVIODPb5JwrN-Ui54P5HvtGCl5Vs)![](https://lh7-us.googleusercontent.com/bfL4cSyWbUeBjO2uPkW63NTy4ZMznCm1YfNq0Qg7YnHMMtMRR7WOY7zeeJeWj4HrWcSRSjLE-0XOhMDINxkPBr-P-yf_VUWjC9CrArEerMq_7CFXX2ROlFLwKnlgIe7Xi2YfoPfH54-sPJFzHPNvy3E)![](https://lh7-us.googleusercontent.com/_BkMmAwDHM1FluOWC-n4sHtblIodnSlnhoZgnd84ICFOrU0R6tdI3oBGmSWdtAIG3idnHi8AkNkI63ct3TKgltJZIvc6y74zOxdDKVw2YYM_UGj7CJmfytAlmouAyAGptJcgRd1XjcsQJe1ExAVDEYY)
+
+Swing from points
+
+Pulled to others
+
+some targets stop, other pass through
+
+Upgrades:
+
+Range upgrades
+
+Remove barriers
+
+Pulled to enemies
+
+
+
+
 ## Similar in other games
 
 * [[Haak]]
@@ -25,7 +44,7 @@ Type: [[Abilities and States]]
 * [[Metroid Dread]]
 	* certain [[wall]]s can be grappled
 	* [[free aim]]
-* [[Ori]]
+* [[Ori Series]]
 	* certain [[wall]]s can be grappled
 	* some targets let you fly past them, others stop 
 	* can grapple to [[Categories/Enemies]]

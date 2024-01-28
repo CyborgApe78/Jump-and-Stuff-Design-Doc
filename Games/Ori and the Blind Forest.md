@@ -5,8 +5,8 @@ tags:
 # _Ori and the Blind Forest_
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
-Series: [[Ori]]
-Creator: [[Moon Studios]]
+Series: [[Ori Series]]
+Developer: [[Moon Studios]]
 Release Date: [[March 10]], [[2015]]
 Platforms: [[Nintendo Switch]], [[Xbox One]], [[Microsoft Windows]], [[Xbox 360]]
 Game Engine: [[Unity]]

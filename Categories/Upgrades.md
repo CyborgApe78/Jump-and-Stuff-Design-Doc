@@ -1,13 +1,16 @@
 ---
 tags:
   - category
+aliases:
+  - upgrade
 ---
-# Abilities and States
+# _Upgrades_
+
 
 
 ```dataview
 table
-from #ability
+from #upgrade
 sort file.name asc
 ```
 

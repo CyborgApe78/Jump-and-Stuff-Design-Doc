@@ -14,4 +14,4 @@ Uses [[ActorDetector]]
 
 ## Similar in other games
 
-* [[Mario]] [Ice Spike](https://www.mariowiki.com/Icicle)
+* [[Mario Series]] [Ice Spike](https://www.mariowiki.com/Icicle)

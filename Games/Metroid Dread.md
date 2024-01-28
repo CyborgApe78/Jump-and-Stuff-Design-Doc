@@ -5,8 +5,8 @@ tags:
 # _Metroid Dread_
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
-Series: [[Metroid]]
-Creator: [[Nintendo]], [[Mercury Steam]]
+Series: [[Metroid Series]]
+Developer: [[Nintendo]], [[Mercury Steam]]
 Release Date: [[October 8]], [[2021]]
 Platforms: [[Nintendo Switch]]
 Game Engine: [[Mercury Engine]]

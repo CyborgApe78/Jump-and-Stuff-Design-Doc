@@ -13,4 +13,4 @@ Type: [[Categories/Enemies]]
 Crawls along the wall
 
 ## Similar in other games
-* [[Mario]] [Spike Top](https://www.mariowiki.com/Spike_Top)
+* [[Mario Series]] [Spike Top](https://www.mariowiki.com/Spike_Top)

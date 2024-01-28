@@ -23,7 +23,7 @@ Type: [[Abilities and States]]
 * [[Dash Ground]]
 * [[Grapple Hook]]
 * [[Jump]]
-* [[Slide]]
+* [[Slide]] #WIP need to add this
 
 
 ### Update based
