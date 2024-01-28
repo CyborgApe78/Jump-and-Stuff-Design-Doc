@@ -15,7 +15,7 @@ Platforms: [[Microsoft Windows]]
 
 ## Likes
 * [[Customizable Difficulty]]
-* [[Hazards]] that don't damage, just reset to [[Last Safe Platform]]
+* [[Hazards]] that don't damage, just reset to [[Last Safe Ground]]
 * [[platforming|Platforming]] [[Platforming Challenge Rooms]]
 * [[Ability Combos]] [list](**https://lone-fungus.fandom.com/wiki/Skips_and_Tech**)
 * [[Charms]] [list](**https://lone-fungus.fandom.com/wiki/Relics**)

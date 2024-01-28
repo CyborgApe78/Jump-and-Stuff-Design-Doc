@@ -18,3 +18,7 @@ There needs to be a [[deadzone]] where the [[player]] can change directions with
 ## Similar in other games
 
 * [[Super Mario World]]
+
+### Videos
+* [How to Make a Good 2D Camera](https://www.youtube.com/watch?v=TdWFzpgnljs)
+* 

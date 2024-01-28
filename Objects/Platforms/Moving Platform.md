@@ -14,4 +14,4 @@ moves in specific direction when [[Player]] or [[Enemies]] land on. [[One way]]
 
 ## Similar in other games
 
-* [[Super Mario Odyssey]] #WIP find name
+* [[Super Mario Odyssey]] find name

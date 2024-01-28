@@ -21,6 +21,7 @@ Game Engine: [[Unity]]
 * No [[double jump]]
 * Can use [[grapple hook]] whenever
 * Button press near edge for [[ledge grab]]
+* moving [[Right Stick]] slows time for aiming
 
 ## Dislikes
 * 

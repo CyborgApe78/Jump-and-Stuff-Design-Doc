@@ -27,6 +27,7 @@ Composer: [[Sayako Doi]], [[Soshi Abe]]
 
 ## Dislikes
 * Game pauses whenever [[pickups]] are acquired
+* Lose [[momentum]] when [[Jump|jump]]
 
 ## [[Abilities]]
 * [[Grapple Hook]]
