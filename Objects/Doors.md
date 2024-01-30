@@ -11,7 +11,7 @@ Type: [[Objects]]
 ----
 
 
-[[Player]] uses a [[key]] to open
+[[Player]] uses a [[Key]] to open
 
 ## Similar in other games
 

@@ -5,7 +5,7 @@ https://github.com/CyborgApe78/Jump-and-Stuff
 
 [[Jumps]]
 
-A game world similar to [[Ori and the Blind Forest]], with a focus on [[platforming]] and [[exploration]], [[environmental hazards]], [[escape sequences]] instead of boss fights, and dungeons. Abilities will have ways to chain together to keep momentum going. [[Ori Series]] Series, [[Metroid Dread]], [[Prince of Persia Lost Crown]] movement abilities with the [[Super Mario Odyssey]] and [[Celeste]] ability combos. Built-in [[Randomizer]] to extend gameplay.
+A game world similar to [[Ori and the Blind Forest]], with a focus on [[platforming]] and [[exploration]], [[environmental hazards]], [[escape sequences]] instead of boss fights, and dungeons. Abilities will have ways to chain together to keep momentum going. [[Ori Series]] Series, [[Metroid Dread]], [[Prince of Persia Lost Crown]] movement abilities with the [[Super Mario Odyssey]] and [[Celeste]] [[Ability Interactions]]. Built-in [[Randomizer]] to extend gameplay.
 
 Happy and colorful world
 
@@ -25,6 +25,8 @@ Dream features:
 	* [[tag]], [[prop hunt]], [[co-op]]
 * [Archipelago Integration](https://archipelago.gg/)
 * [[Quick save]] like system for practicing
+* Dual screen (NDS) style touch screen on [[Steam Deck]]
+* [[Tracker]] pop out window for item tracking during randomizer
 
 [[Abilities and States]] [[Enemies]] [[Hazards]] [[Interactables]] [[Mechanics]] [[Objects]] [[Systems]]
 

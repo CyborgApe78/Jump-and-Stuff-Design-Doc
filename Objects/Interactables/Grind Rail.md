@@ -12,6 +12,8 @@ Type: [[Interactables]]
 
 [[Player]] follows [[Path2D]] using the [[Grind]] ability
 
+#WIP [[Interaction]] with [[grapple hook]] would be cool, like hanging down from it
+
 As a quick addendum to the resources above in case anyone winds up here with the same question as me:
 
 - The Path2D node is the parent, and in the UI you can set points that make up the path (this will be built as a Curve2D object which you can see in the Inspector)

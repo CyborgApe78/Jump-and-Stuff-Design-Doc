@@ -1,10 +1,10 @@
 ---
 tags:
-  - system
+  - menu
 ---
 # _Map_
 
-Type: [[Systems]]
+Type: [[Menus]]
 
 ----
 
