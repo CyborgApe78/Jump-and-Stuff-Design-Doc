@@ -14,6 +14,7 @@ When [[Fall|falling]] the [[Camera]] should lead downwards
 When [[idle]] the [[Player|player]] can move the [[Camera]] up and down
 There needs to be a [[deadzone]] where the [[player]] can change directions without the [[Camera]] flipping
 
+[Phantom Camera](https://github.com/ramokz/phantom-camera) will help with transitions
 
 ## Similar in other games
 

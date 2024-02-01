@@ -24,7 +24,7 @@ Dream features:
 * Multiplayer, like [[Super Mario Odyssey]] and [[Hollow Knight]]
 	* [[tag]], [[prop hunt]], [[co-op]]
 * [Archipelago Integration](https://archipelago.gg/)
-* [[Quick save]] like system for practicing
+* [[Quick Save]] like system for practicing
 * Dual screen (NDS) style touch screen on [[Steam Deck]]
 * [[Tracker]] pop out window for item tracking during randomizer
 
