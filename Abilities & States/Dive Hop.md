@@ -12,7 +12,7 @@ Type: [[Abilities and States]], [[Jumps]], [[Dives]]
 
 ----
 
-
+#WIP rename to dive boost
 [[Player]] [[Dive]]s out of [[Ground Pound]] for extra height and distance
 
 

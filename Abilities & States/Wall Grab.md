@@ -11,7 +11,7 @@ Type: [[Abilities and States]], [[Wall Interaction]]
 ----
 
 
-[[Player]] holds onto the wall
+[[Player]] holds onto the wall, probably remove this
 
 ## State Transitions
 

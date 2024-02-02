@@ -3,8 +3,6 @@
 
 https://github.com/CyborgApe78/Jump-and-Stuff
 
-[[Jumps]]
-
 A game world similar to [[Ori and the Blind Forest]], with a focus on [[platforming]] and [[exploration]], [[environmental hazards]], [[escape sequences]] instead of boss fights, and dungeons. Abilities will have ways to chain together to keep momentum going. [[Ori Series]] Series, [[Metroid Dread]], [[Prince of Persia Lost Crown]] movement abilities with the [[Super Mario Odyssey]] and [[Celeste]] [[Ability Interactions]]. Built-in [[Randomizer]] to extend gameplay.
 
 Happy and colorful world
