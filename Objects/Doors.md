@@ -12,6 +12,7 @@ Type: [[Objects]]
 
 
 [[Player]] uses a [[Key]] to open
+A [[collectibles]] door like in [[Banjo Series]]
 
 ## Similar in other games
 
