@@ -5,7 +5,7 @@ tags:
 ---
 # _Spiked Jumper_
 
-Type: [[Categories/Enemies]]
+Type: [[Enemies]]
 
 ----
 
