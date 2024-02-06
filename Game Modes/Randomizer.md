@@ -18,6 +18,7 @@ Need to decide between:
 ### Options
 * pick starting abilities
 * random spawn
+* [[Plando]] - lets you the items
 
 ### Usability features
 * button to show last 5 Pickups

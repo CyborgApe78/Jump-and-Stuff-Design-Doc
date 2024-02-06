@@ -16,13 +16,25 @@ tags:
 #### Other
 * https://github.com/bitbrain/beehave
 * https://github.com/derkork/godot-statecharts
-* https://github.com/nathanhoad/godot_dialogue_manager
 * https://github.com/KoBeWi/Godot-Instance-Dock
+* https://github.com/nathanhoad/godot_input_helper
+* https://github.com/BananaHolograma/connected
+* https://github.com/CoaguCo-Industries/GodotSteam
 
 #### Audio
 * https://github.com/FreekDS/GodotAudioEvents
 * https://github.com/StasysMusial/random-audio
+* https://github.com/hugemenace/resonate
+* https://github.com/nathanhoad/godot_sound_manager
 
 #### Timer
 * https://gitlab.com/Dritic/randomtimer
 * https://github.com/Keldowin/ExtendTimer
+
+#### Dialogue
+* https://github.com/dialogic-godot/dialogic
+* https://github.com/nathanhoad/godot_dialogue_manager
+
+#### Save
+* https://github.com/AdamKormos/SaveMadeEasy
+

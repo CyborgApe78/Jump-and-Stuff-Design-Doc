@@ -13,6 +13,7 @@ Type: [[Actor]]
 
 #WIP need to remove similar states
 	[[Shinespark]] and [[Dash Jump]]
+#WIP run over one tile gaps, slide over two
 ## [[Dash]]
 
 Currently [[Dash|dash]] has multiple version similar to [[Guacamelee Series]]
