@@ -12,6 +12,7 @@ Type: [[Abilities and States]]
 
 ----
 ==need to figure out input controls==
+	spin while dashing too burrow
 
 
 [[Player]] travels through sand and snow
@@ -21,7 +22,6 @@ Type: [[Abilities and States]]
 ## Similar in other games
 
 * [[Ori Series]]
-
 
 ## State Transitions
 

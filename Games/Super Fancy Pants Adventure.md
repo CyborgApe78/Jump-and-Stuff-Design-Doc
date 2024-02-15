@@ -12,7 +12,9 @@ Platforms: [[Android]], [[Microsoft Windows]], [[macOS]]
 
 ----
 
-
+slide/skate on a line that can move up and down, also vertical 
+	zipline, up and down movement
+	snow board (burrow), free movement, vs dash passage that locks controls
 
 
 

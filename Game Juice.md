@@ -13,3 +13,4 @@ animations on most things
 particles
 screen shake
 shock wave on dash
+In ori the world and platforms react to player 

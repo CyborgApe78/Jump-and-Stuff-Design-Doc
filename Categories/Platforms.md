@@ -41,6 +41,8 @@ Go down for a bit then up
 Player can steer them
 	Move side to side
 	Look at celeste for up and down
+Platform that changes direction when land on
+Platform needs to be hit before use. Odyssey clouds
 
 ```dataview
 table

@@ -6,10 +6,3 @@ tags: []
 Type: [[]]
 
 ----
-
-
-
-
-## Similar in other games
-
-* 

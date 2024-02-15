@@ -16,6 +16,7 @@ Type: [[Abilities and States]], [[Dash]], [[Jumps]]
 
 
 [[Player]] aim dashes out of crouch
+Ori keeps charge jump break box if quickly dash 
 
 
 ## Similar in other games

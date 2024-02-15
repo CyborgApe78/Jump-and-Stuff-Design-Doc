@@ -80,3 +80,29 @@ Dash -> wall jump
 ![](https://lh7-us.googleusercontent.com/rPChfq8xIzgHybGCqAyn-lD0UGSWPDautt4561CnIoeprMWN4rrzgsmSu5nUO4tZNasrlnYIuhNLElsGXv20GmEzDX3zDx7f-NybLaYSiEjBVdcUIxqi7swTOjBzFUY_qjCCo-yyvMtz8kDZubxqk2I)![](https://lh7-us.googleusercontent.com/dcplkz2_iDBu2W292IMee5Wugmfyx7R-ioK_RdSx8dqveM2Md_J9sO8RmgwHcXhp4_JgylmRuXKOfXDjcNX-iy8wYSckiBJkffOETMw_OoOiSOHpEq60isILObrHFjN70ZyjVy1tYOi2qmmiZEy-xVo)
 
 Ice upgrade plus speed boost lets you run on water
+
+jumps
+		Mario triple jump
+		Ground pound jump
+		Crouch jump
+	dash+jump
+		dash up and jump from wall give big boost
+		Jump dash jump for height 
+		Jump jump dash for distance
+	games to look at
+		https://www.kakuchopurei.com/2021/11/demon-turf-platforming-guide-how-to-conquer-the-underworld-with-sick-jumps/
+		https://www.ign.com/wikis/ori-and-the-will-of-the-wisps/Skills_(Spirit_Shards)
+		https://kb.speeddemosarchive.com/Ori/Techniques_and_Glitches
+		https://www.speedrun.com/ori_wotw/guide/i70ul
+		https://wiki.orirando.com/tutorials/https://hollowknight.fandom.com/wiki/Category:Charms
+		https://gamefaqs.gamespot.com/switch/200275-super-mario-odyssey/faqs/75301/controls
+		lone fungus
+		https://celeste.ink/wiki/Techniques
+		https://celestegame.fandom.com/wiki/Moves
+		https://a-robot-named-fight.fandom.com/wiki/Items
+		https://frackinuniverse.miraheze.org/wiki/Techs
+		https://frackinuniverse.fandom.com/wiki/Tech
+		https://starbounder.org/Tech
+		https://n.fandom.com/wiki/Tricks
+		https://warframe.fandom.com/wiki/Maneuvers
+		https://the-messenger.fandom.com/wiki/Cloudstep 

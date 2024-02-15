@@ -13,3 +13,11 @@ Type: [[Systems]]
 [[Randomizer]]
 [[Floor is lava]]
 [[Challenge Runs]]
+
+	Unlock dungeons 
+	Super short levels
+	Roguelike
+	Locked movesets
+	Survival
+	Random level order
+	Add ability every x levels

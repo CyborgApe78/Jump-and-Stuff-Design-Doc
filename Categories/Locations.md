@@ -9,12 +9,7 @@ Type: [[Locations]]
 ----
 
 
-
-
-## Similar in other games
-
-* 
-
+Forest maze area that has randomized areas
 
 ```dataview
 table

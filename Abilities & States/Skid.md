@@ -12,6 +12,7 @@ Type: [[Abilities and States]]
 
 
 [[Player]] slides before changes direction
+Store value of speed before skidding and return it if skids jump
 
 
 ## Similar in other games

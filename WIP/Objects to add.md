@@ -72,3 +72,11 @@ On/Off Blocks
 	platforms
 	hazard to platform switch
 	Has a certain number of switches to it disappears
+Parts of collectible. Celeste strawberry pieces
+Collectables follow like strawberries
+Conveyors vert and hori
+Chase the rabbit for collectable, mario
+Waterfalls can be an obstacle till you can burrow
+Ori like doors for areas and banjo note doors for shortcuts 
+Prince of Persia like ring to reset wall runs and climbs
+slippery slopes that you slide on, maybe upgrade to run on it

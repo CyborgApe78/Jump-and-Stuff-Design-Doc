@@ -20,35 +20,25 @@ Water breathe
 
 Elemental
 
-Attached to abilities
+Attached to abilities, like the ori rando adds melt to other abilities
 
 World interactions
 
-Fire
 
-melt blocks, light things
-
-Lightning
-
-Charge things
-
-Water
-
-extinguish or grow
-
-Freeze
-
-Frost Walk
-
-Jump between waterfalls
-
-Ride up water fountains
-
-Run on water with speed boost
-
-Make platforms out of enemies. 
-
-freeze water enemies
+elemental upgrades
+	Fire upgrade: 
+		melt blocks, light things
+		Maybe on spin
+	lightning
+		charge stuff
+	water
+		extinquish or grow
+	ice
+		water jump
+		water fall jumps
+		fountain ride up
+		Make platforms out of enemies. 
+			Freeze water enemies 
 
 ```dataview
 table
