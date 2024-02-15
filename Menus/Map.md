@@ -16,6 +16,10 @@ Show percent or what item pickups are missing
 Click on [[waypoints]] to [[fast travel]]
 Show [[collectibles]] after upgrade / difficulty setting / randomizer
 Show blocked walls a generic until have ability, then show what ability opens
+dread shows lots of details about ability gates
+user placable reminders
+	add notes
+Have button for going to town, changes to last place after going to town
 
 
 ### Games to look at:

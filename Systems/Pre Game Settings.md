@@ -11,10 +11,12 @@ Type: [[Systems]]
 
 Assist mode/options to tweak when making new game
 Modes:
-* [[Sandbox]], all [[abilities]] unlocked
-* [[Randomizer]]
-* [[Floor is lava]]
-* [[Challenge Runs]]
+```dataview
+table
+from #gameMode
+sort file.name asc
+```
+
 
 Accessability/game options
 	infinite jump

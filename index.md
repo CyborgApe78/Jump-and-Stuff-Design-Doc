@@ -25,6 +25,7 @@ Dream features:
 * [[Quick Save]] like system for practicing
 * Dual screen (NDS) style touch screen on [[Steam Deck]]
 * [[Tracker]] pop out window for item tracking during randomizer
+* Add external [[music]] use like [[Donkey Kong 64]] music randomizer
 
 [[Abilities and States]] [[Enemies]] [[Hazards]] [[Interactables]] [[Mechanics]] [[Objects]] [[Systems]]
 

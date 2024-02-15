@@ -12,7 +12,13 @@ Type: [[Enemies]], [[Hazards]], [[WIP]]
 
 Water/lava/acid pipes that come from the background
 Crab from [[Prince of Persia Lost Crown]]
-
+badoline like
+Mario buzzy beetle
+Charging chuck
+Enemy like bombs or celeste monster. Two stage enemies that explosion that moves player or temp platform 
+arrow/bullet bill like
+	front kills, but back is a platform
+[[Super Mario Wonder]] inspired platform from projectile
 
 ## Games to look at
 
@@ -22,4 +28,4 @@ Crab from [[Prince of Persia Lost Crown]]
 * [Hollow Knight](https://hollowknight.wiki/w/Category:Enemies_(Hollow_Knight))
 * [Mario](https://www.mariowiki.com/List_of_enemies)
 * [Megaman](https://megaman.fandom.com/wiki/List_of_enemies)
-* 
+* https://megaman.fandom.com/wiki/Category:Enemies

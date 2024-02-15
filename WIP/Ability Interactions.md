@@ -7,6 +7,10 @@ Type: [[]]
 
 ----
 
+## Extended long jump  
+	Cavern of dreams does ground attack to jump  
+	Celeste has wavedashing
+
 ## Dive/Roll
 
 Pressing dive just before landing to keep speed into roll
