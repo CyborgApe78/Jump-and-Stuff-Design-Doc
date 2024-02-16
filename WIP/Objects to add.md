@@ -19,7 +19,6 @@ Player can use to jump up the same wall
 [Mario Platforms](https://www.mariowiki.com/Category:Platforms)
 [Mario Blocks](https://www.mariowiki.com/Category:Blocks)
 
-Make inverse of floating platform
 disappear after leaving
 Environmental blocks that cause to use a ability they learn later
 	High jump plants before increase jump height, aimable barrels before bash
