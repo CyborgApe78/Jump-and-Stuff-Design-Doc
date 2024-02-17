@@ -2,17 +2,19 @@
 tags:
   - game
 ---
-# _Ori and the Will of the Wisps
+<img src="https://cdn2.steamgriddb.com/thumb/cf1d15ac3ce0255dd636fb020e51a23a.jpg">
 
-Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
 Series: [[Ori Series]]
 Developer: [[Moon Studios]]
+Genre: [[2D Platformer]], [[Metroidvania]]
 Release Date: [[March 11]], [[2020]]
 Platforms: [[Nintendo Switch]], [[Xbox One]], [[Microsoft Windows]], [[Xbox Series X and S]], [[Xbox Cloud Gaming]]
 Game Engine: [[Unity]]
 Composer: [[Gareth Coker]]
 
 ----
+
+Play the critically acclaimed masterpiece. Embark on a new journey in a vast, exotic world where you’ll encounter towering enemies and challenging puzzles on your quest to unravel Ori’s destiny.
 
 [Move tech](https://www.speedrun.com/ori_wotw/guide/pp1zv) [More](https://www.speedrun.com/ori_wotw/guide/i70ul](https://www.speedrun.com/ori_wotw/guide/i70ul)
 [[Charms]] [list](https://www.ign.com/wikis/ori-and-the-will-of-the-wisps/Skills_(Spirit_Shards))

@@ -3,19 +3,17 @@ tags:
   - inspiration
   - game
 ---
-# _Guacamelee 2_
+<img src="https://cdn2.steamgriddb.com/thumb/b69332f6eb354ca14fe70ed07e544000.jpg">
 
-Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
 Series: [[Guacamelee Series]]
 Developer: [[Drink Box Studio]]
+Genre: [[2D Platformer]], [[Metroidvania]]
 Release Date: [[August 21]], [[2018]]
 Platforms: [[Nintendo Switch]], [[Xbox One]], [[Playstation 4]], [[Microsoft Windows]]
 
 ----
 
-
-
-
+Head back to the Mexiverse in this long-awaited sequel to the smash hit Guacamelee! Uppercut your way to victory across stunning new hand-crafted levels. Featuring a dense and colorful world, new luchador moves, sassy new bosses, twice the enemies, and 300% more chickens!
 
 ## Likes
 * Abilities were used for fighting and unlock areas

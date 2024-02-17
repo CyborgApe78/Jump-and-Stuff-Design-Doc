@@ -1,18 +1,16 @@
 ---
 tags:
 ---
-# __
+<img src="">
 
-Type: [[]]
 Series: [[]]
 Developer: [[]]
+Genre: [[]]
 Release Date: [[]]
 Platforms: [[]]
 Game Engine: [[]]
 
 ----
-
-
 
 
 

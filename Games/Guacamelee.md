@@ -3,20 +3,18 @@ tags:
   - inspiration
   - game
 ---
-# _Guacamelee_
+<img src="https://cdn2.steamgriddb.com/thumb/4248cd0c5a66d5d9f1976d87666537c0.jpg">
 
-Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
 Series: [[Guacamelee Series]]
 Developer: [[Drink Box Studio]]
+Genre: [[2D Platformer]], [[Metroidvania]]
 Release Date: [[April 9]], [[2013]]
 Platforms: [[Nintendo Switch]], [[Xbox One]], [[Playstation 4]], [[Microsoft Windows]], [[Playstation 3]], [[Xbox 360]], [[Playstation Vita]], [[macOS]], [[Wii U]]
 Composer: [[Rom Di Prisco]]
 
 ----
 
-
-
-
+Guacamelee! is a Metroidvania-style action-platformer set in a magical Mexican-inspired world. The game draws its inspiration from traditional Mexican culture and folklore, and features many interesting and unique characters
 
 ## Likes
 * Abilities were used for fighting and unlock areas

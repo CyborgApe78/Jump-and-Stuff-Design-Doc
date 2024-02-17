@@ -2,10 +2,10 @@
 tags:
   - game
 ---
-# _Ori and the Blind Forest_
+<img src="https://cdn2.steamgriddb.com/thumb/dfe12e78a966e3c32ffc9feb2d7ad3b3.jpg">
 
-Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
 Series: [[Ori Series]]
+Genre: [[2D Platformer]], [[Metroidvania]]
 Developer: [[Moon Studios]]
 Release Date: [[March 10]], [[2015]]
 Platforms: [[Nintendo Switch]], [[Xbox One]], [[Microsoft Windows]], [[Xbox 360]]
@@ -14,6 +14,7 @@ Composer: [[Gareth Coker]]
 
 ----
 
+“Ori and the Blind Forest” tells the tale of a young orphan destined for heroics, through a visually stunning Action-Platformer crafted by Moon Studios
 
 [Move tech](https://kb.speeddemosarchive.com/Ori/Techniques_and_Glitches) [More](https://wiki.orirando.com/tutorials/)
 

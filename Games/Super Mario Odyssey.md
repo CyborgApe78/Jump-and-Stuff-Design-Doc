@@ -3,18 +3,16 @@ tags:
   - inspiration
   - game
 ---
-# _Super Mario Odyssey_
+<img src="https://cdn2.steamgriddb.com/thumb/492271977f11cd1a81292e3aa117fb19.jpg">
 
-Type: [[Game]], [[2D Platformer]], [[3D Platformer]]
 Series: [[Mario Series]]
 Developer: [[Nintendo]]
+Genre: [[3D Platformer]]
 Release Date: [[October 27]], [[2017]]
 Platforms: [[Nintendo Switch]]
 Composer: [[Koji Kondo]], [[Shiho Fujii]], [[Naoto Kubo]]
 
 ----
-
-
 
 
 ## Likes

@@ -3,11 +3,11 @@ tags:
   - inspiration
   - game
 ---
-# _Prince of Persia: The Lost Crown_
+<img src="https://cdn2.steamgriddb.com/thumb/8dfba1e765b1bb4ea2e1aa0c92ce470d.jpg">
 
-Type: [[Game]], [[2D Platformer]], [[3D Platformer]], [[Metroidvania]]
-Series: [[Prince of Persia]], [[2D Platformer]]
+Series: [[Prince of Persia]]
 Developer: [[Ubisoft]]
+Genre: [[2D Platformer]], [[3D Platformer]], [[Metroidvania]]
 Release Date: [[January 18]], [[2024]]
 Platforms: [[Nintendo Switch]], [[Xbox One]], [[Microsoft Windows]], [[Xbox Series X and S]], [[Playstation 5]], [[Playstation 4]]
 Composer: [[Gareth Coker]], [[Metrix]]

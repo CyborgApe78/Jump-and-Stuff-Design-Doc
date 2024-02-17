@@ -2,7 +2,7 @@
 tags:
   - "#game"
 ---
-# _Donkey Kong Tropical Freeze_
+<img src="https://cdn2.steamgriddb.com/thumb/91270e97491a918496e6569c9fcff808.jpg">
 
 Type: [[Game]], [[2D Platformer]]
 Series: [[Donkey Kong]]
@@ -13,7 +13,7 @@ Composer: [[David Wise]]
 
 ----
 
-
+<img src="">
 
 
 

@@ -2,7 +2,7 @@
 tags:
   - "#game"
 ---
-# _Disney Illusion Island_
+<img src="https://cdn2.steamgriddb.com/thumb/0ec009e358ac556a395f37aece26347d.jpg">
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]], [[Collect-A-Thon]]
 Developer: [[Disney]]
@@ -11,10 +11,6 @@ Platforms: [[Nintendo Switch]]
 Composer: [[ David Housden]]
 
 ----
-
-
-
-
 
 ## Likes
 * Platforming bosses

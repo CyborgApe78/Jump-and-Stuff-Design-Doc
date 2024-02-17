@@ -2,7 +2,7 @@
 tags:
   - game
 ---
-# _Metroid Dread_
+<img src="https://cdn2.steamgriddb.com/thumb/38cfea09e10bd786ff870d78de0cb62b.png">
 
 Type: [[Game]], [[2D Platformer]], [[Metroidvania]]
 Series: [[Metroid Series]]
@@ -13,10 +13,6 @@ Game Engine: [[Mercury Engine]]
 Composer: [[Sayako Doi]], [[Soshi Abe]]
 
 ----
-
-
-
-
 
 ## Likes
 * [[Fluid Movement]]

@@ -2,16 +2,16 @@
 tags:
   - game
 ---
-# _Lone Fungus_
+<img src="https://cdn2.steamgriddb.com/thumb/454449bb6815fe39d3ad6f5e8fa610a8.jpg">
 
-Type: [[Game]], [[2D Platformer]], [[Metroidvania]], [[Indie]]
 Developer: [[Basti Games]]
+Genre: [[2D Platformer]], [[Metroidvania]]
 Release Date: [[April 7]], [[2023]]
 Platforms: [[Microsoft Windows]]
 
 ----
 
-
+A handcrafted open-world platformer set in a world built by Mushrooms! Explore different locations filled with secrets, acquire new abilities and use those abilities to reach new places!
 
 ## Likes
 * [[Customizable Difficulty]]
