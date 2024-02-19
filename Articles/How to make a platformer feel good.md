@@ -8,6 +8,26 @@ Type: [[Articles]]
 
 ----
 
+### Coyote Time
+
+Jump after leaving ground
+also useful for wall jump
+
+### Jump Buffer
+
+### Half Gravity at Apex
+
+### Corner Correction
+
+### Extended wall detection for wall jumps
+
+###  Variable Jump Height
+
+### Faster at apex
+
+### Clamp Fall Speed
+
+
 Basic feel goods to add
 	Sticky feet on land
 		Will need accel and decel first
