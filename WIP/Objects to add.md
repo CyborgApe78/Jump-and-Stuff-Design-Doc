@@ -16,6 +16,7 @@ Player can use to jump up the same wall
 * [[The End is Neigh]]
 
 [Celeste Modding](https://gamebanana.com/mods/cats/5081?)
+[Celeste Mechanics](https://celeste.ink/wiki/Mechanics)
 [Mario Platforms](https://www.mariowiki.com/Category:Platforms)
 [Mario Blocks](https://www.mariowiki.com/Category:Blocks)
 
