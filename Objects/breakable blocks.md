@@ -13,7 +13,7 @@ Type: [[Objects]]
 ----
 
 
-Blocks that can be broken with [[abilities]]
+Blocks that can be broken with [[Abilities]]
 
 ## Similar in other games
 

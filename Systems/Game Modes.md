@@ -9,7 +9,7 @@ Type: [[Systems]]
 ----
 
 [[Balloon Hunt]] from [[Super Mario Odyssey]]
-[[Sandbox]], all [[abilities]] unlocked
+[[Sandbox]], all [[Abilities]] unlocked
 [[Randomizer]]
 [[Floor is lava]]
 [[Challenge Runs]]

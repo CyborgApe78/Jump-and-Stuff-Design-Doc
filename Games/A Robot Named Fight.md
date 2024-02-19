@@ -16,7 +16,7 @@ Genre: [[Roguelike]], [[Metroidvania]]
 A Robot Named Fight is a Metroidvania roguelike focused on exploration and item collection. Explore a different, procedurally-generated labyrinth each time you play and discover randomized power-ups to traverse obstacles, find secrets and explode meat beasts.
 
 ## Likes
-* Various of [[abilities]] and [[Upgrades]] [list](https://a-robot-named-fight.fandom.com/wiki/Items)
+* Various of [[Abilities]] and [[Upgrades]] [list](https://a-robot-named-fight.fandom.com/wiki/Items)
 
 ## Dislikes
 * 

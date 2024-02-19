@@ -9,7 +9,7 @@ Type: [[Controls]]
 ----
 
 
-The [[right stick]] is used for [[aim|aiming]], so [[abilities]] that need to be [[aimed]] should be on the [[triggers]] or [[back buttons]] so the [[player]] can keep moving
+The [[right stick]] is used for [[aim|aiming]], so [[Abilities]] that need to be [[aimed]] should be on the [[triggers]] or [[back buttons]] so the [[player]] can keep moving
 
 
 ```dataview

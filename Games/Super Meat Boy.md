@@ -12,7 +12,8 @@ Composer: [[Danny Baranowsky]]
 
 ----
 
-The infamous, tough-as-nails platformer comes to Steam with a playable Head Crab character (Steam-exclusive)!
+Super Meat Boy is a tough as nails platformer where you play as an animated cube of meat who's trying to save his girlfriend (who happens to be made of bandages) from an evil fetus in a jar wearing a tux.
+
 ## Likes
 * Platform and hazard distinction. Platforms are straight lines and hazards are curved
 

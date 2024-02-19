@@ -8,7 +8,7 @@ Type: [[Systems]]
 
 ----
 
-Tracks the [[abilities]] and [[Upgrades|upgrades]] unlocked
+Tracks the [[Abilities]] and [[Upgrades|upgrades]] unlocked
 
 
 ## Similar in other games
