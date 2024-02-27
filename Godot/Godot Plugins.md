@@ -20,6 +20,9 @@ tags:
 * https://github.com/nathanhoad/godot_input_helper
 * https://github.com/BananaHolograma/connected
 * https://github.com/CoaguCo-Industries/GodotSteam
+* https://github.com/SilicDev/GodotCrowdControl?tab=readme-ov-file
+* https://github.com/cloudofoz/godot-linepath-2d
+* https://github.com/9thAzure/Complex_Shape_Creation
 
 #### Audio
 * https://github.com/FreekDS/GodotAudioEvents

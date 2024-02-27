@@ -27,7 +27,7 @@ Environmental blocks that cause to use a ability they learn later
 https://www.mariowiki.com/List_of_items
 boost pads
 	increased speed and no stopping for duration
-mario odyssey fling things (forks, traffice cones)
+mario odyssey fling things (forks, traffic cones)
 	can use grapple on it
 Sheepo blocks
 	enter then choose fire angle

@@ -16,19 +16,32 @@ SteamWorld Dig is back! Dig deep, gain riches and unearth the terrors of the und
 
 ## Likes
 * Ability upgrades
-* [[Dungeons]
+* [[Dungeons]]
+	* final challenge with [[restricted abilities]]
+* [[Grapple Hook]] can a grab most surfaces and can extend beyond screen
+* Lots of [[upgrades]], with lots of [[upgrade slots]], called cogs
+* Collectible [[artifacts]] that are references to things
+* Encourage [[sequence breaks]]
 
 ## Dislikes
 * 
 
 ## [[Abilities]]
-* 
+* [[Jetpack]]
+* [[Grapple Hook]] more of a hook shoot
+* [[Ranged Explosive]]
+* [[Drill]]
+* [[Sprint]]
+* [[Fire Ax]]
 
 ## [[Hazards]]
-* 
+* [[Lava]]
+* [[Acid]]
+* [[Spike]]
 
 ## [[Categories/Enemies]]
-* 
-
+* [[Spike E Top]] like
+* Bird that jumps at player
+* Snail that fires spikes and rolls at the player and [[breakable blocks|break block]]
 ## Features for my game
 * 
