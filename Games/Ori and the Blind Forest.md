@@ -31,6 +31,9 @@ Composer: [[Gareth Coker]]
 
 ## Dislikes
 * Spirit fire, [[attack]], should not have been included
+* Randomizer
+	* you can get additional jumps and get triple jump before finding double jump
+		* it should be a progressive upgrade
 
 ## [[Abilities]]
 * [[Dash]]
