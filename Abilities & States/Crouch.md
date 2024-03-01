@@ -6,12 +6,12 @@ tags:
 ---
 # _Crouch_
 
-Type: [[Abilities and States]], [[Crouches]]
+Type: [[Abilities]], [[Crouches]], [[States]]
 
 ----
 
 
-[[Player]] is one [[tile]] tall and lower [[friction]]
+shrinks to one [[tile]] tall and lower [[friction]]
 
 
 ## Similar in other games

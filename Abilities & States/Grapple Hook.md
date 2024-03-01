@@ -2,16 +2,15 @@
 tags:
   - ability
   - "#state"
-  - ori
 ---
 # _Grapple Hook_
 
-Type: [[Abilities and States]]
+Type: [[Abilities]], [[States]]
 
 ----
 
 
-[[Player]] is pulled toward target
+pulled toward target
 #WIP would be cool to have grapple and hook shot
 #WIP pressing grapple while moving to target to cancel
 
@@ -40,7 +39,7 @@ Pulled to enemies
 	* [[free aim]]
 	* [[Stat upgrades]] upgrade length
 * [[Super Mario Wonder]]
-	* [[Charms|Badge]] that fires in a straight line from [[Player|player]] 
+	* [[Charms|Badge]] that fires in a straight line from
 	* can [[corner boost]]
 * [[Metroid Dread]]
 	* certain [[wall]]s can be grappled

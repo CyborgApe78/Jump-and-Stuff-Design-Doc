@@ -3,16 +3,15 @@ tags:
   - ability
   - "#state"
   - jumps
-  - mario
 ---
 # _Jump Crouch_
 
-Type: [[Abilities and States]], [[Jumps]], [[Crouches]]
+Type: [[Abilities]], [[Jumps]], [[Crouches]], [[States]]
 
 ----
 
 
-[[Player]] keeps the one [[tile]] size for a jump
+keeps the one [[tile]] size for a jump
 
 
 ## Similar in other games

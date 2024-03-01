@@ -9,7 +9,7 @@ Type: [[Platforms]]
 ----
 
 
-Expands when the [[Player]] or [[Categories/Enemies]] land on it
+Expands when the [[Actor]]s land on it
 
 ## Similar in other games
 

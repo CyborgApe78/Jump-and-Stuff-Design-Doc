@@ -4,7 +4,7 @@ tags:
 ---
 # _Locations_
 
-Type: [[Locations]]
+Type: [[Category]]
 
 ----
 

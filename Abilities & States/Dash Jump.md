@@ -10,12 +10,12 @@ aliases:
 ---
 # _Dash Jump_
 
-Type: [[Abilities and States]], [[Dash]], [[Jumps]]
+Type: [[Abilities]], [[Dashes]], [[Jumps]], [[States]]
 
 ----
 
 
-[[Player]] aim dashes out of crouch
+aim dashes out of crouch
 Ori keeps charge jump break box if quickly dash 
 
 

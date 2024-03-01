@@ -2,28 +2,28 @@
 tags:
   - ability
   - state
+  - "#WIP"
+aliases: []
 ---
-# _Trapeze_
+# _Pogo_
 
 Type: [[Abilities]], [[States]]
 
 ----
 
-
-swings around [[Trapeze Bar]]
+for bouncing off [[ground]] / [[wall]]
 
 
 ## Similar in other games
 
-* [[Mario Series]]
-* [[Prince of Persia Lost Crown]]
-
+* [[Donkey Kong Tropical Freeze]]
+* [[Lone Fungus]]
 
 ## State Transitions
 
 ### Input based
 
-* [[Jump]]
+* 
 
 ### Update based
 

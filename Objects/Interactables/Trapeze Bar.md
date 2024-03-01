@@ -9,7 +9,7 @@ Type: [[Interactables]]
 ----
 
 
-[[Player]] swings around it using [[Trapeze]]
+swings around it using [[Trapeze]]
 [[Grapple Hook]] can pull to it
 
 ## Similar in other games

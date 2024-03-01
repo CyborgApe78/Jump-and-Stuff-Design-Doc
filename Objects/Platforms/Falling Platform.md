@@ -9,7 +9,7 @@ Type: [[Platforms]]
 ----
 
 
-falls when the [[Player]] or [[Categories/Enemies]] land on it. [[One way]]
+falls when the [[Actor]]s land on it. [[One way]]
 
 
 ## Similar in other games

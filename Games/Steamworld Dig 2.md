@@ -21,7 +21,7 @@ SteamWorld Dig is back! Dig deep, gain riches and unearth the terrors of the und
 * [[Grapple Hook]] can a grab most surfaces and can extend beyond screen
 * Lots of [[upgrades]], with lots of [[upgrade slots]], called cogs
 * Collectible [[artifacts]] that are references to things
-* Encourage [[sequence breaks]]
+* Encouraged [[sequence breaks]]
 
 ## Dislikes
 * 

@@ -1,17 +1,15 @@
 ---
 tags:
   - state
-  - ability
-  - "#mario"
 ---
 # _Bonk_
 
-Type: [[Abilities and States]]
+Type: [[States]]
 
 ----
 
 
-[[Player]] hits the wall or ground at greater than [[move speed]]
+Hits the wall or ground at greater than [[move speed]]
 
 
 ## Similar in other games

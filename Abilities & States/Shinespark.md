@@ -6,7 +6,7 @@ tags:
 ---
 # _Shinespark_
 
-Type: [[Abilities and States]]
+Type: [[Abilities]], [[States]]
 
 ----
 

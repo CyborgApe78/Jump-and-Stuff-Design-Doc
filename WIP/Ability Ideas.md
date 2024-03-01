@@ -14,7 +14,7 @@ Use grapple to activate platforms, like cappy
 Ledge grab, slide off Ledge with grab pressed to grab before falling off
 ledge grab, but needs to auto move when holding direction
 step over 1 tall ground
-an upgrade like in [[Haak]] for onmi directional 
+phase through walls, [[Celeste]] [[Strawberry Jam]]
 
 Stacking stronger upgrades is fun?  
 Dk 64 slams, just new color  

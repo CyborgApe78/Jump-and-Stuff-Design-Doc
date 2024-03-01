@@ -4,6 +4,10 @@ tags:
 ---
 # _Inspirations_
 
+Type: [[Category]]
+
+----
+
 Games that have inspired me to make a game
 
 ```dataview

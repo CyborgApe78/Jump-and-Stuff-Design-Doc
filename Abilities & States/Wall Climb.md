@@ -7,7 +7,7 @@ tags:
 ---
 # _Wall Climb_
 
-Type: [[Abilities and States]], [[Wall Interaction]]
+Type: [[Abilities]], [[Wall Interaction]], [[States]]
 
 ----
 

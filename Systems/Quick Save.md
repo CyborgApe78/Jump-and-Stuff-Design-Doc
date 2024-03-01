@@ -9,4 +9,4 @@ Type: [[Systems]]
 ----
 
 
-Save the position of what is in the scene, so the [[player]] can practice things
+Save the position of what is in the scene, for practicing things

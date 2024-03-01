@@ -3,16 +3,15 @@ tags:
   - ability
   - "#state"
   - dashes
-  - slides
 ---
 # _Belly Slide Dash_
 
-Type: [[Abilities and States]], [[Dash]]
+Type: [[Abilities]], [[Dashes]], [[States]]
 
 ----
 
 
-[[Player]] has increased speed while sliding
+Increased speed while sliding
 
 
 ## State Transitions

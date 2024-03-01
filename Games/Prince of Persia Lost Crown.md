@@ -19,8 +19,8 @@ Dash into a stylish and thrilling action-adventure platformer set in a mythologi
 [Speed Tech List](https://docs.google.com/document/d/1AqcPYkCsy2LehYHNLWPKLBQLMbF8X2sBQvRGw2OT_YM/edit?usp=sharing)
 
 ## Likes
-* [[Dash]] with no input is a [[dodge]] back
-* [[Dash]] on ground is a [[slide]]
+* [[Dashes]] with no input is a [[dodge]] back
+* [[Dashes]] on ground is a [[slide]]
 * [[Screenshot]] placed on the map
 * Back plus jump is a [[back flip]]
 * [[Sprint]] out of a [[slide]]
@@ -33,7 +33,7 @@ Dash into a stylish and thrilling action-adventure platformer set in a mythologi
 * No [[momentum]]
 
 ## [[Abilities]]
-* [[Dash]] - no input is dodge back, on ground is slide, otherwise only horizontal
+* [[Dashes]] - no input is dodge back, on ground is slide, otherwise only horizontal
 * [[Teleport]] / [[Rewind Time]]
 * [[Bow and Arrow]]
 * [[Chakram]]
@@ -55,4 +55,4 @@ Dash into a stylish and thrilling action-adventure platformer set in a mythologi
 
 ## [[Platforms]]
 * React to [[move direction]]
-* Turn [[on/off]] from [[Player]] interaction
+* Turn [[on/off]] from interaction

@@ -4,6 +4,9 @@ tags:
 ---
 # _Mechanics_
 
+Type: [[Category]]
+
+----
 
 
 ```dataview

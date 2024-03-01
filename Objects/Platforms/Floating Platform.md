@@ -9,7 +9,7 @@ Type: [[Platforms]]
 ----
 
 
-sinks down when [[Player]] or [[Categories/Enemies]] land on. raises back up after leaving. [[One way]]
+sinks down when [[Actor]]s land on. raises back up after leaving. [[One way]]
 
 Inverse makes the platform rise when standing on
 

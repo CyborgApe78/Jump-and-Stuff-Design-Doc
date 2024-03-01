@@ -29,7 +29,7 @@ Help Madeline survive her inner demons on her journey to the top of Celeste Moun
 * 
   
 ## [[Abilities]]
-* [[Dash]]
+* [[Dashes]]
 * [[Jump]]
 * [[Wall Grab]]
 
@@ -40,5 +40,5 @@ Help Madeline survive her inner demons on her journey to the top of Celeste Moun
 * 
 
 ## [[Platforms]]
-* React to [[dash]]
+* React to [[Dashes]]
 * 

@@ -36,7 +36,7 @@ Composer: [[Gareth Coker]]
 		* it should be a progressive upgrade
 
 ## [[Abilities]]
-* [[Dash]]
+* [[Dashes]]
 * [[Grenade]], called [[Light Burst]]
 * [[Bash]]
 * [[Double Jump]]

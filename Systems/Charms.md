@@ -14,7 +14,7 @@ Type: [[Systems]]
 
 ----
 
-Interchangeable [[Upgrades]] for the [[Player|player]]
+Interchangeable [[Upgrades]]
 
 	Skates, doesnt moving
 	Look into mario character abilities and power ups

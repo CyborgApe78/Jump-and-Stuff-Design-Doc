@@ -3,16 +3,15 @@ tags:
   - "#ability"
   - state
   - waterinteraction
-  - ori
 ---
 # _Swim Dash_
 
-Type: [[Abilities and States]], [[Water Interaction]], [[Dash]]
+Type: [[Abilities]], [[Water Interaction]], [[Dashes]], [[States]]
 
 ----
 
 
-[[Player]] dashes in [[Water]]
+dashes in [[Water]]
 
 
 ## Similar in other games

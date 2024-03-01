@@ -26,5 +26,5 @@ Dream features:
 * [[Tracker]] pop out window for item tracking during randomizer
 * Add external [[music]] use like [[Donkey Kong 64]] music randomizer
 
-[[Abilities and States]] [[Enemies]] [[Hazards]] [[Interactables]] [[Mechanics]] [[Objects]] [[Systems]]
+[[Abilities]] [[Upgrades]] [[Enemies]] [[Hazards]] [[Interactables]] [[Mechanics]] [[Objects]] [[Systems]]
 

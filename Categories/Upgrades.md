@@ -3,27 +3,26 @@ tags:
   - category
 aliases:
   - upgrade
+  - upgrades
 ---
 # _Upgrades_
 
-Environmental Protections
+Type: [[Category]]
 
-water, fire, acid, Lightning, lava, cold
+----
 
-blue x parasite from fusion
+[[Environmental Protections]]
+	[[Heat Resistance]]
+	[[Acid Protection]]
+	[[Cold Resistance]]
+	[[Lava Protection]]
+	[[Lightning Protection]]
 
-Light
+Light - See in dark places
 
-See in dark places
+[[Water breathing]]
 
-Water breathe
-
-Elemental
-
-Attached to abilities, like the ori rando adds melt to other abilities
-
-World interactions
-
+Attached to abilities, like the [[Ori and the Will of the Wisps]] [[Randomizer]] adds melt to other abilities
 
 elemental upgrades
 	Fire upgrade: 
@@ -32,7 +31,7 @@ elemental upgrades
 	lightning
 		charge stuff
 	water
-		extinquish or grow
+		extinguish or grow
 	ice
 		water jump
 		water fall jumps

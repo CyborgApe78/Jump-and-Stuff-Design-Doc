@@ -2,9 +2,9 @@
 tags:
   - category
 aliases:
-  - Environment
+  - state
 ---
-# _Environments_
+# _States_
 
 Type: [[Category]]
 
@@ -13,7 +13,6 @@ Type: [[Category]]
 
 ```dataview
 table
-from #environment 
+from #state 
 sort file.name asc
 ```
-

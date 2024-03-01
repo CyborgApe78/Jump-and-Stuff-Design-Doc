@@ -3,18 +3,15 @@ tags:
   - ability
   - "#state"
   - "#dashes"
-  - ori
-  - "#hollowknight"
-  - "#guacamelee"
 ---
 # _Dash Air_
 
-Type: [[Abilities and States]], [[Dash]]
+Type: [[Abilities]], [[Dashes]], [[States]]
 
 ----
 
 
-[[Player]] dashes sideways in the air
+dashes sideways in the air
 
 
 ## Similar in other games

@@ -4,6 +4,10 @@ tags:
 ---
 # _Systems_
 
+Type: [[Category]]
+
+----
+
 
 
 ```dataview

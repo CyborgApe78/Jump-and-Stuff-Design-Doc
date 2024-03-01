@@ -8,7 +8,7 @@ Type: [[Platforms]]
 
 ----
 
-Flips which side is active when [[Player|player]] [[Jump|jumps]]
+Flips which side is active from [[Jump|jumps]]
 #WIP figure a way for boosted up like in [[Super Mario Galaxy 2]]
 
 

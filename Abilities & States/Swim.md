@@ -3,16 +3,14 @@ tags:
   - ability
   - state
   - "#waterinteraction"
-  - ori
 ---
 # _Swim_
 
-Type: [[Abilities and States]], [[Water Interaction]]
+Type: [[Abilities]], [[Water Interaction]], [[States]]
 
 ----
 
-
-[[Player]] swims in [[Water]]
+swims in [[Water]]
 [[upgrades]] to go through different types; water, lava, poison
 
 

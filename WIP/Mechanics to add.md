@@ -13,3 +13,11 @@ Type: [[Mechanics]]
 
 [[Wall Run]]
 	Thinking about using with roll, like a spike upgrade
+
+run over one tile gaps, slide over two
+
+[[Water Jet]] that needs [[Swim Dash]] to move through
+	like [[Ori and the Will of the Wisps]]
+
+[[Wind Jet]] that needs [[Speed Boost]] to get through
+	like [[Metroid Dread]]

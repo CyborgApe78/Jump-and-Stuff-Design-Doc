@@ -6,7 +6,7 @@ tags:
 ---
 # _Wall Run_
 
-Type: [[Abilities and States]]
+Type: [[Abilities]], [[States]]
 
 ----
 

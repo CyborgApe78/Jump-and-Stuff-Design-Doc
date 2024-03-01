@@ -9,7 +9,7 @@ Type: [[Environments]]
 ----
 
 
-Pushes [[Player]] in a direction when using [[Glide]]
+Pushes in a direction when using [[Glide]]
 
 ## Similar in other games
 

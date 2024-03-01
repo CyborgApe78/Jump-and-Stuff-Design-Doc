@@ -4,18 +4,17 @@ tags:
   - state
   - "#jumps"
   - "#groundpounds"
-  - mario
 aliases:
   - Jump Ground Pound
 ---
 # _Jump Ground Pound_
 
-Type: [[Abilities and States]], [[Jumps]], [[Ground Pounds]]
+Type: [[Abilities]], [[Jumps]], [[Ground Pounds]], [[States]]
 
 ----
 
 
-[[Player]] [[jumps]] after [[Ground Pound]] to get a boosted jump
+ [[jumps]] after [[Ground Pound]] to get a boosted jump
 
 
 ## Similar in other games

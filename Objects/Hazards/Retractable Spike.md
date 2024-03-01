@@ -9,7 +9,7 @@ Type: [[Hazards]]
 ----
 
 
-Extends when [[Player]] or [[Categories/Enemies]] move past
+Extends when [[Actor]]s move past
 Uses [[ActorDetector]]
 
 ## Similar in other games

@@ -3,18 +3,15 @@ tags:
   - "#ability"
   - "#state"
   - dashes
-  - ori
-  - guacamelee
-  - hollowknight
 ---
 # _Dash Ground_
 
-Type: [[Abilities and States]], [[Dash]]
+Type: [[Abilities]], [[Dashes]], [[States]]
 
 ----
 
 
-[[Player]] dashes along the ground
+dashes along the ground
 
 
 ## Similar in other games

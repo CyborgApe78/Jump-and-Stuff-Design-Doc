@@ -4,16 +4,15 @@ tags:
   - state
   - jumps
   - "#slides"
-  - "#mario"
 ---
 # _Belly Slide Hop_
 
-Type: [[Abilities and States]], [[Jumps]], [[Slides]]
+Type: [[Abilities]], [[Jumps]], [[Slides]], [[States]]
 
 ----
 
 
-[[Player]] jumps while sliding on belly
+Jumps while sliding on belly
 
 
 ## Similar in other games

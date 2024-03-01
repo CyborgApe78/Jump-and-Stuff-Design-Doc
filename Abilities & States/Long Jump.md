@@ -3,16 +3,15 @@ tags:
   - "#ability"
   - "#state"
   - jumps
-  - mario
 ---
 # _Jump Long_
 
-Type: [[Abilities and States]], [[Jumps]]
+Type: [[Abilities]], [[Jumps]], [[States]]
 
 ----
 
 
-[[Player]] has a lower [[Jump]] height, but travels farther. From [[Crouch]]
+ lower [[Jump]] height, but travels farther. From [[Crouch]]
 
 **![](https://lh7-us.googleusercontent.com/8ONASE-vIE4-YMvxEiq8XwfDNB7mSzWg8gYagbmM56K8DTbBjdjn2qurtbTozEGFK51DwAdgab_DBO7qPHkPCxLv-GoQbbUQVicZXALqT0FybCW8vyRzQ86USwvS4ZZkBVwUmZ_pyhBT6C7y2QjirR0)**
 

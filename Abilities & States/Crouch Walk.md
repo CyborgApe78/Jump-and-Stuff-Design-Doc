@@ -3,16 +3,14 @@ tags:
   - "#ability"
   - state
   - "#crouches"
-  - mario
 ---
 # _Crouch Walk_
 
-Type: [[Abilities and States]] [[Crouches]]
+Type: [[Abilities]] [[Crouches]], [[States]]
 
 ----
 
-
-[[Player]] is one [[tile]] tall, slower [[move speed]] in [[move direction]]
+one [[tile]] tall, slower [[move speed]] in [[move direction]]
 
 
 ## Similar in other games

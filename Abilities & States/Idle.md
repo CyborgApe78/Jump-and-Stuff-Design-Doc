@@ -1,16 +1,13 @@
 ---
 tags:
-  - ability
   - "#state"
 ---
 # _Idle_
 
-Type: [[Abilities and States]]
+Type: [[States]]
 
 ----
 
-
-[[Player]] is not moving
 
 
 ## State Transitions

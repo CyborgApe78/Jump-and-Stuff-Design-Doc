@@ -1,18 +1,17 @@
 ---
 tags:
-  - ability
   - "#state"
   - jumps
 ---
 
 # _Jump Apex_
 
-Type: [[Abilities and States]], [[Jumps]]
+Type: [[Jumps]], [[States]]
 
 ----
 
 
-[[Player]] has slightly lower [[Gravity]]
+slightly lower [[Gravity]]
 
 
 ## Similar in other games

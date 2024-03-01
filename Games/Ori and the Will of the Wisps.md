@@ -35,7 +35,7 @@ Play the critically acclaimed masterpiece. Embark on a new journey in a vast, ex
 * [[Combat]] was fun, but would have preferred the focus on [[platforming]]
 
 ## [[Abilities]]
-* [[Dash]]
+* [[Dashes]]
 * [[Grenade]], called [[Light Burst]]
 * [[Bash]]
 * [[Double Jump]]

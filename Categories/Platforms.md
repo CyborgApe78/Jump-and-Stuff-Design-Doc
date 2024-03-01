@@ -4,6 +4,10 @@ tags:
 ---
 # _Platforms_
 
+Type: [[Category]]
+
+----
+
 #WIP :
 * disappears if that direction is pushed/facing
 [[Mario Series]] [platforms](https://www.mariowiki.com/Category:Platforms)

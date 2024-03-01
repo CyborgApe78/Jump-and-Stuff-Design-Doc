@@ -26,7 +26,7 @@ Forge your own path in Hollow Knight! An epic action adventure through a vast ru
 * 
 
 ## [[Abilities]]
-* [[Dash]]
+* [[Dashes]]
 * [[Dash Wall]] - Crystal Heart
 * [[Double Jump]]
 * [[Pogo]]

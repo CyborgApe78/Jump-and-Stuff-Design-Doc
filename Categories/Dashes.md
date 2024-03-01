@@ -2,9 +2,11 @@
 tags:
   - category
 aliases:
-  - Environment
+  - dash
+  - dashes
+  - Dash
 ---
-# _Environments_
+# _Dashes_
 
 Type: [[Category]]
 
@@ -13,7 +15,6 @@ Type: [[Category]]
 
 ```dataview
 table
-from #environment 
+from #dashes 
 sort file.name asc
 ```
-

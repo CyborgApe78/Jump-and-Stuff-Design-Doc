@@ -6,11 +6,11 @@ aliases:
 ---
 # _Fall_
 
-Type: [[Abilities and States]]
+Type: [[States]]
 
 ----
 
-[[Player]] falls to ground
+falls to ground
 
 ## State Transitions
 

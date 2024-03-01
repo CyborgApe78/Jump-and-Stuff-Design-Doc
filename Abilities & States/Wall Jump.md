@@ -4,21 +4,17 @@ tags:
   - state
   - jumps
   - "#wallinteraction"
-  - mario
-  - celeste
-  - ori
-  - guacamelee
 aliases:
   - Jump Wall
 ---
 # _Wall Jump_
 
-Type: [[Abilities and States]], [[Jumps]], [[Wall Interaction]]
+Type: [[Abilities]], [[Jumps]], [[Wall Interaction]], [[States]]
 
 ----
 
 
-[[Player]] jumps from the wall
+jumps from the wall
 Can jump on the same wall once without touching the ground
 
 Different jump arcs for up, down and away/no [[input]], similar to [[Super Fancy Pants Adventure]]

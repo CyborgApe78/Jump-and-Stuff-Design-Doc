@@ -9,12 +9,12 @@ aliases:
 ---
 # _Jump_
 
-Type: [[Abilities and States]], [[Jumps]]
+Type: [[Abilities]], [[Jumps]], [[States]]
 
 ----
 
 
-Add force to [[Player]] to [[Jump]] off surfaces. [[Gravity]] is added to player's velocity
+ [[Jump]] off surfaces. [[Gravity]] is added to player's velocity
 
 [[Jump Consecutive]] 
 

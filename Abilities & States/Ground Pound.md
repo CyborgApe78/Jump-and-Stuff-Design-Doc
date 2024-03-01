@@ -3,17 +3,15 @@ tags:
   - ability
   - state
   - groundpounds
-  - ori
-  - mario
 ---
 # _Ground Pound_
 
-Type: [[Abilities and States]], [[Ground Pounds]]
+Type: [[Abilities]], [[Ground Pounds]], [[States]]
 
 ----
 
 
-[[Player]] quickly falls toward ground
+quickly falls toward ground
 
 [[breakable blocks|break blocks]]
 

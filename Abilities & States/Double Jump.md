@@ -8,12 +8,11 @@ aliases:
 ---
 # _Double Jump_
 
-Type: [[Abilities and States]], [[Jumps]]
+Type: [[Abilities]], [[Jumps]], [[States]]
 
 ----
 
-
-[[Player]] [[Jump|jumps]] again in the air. 
+ [[Jump|jumps]] again in the air. 
 Unsure if going to keep it. Very common upgrade, but also boring. 
 
 

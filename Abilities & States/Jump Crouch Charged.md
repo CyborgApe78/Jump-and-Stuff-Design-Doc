@@ -3,16 +3,15 @@ tags:
   - "#ability"
   - "#state"
   - jumps
-  - ori
 ---
 # _Jump Crouch Charged_
 
-Type: [[Abilities and States]], [[Jumps]], [[Crouches]]
+Type: [[Abilities]], [[Jumps]], [[Crouches]], [[States]]
 
 ----
 
 
-[[Player]] jumps higher than [[Jump Crouch]]
+jumps higher than [[Jump Crouch]]
 
 **![](https://lh7-us.googleusercontent.com/wCWLqHhJql80kzmjeRS8AdMwNExS74VffDcBuT_zAdkCHzm-FaXGG5Op_ROgYkK07gxvagNE32_5yo7cVUuL0gjBLEpCoWHmZQ2WJHXXRNPI61d_FsvmyrUQaaDClt3lHc6PjN3Hm7QNm5EcMdOYGrc)**
 

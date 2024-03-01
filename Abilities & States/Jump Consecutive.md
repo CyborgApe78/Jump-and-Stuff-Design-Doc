@@ -1,14 +1,17 @@
 ---
 tags:
   - jumps
+  - state
+  - ability
 ---
-# __
+# _Jump Consecutive_
 
-Type: [[Jump|jumps]]
+Type: [[Abilities|Ability]], [[Jump]], [[States]]
 
 ----
 
-
+from [[Mario Series]]
+progressive jump height increase after consecutive jumps
 
 
 

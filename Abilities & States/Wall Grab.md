@@ -6,12 +6,11 @@ tags:
 ---
 # _Wall Grab_
 
-Type: [[Abilities and States]], [[Wall Interaction]]
+Type: [[Abilities]], [[Wall Interaction]], [[States]]
 
 ----
 
-
-[[Player]] holds onto the wall, probably remove this
+holds onto the wall, probably remove this
 
 ## State Transitions
 

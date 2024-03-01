@@ -9,7 +9,7 @@ Type: [[Hazards]], [[Systems]]
 ----
 
 
-[[Player]] is sent back to [[Last Safe Ground]] without taking [[damage]]
+sent back to [[Last Safe Ground]] without taking [[damage]]
 
 
 ## Similar in other games

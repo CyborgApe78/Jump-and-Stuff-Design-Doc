@@ -4,17 +4,15 @@ tags:
   - state
   - dashes
   - wallinteraction
-  - hollowknight
-  - guacamelee
 ---
 # _Dash Wall_
 
-Type: [[Abilities and States]], [[Dash]], [[Wall Interaction]]
+Type: [[Abilities]], [[Dashes]], [[Wall Interaction]], [[States]]
 
 ----
 
 
-[[Player]] dashes away from the wall
+dashes away from the wall
 
 
 ## Similar in other games

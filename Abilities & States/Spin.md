@@ -6,7 +6,7 @@ tags:
 ---
 # _Spin_
 
-Type: [[Abilities and States]]
+Type: [[Abilities]], [[States]]
 
 ----
 

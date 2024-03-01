@@ -4,6 +4,10 @@ tags:
 ---
 # _Enemies_
 
+Type: [[Category]]
+
+----
+
 
 
 ```dataview

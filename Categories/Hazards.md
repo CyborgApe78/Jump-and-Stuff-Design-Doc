@@ -2,12 +2,17 @@
 tags:
   - category
 ---
-# Abilities and States
+# _Hazards_
+
+Type: [[Category]]
+
+----
+
 
 
 ```dataview
 table
-from #ability
+from #hazard 
 sort file.name asc
 ```
 

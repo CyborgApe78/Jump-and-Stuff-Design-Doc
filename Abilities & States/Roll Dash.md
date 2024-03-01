@@ -7,12 +7,11 @@ tags:
 ---
 # _Roll Dash_
 
-Type: [[Abilities and States]], [[Rolls]], [[Dash]]
+Type: [[Abilities]], [[Rolls]], [[Dashes]], [[States]]
 
 ----
 
-
-[[Player]] speed is boosted during roll
+speed is boosted during roll
 
 
 ## State Transitions

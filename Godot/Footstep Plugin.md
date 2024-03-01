@@ -4,7 +4,7 @@ tags:
 ---
 # _Footstep Plugin_
 
-Type: [[]]
+Type: [[Godot]]
 
 ----
 

@@ -3,16 +3,15 @@ tags:
   - ability
   - "#state"
   - slides
-  - "#mario"
 ---
 # _Belly Slide_
 
-Type: [[Abilities and States]], [[Slides]]
+Type: [[Abilities]], [[Slides]], [[States]]
 
 ----
 
 
-[[Player]] slides along belly on the floor
+Slides along belly on the floor
 
 
 ## Similar in other games

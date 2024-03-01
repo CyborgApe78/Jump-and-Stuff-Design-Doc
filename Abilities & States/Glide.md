@@ -2,16 +2,15 @@
 tags:
   - "#ability"
   - "#state"
-  - "#ori"
 ---
 # _Glide_
 
-Type: [[Abilities and States]]
+Type: [[Abilities]], [[States]]
 
 ----
 
 
-[[Player]] fall is slow or pushed by [[wind]]
+fall is slow or pushed by [[wind]]
 great for keep velocity from other abilities
 Neutral directional input lets you keep momentum from previous states
 

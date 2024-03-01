@@ -9,7 +9,7 @@ Type: [[Platforms]]
 ----
 
 
-Changes direction after the [[Player]] or [[Categories/Enemies]] lands on it. [[One way]]
+Changes direction after the [[Actor]]s lands on it. [[One way]]
 
 
 ## Similar in other games

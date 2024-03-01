@@ -4,16 +4,15 @@ tags:
   - state
   - dashes
   - wallinteraction
-  - guacamelee
 ---
 # _Dash Climb_
 
-Type: [[Abilities and States]], [[Dash]], [[Wall Interaction]]
+Type: [[Abilities]], [[Dashes]], [[Wall Interaction]], [[States]]
 
 ----
 
 
-[[Player]] dashes up the wall
+dashes up the wall
 
 
 ## Similar in other games

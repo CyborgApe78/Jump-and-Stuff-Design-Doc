@@ -7,12 +7,12 @@ tags:
 ---
 # _Roll Jump_
 
-Type: [[Abilities and States]], [[Rolls]]
+Type: [[Abilities]], [[Rolls]], [[States]]
 
 ----
 
 
-[[Player]] jumps during roll
+jumps during roll
 
 
 ## State Transitions

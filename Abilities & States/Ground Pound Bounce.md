@@ -4,16 +4,15 @@ tags:
   - state
   - jumps
   - groundpounds
-  - mario
 ---
 # _Ground Pound Bounce_
 
-Type: [[Abilities and States]], [[Jumps]], [[Ground Pounds]]
+Type: [[Abilities]], [[Jumps]], [[Ground Pounds]], [[States]]
 
 ----
 
 
-[[Player]] bounces off the ground if ground pound is not held
+bounces off the ground if ground pound is not held
 
 
 ## Similar in other games

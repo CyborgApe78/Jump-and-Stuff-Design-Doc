@@ -4,16 +4,15 @@ tags:
   - state
   - "#dives"
   - "#jumps"
-  - "#mario"
 ---
 # _Dive Hop_
 
-Type: [[Abilities and States]], [[Jumps]], [[Dives]]
+Type: [[Abilities]], [[Jumps]], [[Dives]], [[States]]
 
 ----
 
 #WIP rename to dive boost
-[[Player]] [[Dive]]s out of [[Ground Pound]] for extra height and distance
+ [[Dive]]s out of [[Ground Pound]] for extra height and distance
 
 
 ## Similar in other games

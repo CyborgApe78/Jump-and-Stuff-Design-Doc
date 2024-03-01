@@ -1,17 +1,15 @@
 ---
 tags:
-  - ability
   - state
   - wallinteraction
 ---
 # _Wall Slide_
 
-Type: [[Abilities and States]], [[Wall Interaction]]
+Type: [[Wall Interaction]], [[States]]
 
 ----
 
-
-[[Player]] slides down wall
+slides down wall
 
 
 ## State Transitions

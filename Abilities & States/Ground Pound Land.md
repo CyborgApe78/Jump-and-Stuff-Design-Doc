@@ -6,12 +6,12 @@ tags:
 ---
 # _Ground Pound Land_
 
-Type: [[Abilities and States]], [[Ground Pounds]]
+Type: [[Ground Pounds]], [[States]]
 
 ----
 
 
-[[Player]] is locked after ground pound
+locked after ground pound
 
 ## State Transitions
 

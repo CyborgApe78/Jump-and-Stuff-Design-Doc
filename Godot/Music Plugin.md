@@ -4,7 +4,7 @@ tags:
 ---
 # _Music Plugin_
 
-Type: [[]]
+Type: [[Godot]]
 
 ----
 

@@ -6,7 +6,7 @@ tags:
 ---
 # _Speed Boost_
 
-Type: [[Abilities and States]]
+Type: [[Abilities]], [[States]]
 
 ----
 

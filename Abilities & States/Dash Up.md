@@ -2,16 +2,15 @@
 tags:
   - "#ability"
   - "#state"
-  - guacamelee
 ---
 # _Dash Down_
 
-Type: [[Abilities and States]], [[Dash]]
+Type: [[Abilities]], [[Dashes]], [[States]]
 
 ----
 
 
-[[Player]] dashes up in the air
+dashes up in the air
 
 
 ## Similar in other games

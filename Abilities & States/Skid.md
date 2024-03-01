@@ -1,17 +1,15 @@
 ---
 tags:
-  - "#ability"
   - "#state"
 ---
 
 # _Skid_
 
-Type: [[Abilities and States]]
+Type:  [[States]]
 
 ----
 
-
-[[Player]] slides before changes direction
+slides before changes direction
 Store value of speed before skidding and return it if skids jump
 
 

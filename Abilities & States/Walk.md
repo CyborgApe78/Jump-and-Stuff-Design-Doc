@@ -1,17 +1,15 @@
 ---
 tags:
-  - "#ability"
   - "#state"
 ---
 
 # _Walk_
 
-Type: [[Abilities and States]]
+Type: [[States]]
 
 ----
 
-
-[[Player]] base moving on the ground
+base moving on the ground
 
 
 ## State Transitions

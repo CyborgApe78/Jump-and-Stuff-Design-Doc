@@ -1,14 +1,14 @@
 ---
 tags:
   - "#environment"
+  - burrowable
 ---
-# _Water_
+# _Sand_
 
-Type: [[Environments]]
+Type: [[Environments]], [[Burrowable]]
 
 ----
 
-swims in
 
 ## Similar in other games
 

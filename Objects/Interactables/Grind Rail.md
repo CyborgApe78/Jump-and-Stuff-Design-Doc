@@ -10,7 +10,7 @@ Type: [[Interactables]]
 ----
 
 
-[[Player]] follows [[Path2D]] using the [[Grind]] ability
+uses [[Path2D]] for the [[Grind]] ability
 
 #WIP [[Interaction]] with [[grapple hook]] would be cool, like hanging down from it
 #WIP https://www.reddit.com/r/godot/comments/12x12a9/2d_rail_grinding_help/

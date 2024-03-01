@@ -28,7 +28,7 @@ Guacamelee! is a Metroidvania-style action-platformer set in a magical Mexican-i
 * [[Bomb]] called Pollo-Bomba
 * [[Dash Climb]] called Goat Climb, [[breakable blocks|break blocks]] that are red
 * [[Dash Down]] / [[Ground Pound]] called Frog Slam, [[breakable blocks|break blocks]]that are green
-* [[Dash]] named Dashing Derpderp, [[breakable blocks|break blocks]] that are blue
+* [[Dashes]] named Dashing Derpderp, [[breakable blocks|break blocks]] that are blue
 * [[Dash Up]] called Rooster Uppercut, [[breakable blocks|break blocks]] that are red
 * [[Dash Wall]] named Goat Fly, [[breakable blocks|break blocks]]that are blue
 * [[Dimension Swap]] between living and dead
