@@ -8,3 +8,4 @@
 * [[Pre Game Settings]]
 * [[Save System]]
 * [[Game Modes]]
+* [[Races]] like in [[Ori and the Will of the Wisps]] and [[Donkey Kong 64]]

@@ -3,7 +3,7 @@
 
 https://github.com/CyborgApe78/Jump-and-Stuff
 
-A game world similar to [[Ori and the Blind Forest]], with a focus on [[platforming]] and [[exploration]], [[environmental hazards]], [[escape sequences]] instead of boss fights, and dungeons. Abilities will have ways to chain together to keep momentum going. [[Ori Series]] Series, [[Metroid Dread]], [[Prince of Persia Lost Crown]] movement abilities with the [[Super Mario Odyssey]] and [[Celeste]] [[Ability Interactions]]. Built-in [[Randomizer]] to extend gameplay.
+A game world similar to [[Ori and the Blind Forest]], with a focus on [[platforming]] and [[exploration]], [[environmental hazards]], [[escape sequences]] instead of boss fights, and dungeons. Abilities will have ways to chain together to keep momentum going. [[Ori Series]] Series, [[Metroid Dread]], [[Prince of Persia Lost Crown]] movement abilities with the [[Super Mario Odyssey]] and [[Celeste]] [[Ability Interactions]]. Built-in [[Randomizer]] to extend gameplay. [[Collect-A-Thon]] aspects inspired by [[Banjo Series]], [[Mario Series]], [[Donkey Kong 64]], [[Disney Illusion Island]]
 
 Happy and colorful world
 
@@ -11,7 +11,6 @@ A focus on playing well on the [[Steam Deck]]
 
 [[Mechanics/Bonk|To Bonk or not to Bonk]]
 
-Still need to figure out final upgrade/more unique abilities #WIP 
 
 Using [[Godot]] 4 game engine
 
