@@ -3,14 +3,13 @@
 
 https://github.com/CyborgApe78/Jump-and-Stuff
 
-A game world similar to [[Ori and the Blind Forest]], with a focus on [[platforming]] and [[exploration]], [[environmental hazards]], [[escape sequences]] instead of boss fights, and dungeons. Abilities will have ways to chain together to keep momentum going. [[Ori Series]] Series, [[Metroid Dread]], [[Prince of Persia Lost Crown]] movement abilities with the [[Super Mario Odyssey]] and [[Celeste]] [[Ability Interactions]]. Built-in [[Randomizer]] to extend gameplay. [[Collect-A-Thon]] aspects inspired by [[Banjo Series]], [[Mario Series]], [[Donkey Kong 64]], [[Disney Illusion Island]]
+A game world similar to [[Ori and the Blind Forest]], with a focus on platforming and exploration, [[environmental hazards]], [[escape sequences ]]instead of boss fights, and dungeons. Abilities will have ways to chain together to keep momentum going. [[Ori Series]] Series, [[Metroid Dread]], [[Prince of Persia Lost Crown]] movement abilities with the [[Super Mario Odyssey]] and [[Celeste]] [[Ability Interactions]]. Built-in [[Randomizer]] to extend gameplay. [[Collect-A-Thon]] aspects inspired by [[Banjo Series]], [[Mario Series]], [[Donkey Kong 64]], [[Disney Illusion Island]]
 
 Happy and colorful world
 
-A focus on playing well on the [[Steam Deck]]
+A focus on playing well on the Steam Deck
 
 [[Mechanics/Bonk|To Bonk or not to Bonk]]
-
 
 Using [[Godot]] 4 game engine
 
@@ -22,9 +21,9 @@ Dream features:
 	* [[tag]], [[prop hunt]], [[co-op]]
 * [Archipelago Integration](https://archipelago.gg/)
 * [[Quick Save]] like system for practicing
-* Dual screen (NDS) style touch screen on [[Steam Deck]]
+* Dual screen (NDS) style touch screen on Steam Deck
 * [[Tracker]] pop out window for item tracking during randomizer
-* Add external [[music]] use like [[Donkey Kong 64]] music randomizer
+* Add external music use like [[Donkey Kong 64]] music randomizer
 
 [[Abilities]] [[Upgrades]] [[Enemies]] [[Hazards]] [[Interactables]] [[Mechanics]] [[Objects]] [[Systems]]
 
