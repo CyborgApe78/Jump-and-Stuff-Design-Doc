@@ -7,6 +7,7 @@ Type: [[]]
 
 ----
 
+
 ## Extended long jump  
 	Cavern of dreams does ground attack to jump  
 	Celeste has wavedashing

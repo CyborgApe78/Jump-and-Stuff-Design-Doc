@@ -10,13 +10,13 @@ Type: [[Abilities]], [[Slides]], [[States]]
 
 ----
 
-
 Slides along belly on the floor
-
+Learned by [[Penguin]] [[Transformations|transformation]]
 
 ## Similar in other games
 
 * [[Super Mario Odyssey]]
+* [[Super Mario Sunshine]]
 
 
 ## State Transitions

@@ -3,11 +3,17 @@
 
 https://github.com/CyborgApe78/Jump-and-Stuff
 
-A game world similar to [[Ori and the Blind Forest]], with a focus on platforming and exploration, [[environmental hazards]], [[escape sequences ]]instead of boss fights, and dungeons. Abilities will have ways to chain together to keep momentum going. [[Ori Series]] Series, [[Metroid Dread]], [[Prince of Persia Lost Crown]] movement abilities with the [[Super Mario Odyssey]] and [[Celeste]] [[Ability Interactions]]. Built-in [[Randomizer]] to extend gameplay. [[Collect-A-Thon]] aspects inspired by [[Banjo Series]], [[Mario Series]], [[Donkey Kong 64]], [[Disney Illusion Island]]
+A game world similar to [[Ori and the Blind Forest]], with a focus on platforming and exploration, [[environmental hazards]], [[escape sequences ]]instead of boss fights, and dungeons.
 
-Happy and colorful world
+Learn new [[abilities]] from [[transformations]] (or other environmental stuff WIP). Inspired by [[Sheepo]], [[Mario Series]] power ups and [[Banjo Series]] transformations. Abilities will have ways to chain together to keep momentum going. [[Ori Series]] Series, [[Metroid Dread]], [[Prince of Persia Lost Crown]] movement abilities with the [[Super Mario Odyssey]] and [[Celeste]] [[Ability Interactions]]. 
 
-A focus on playing well on the Steam Deck
+Happy and colorful world. Still deciding between Vector or 3D art style
+
+[[Collect-A-Thon]] aspects inspired by [[Banjo Series]], [[Mario Series]], [[Donkey Kong 64]], [[Disney Illusion Island]]
+
+Built-in [[Randomizer]] to extend gameplay. 
+ 
+A focus on playing well on the Steam Deck and taking advantage of control depth
 
 [[Mechanics/Bonk|To Bonk or not to Bonk]]
 
@@ -25,5 +31,5 @@ Dream features:
 * [[Tracker]] pop out window for item tracking during randomizer
 * Add external music use like [[Donkey Kong 64]] music randomizer
 
-[[Abilities]] [[Upgrades]] [[Enemies]] [[Hazards]] [[Interactables]] [[Mechanics]] [[Objects]] [[Systems]]
+[[Abilities]] [[Upgrades]] [[Transformations]] [[Enemies]] [[Hazards]] [[Interactables]] [[Mechanics]] [[Objects]] [[Systems]]
 

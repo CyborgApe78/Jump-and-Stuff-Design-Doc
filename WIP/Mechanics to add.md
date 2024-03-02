@@ -21,3 +21,5 @@ run over one tile gaps, slide over two
 
 [[Wind Jet]] that needs [[Speed Boost]] to get through
 	like [[Metroid Dread]]
+
+Currently only one, but thinking about making multiple selectable characters inspired by favorite game

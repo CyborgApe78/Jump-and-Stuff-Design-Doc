@@ -31,7 +31,8 @@ Break blocks
 
 ![](https://lh7-us.googleusercontent.com/2DJ-DU18umQRfu3hVDsCjdSu4gVOYFsXGUG1VtV8B9kO872-C6zkalIJqVhwTN7hzkfx1-LpzBOwWDD5MR3tBw31pMQAI0IIQN7IuJ_5NLn3WhyqXTKXy7CxUO8D3hGgHlM0ucvRlU_4yrUiY11c7uA)
 
-
+### Animation:
+	Ground pound cleans off acid/water. From [[Super Mario Odyssey]]
 
 ## Similar in other games
 

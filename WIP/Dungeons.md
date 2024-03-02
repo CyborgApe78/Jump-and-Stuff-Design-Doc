@@ -43,3 +43,7 @@ Only allowed to touch the ground for a certain amount of time
 Checkpoint regression 
 	Die go back a checkpoint
 Help random people, snail getting blocked from getting dinner with friend. You have to keep the snail from getting hit
+
+
+  
+2d mario kart 8 style race

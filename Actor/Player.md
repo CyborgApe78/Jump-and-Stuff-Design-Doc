@@ -11,6 +11,6 @@ Type: [[Actor]]
 
 ----
 
-Currently only one, but thinking about making multiple selectable characters inspired by favorite game
+Learn
 
-[[Abilities]] [[Upgrades]]
+[[Abilities]] [[Upgrades]] [[Transformations]]

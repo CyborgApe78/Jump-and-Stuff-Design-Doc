@@ -14,3 +14,5 @@ moving around corners
 Big problems to solve.  
 Rotation points  
 Looser state connections and Ability variety
+
+Look at wonders animations

@@ -14,6 +14,7 @@ Type: [[Abilities]], [[Jumps]], [[Crouches]], [[States]]
 keeps the one [[tile]] size for a jump
 
 
+
 ## Similar in other games
 
 * [[Super Mario Odyssey]]
