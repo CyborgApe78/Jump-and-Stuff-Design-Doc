@@ -14,7 +14,7 @@ Game Engine: [[Gamemaker]]
 
 Explore a strange planet, collect the creatures you find, and then shape-shift into them to expand your world. Build your own path, chat with the locals, and discover the planets sprawling secrets in this quirky metroidvania platformer.
 
-[[Upgrades]] are like [[Super Mario Odyssey]] [[captures]]
+[[Ability Upgrades]] are like [[Super Mario Odyssey]] [[captures]]
 
 
 

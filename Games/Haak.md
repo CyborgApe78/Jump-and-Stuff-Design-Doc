@@ -15,7 +15,7 @@ Game Engine: [[Unity]]
 HAAK is a Metroidvania-Platformer. As the mysterious wanderer Haak, you embarked on an epic expedition across the vast cyber-wasteland to find your lost brother. Explore deserted cities and metro, refine your weapons and hack skills, and uncover the secrets behind metal and dust.
 
 ## Likes
-* [[Stat upgrades]]
+* [[Stat Upgrades]]
 * No [[double jump]]
 * Can use [[grapple hook]] whenever
 * Button press near edge for [[ledge grab]]
@@ -37,4 +37,4 @@ HAAK is a Metroidvania-Platformer. As the mysterious wanderer Haak, you embarked
 * 
 
 ## Features for my game
-* Omni-directional [[Dashes|dash]] [[Upgrades|upgrade]]
+* Omni-directional [[Dashes|dash]] [[Ability Upgrades|upgrade]]

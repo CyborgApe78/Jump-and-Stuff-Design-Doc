@@ -11,7 +11,7 @@ Type: [[Abilities]], [[Water Interaction]], [[States]]
 ----
 
 swims in [[Water]]
-[[upgrades]] to go through different types; water, lava, poison
+[[Protection Upgrades]] to go through different types; water, lava, poison
 
 
 ## State Transitions

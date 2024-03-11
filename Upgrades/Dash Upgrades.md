@@ -4,7 +4,7 @@ tags:
 ---
 # _Dash Upgrades_
 
-Type: [[Upgrades]]
+Type: [[Ability Upgrades]]
 
 ----
 

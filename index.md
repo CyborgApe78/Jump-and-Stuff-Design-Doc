@@ -7,6 +7,8 @@ A game world similar to [[Ori and the Blind Forest]], with a focus on platformin
 
 Learn new [[abilities]] from [[transformations]] (or other environmental stuff WIP). Inspired by [[Sheepo]], [[Mario Series]] power ups and [[Banjo Series]] transformations. Abilities will have ways to chain together to keep momentum going. [[Ori Series]] Series, [[Metroid Dread]], [[Prince of Persia Lost Crown]] movement abilities with the [[Super Mario Odyssey]] and [[Celeste]] [[Ability Interactions]]. 
 
+Access new [[locations]] with new [[abilities]] and [[Environmental Changes]]
+
 Happy and colorful world. Still deciding between Vector or 3D art style
 
 [[Collect-A-Thon]] aspects inspired by [[Banjo Series]], [[Mario Series]], [[Donkey Kong 64]], [[Disney Illusion Island]]
@@ -22,7 +24,7 @@ Using [[Godot]] 4 game engine
 Also includes my thoughts on games that have inspired me to work on my own game
 
 Dream features:
-* Variety on the [[Abilities]] and [[Upgrades]] like in [[A Robot Named Fight]]
+* Variety on the [[Abilities]] and [[Ability Upgrades]] like in [[A Robot Named Fight]]
 * Multiplayer, like [[Super Mario Odyssey]] and [[Hollow Knight]]
 	* [[tag]], [[prop hunt]], [[co-op]]
 * [Archipelago Integration](https://archipelago.gg/)

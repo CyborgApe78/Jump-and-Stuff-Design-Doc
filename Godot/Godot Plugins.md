@@ -23,12 +23,14 @@ tags:
 * https://github.com/SilicDev/GodotCrowdControl?tab=readme-ov-file
 * https://github.com/cloudofoz/godot-linepath-2d
 * https://github.com/9thAzure/Complex_Shape_Creation
+* https://github.com/rsubtil/controller_icons/
 
 #### Audio
 * https://github.com/FreekDS/GodotAudioEvents
 * https://github.com/StasysMusial/random-audio
 * https://github.com/hugemenace/resonate
 * https://github.com/nathanhoad/godot_sound_manager
+* https://github.com/Promptineer/MusicManager
 
 #### Timer
 * https://gitlab.com/Dritic/randomtimer

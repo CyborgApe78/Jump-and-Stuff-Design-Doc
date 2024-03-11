@@ -37,7 +37,7 @@ Pulled to enemies
 
 * [[Haak]]
 	* [[free aim]]
-	* [[Stat upgrades]] upgrade length
+	* [[Stat Upgrades]] upgrade length
 * [[Super Mario Wonder]]
 	* [[Charms|Badge]] that fires in a straight line from
 	* can [[corner boost]]

@@ -15,7 +15,7 @@ Game Engine: [[Gamemaker]]
 Take to the sky and reunite a fragmented world in this surprisingly wholesome metroidvania! Help Iko adventure across beautiful hand-painted islands, receive letters from a quirky cast of characters, and face powerful monstrous adversaries.
 
 ## Likes
-* Choice for [[stat upgrades]]
+* Choice for [[Stat Upgrades]]
 
 ## Dislikes
 * 
