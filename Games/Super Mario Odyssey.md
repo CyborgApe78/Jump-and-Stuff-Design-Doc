@@ -18,7 +18,8 @@ Composer: [[Koji Kondo]], [[Shiho Fujii]], [[Naoto Kubo]]
 ## Likes
 * [[Ability Combos]]
 * [[Fluid Movement]]
-* 
+* [[Races]]
+* [[Interconnected Worlds]], through art hints for moons and portraits
 
 ## Dislikes
 * 

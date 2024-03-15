@@ -13,6 +13,8 @@ Happy and colorful world. Still deciding between Vector or 3D art style
 
 [[Collect-A-Thon]] aspects inspired by [[Banjo Series]], [[Mario Series]], [[Donkey Kong 64]], [[Disney Illusion Island]]
 
+Repeated quests, like [[races]]/[[time trials]] and [[kart races]]
+
 Built-in [[Randomizer]] to extend gameplay. 
  
 A focus on playing well on the Steam Deck and taking advantage of control depth
