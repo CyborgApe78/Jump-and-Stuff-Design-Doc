@@ -9,6 +9,8 @@ tags:
 
 
 ## Lookat
+
+https://github.com/apples/cider_wiki
 #### Camera
 * https://github.com/anthonyec/godot_little_camera_preview
 * https://github.com/ramokz/phantom-camera
@@ -24,6 +26,8 @@ tags:
 * https://github.com/cloudofoz/godot-linepath-2d
 * https://github.com/9thAzure/Complex_Shape_Creation
 * https://github.com/rsubtil/controller_icons/
+* https://github.com/Goutte/godot-addon-animated-shape-2d
+* 
 
 #### Audio
 * https://github.com/FreekDS/GodotAudioEvents
