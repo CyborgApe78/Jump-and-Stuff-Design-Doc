@@ -14,7 +14,7 @@ Water/lava/acid pipes that come from the background
 Crab from [[Prince of Persia Lost Crown]]
 badoline like
 Mario buzzy beetle
-Charging chuck
+Charging chuck / ori rhino
 Enemy like bombs or celeste monster. Two stage enemies that explosion that moves player or temp platform 
 arrow/bullet bill like
 	front kills, but back is a platform

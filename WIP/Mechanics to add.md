@@ -23,3 +23,9 @@ run over one tile gaps, slide over two
 	like [[Metroid Dread]]
 
 Currently only one, but thinking about making multiple selectable characters inspired by favorite game
+
+Dive at grapple, like cappy
+
+Triple jump out of skids and long jumps
+
+Go over ledge with crouch to grab ledge

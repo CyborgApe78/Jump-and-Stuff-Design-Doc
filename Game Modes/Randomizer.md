@@ -13,6 +13,7 @@ Various aspects of the game are randomized. Logic is used to make sure the game 
 Look at ori randomizer dat to see how they do pickup assignment 
 During randomizer show generic pickup icon on map, until seen. Look how dread randomizer does it 
 Rando logic with and without having to use teleport 
+Dk vs ori Rando, random abilities vs spawn based
 
 Need to decide between:
 	[[Metroid Dread]] makes you have to save to keep items
