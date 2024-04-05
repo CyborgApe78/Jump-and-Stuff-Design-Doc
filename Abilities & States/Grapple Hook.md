@@ -13,6 +13,8 @@ Type: [[Abilities]], [[States]]
 pulled toward target
 #WIP would be cool to have grapple and hook shot
 #WIP pressing grapple while moving to target to cancel
+  
+Grapple work under water
 
 ![](https://lh7-us.googleusercontent.com/ND6uL6_OZBUEZX_USjwBxC7fuqt-joEpVCNMzWQ8rc8OzYW4JX_S1AKNGDMN-lJbxf65pyXdgPnfKqdbpGx4kJpL8G3LDDJ0FjpvmXviLCRcvkiYh_K_AFwUcS4fVIODPb5JwrN-Ui54P5HvtGCl5Vs)![](https://lh7-us.googleusercontent.com/bfL4cSyWbUeBjO2uPkW63NTy4ZMznCm1YfNq0Qg7YnHMMtMRR7WOY7zeeJeWj4HrWcSRSjLE-0XOhMDINxkPBr-P-yf_VUWjC9CrArEerMq_7CFXX2ROlFLwKnlgIe7Xi2YfoPfH54-sPJFzHPNvy3E)![](https://lh7-us.googleusercontent.com/_BkMmAwDHM1FluOWC-n4sHtblIodnSlnhoZgnd84ICFOrU0R6tdI3oBGmSWdtAIG3idnHi8AkNkI63ct3TKgltJZIvc6y74zOxdDKVw2YYM_UGj7CJmfytAlmouAyAGptJcgRd1XjcsQJe1ExAVDEYY)
 

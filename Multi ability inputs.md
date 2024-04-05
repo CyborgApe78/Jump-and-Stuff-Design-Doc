@@ -1,0 +1,1 @@
+One button platforming (lol convergence) or shared buttons (ori) or all own

@@ -1,0 +1,1 @@
+3d would be easier for spinning animation

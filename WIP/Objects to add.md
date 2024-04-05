@@ -17,7 +17,7 @@ Player can use to jump up the same wall
 
 [Celeste Modding](https://gamebanana.com/mods/cats/5081?)
 [Celeste Mechanics](https://celeste.ink/wiki/Mechanics)
-[Mario Platforms](https://www.mariowiki.com/Category:Platforms)
+
 [Mario Blocks](https://www.mariowiki.com/Category:Blocks)
 
 Shops  
@@ -25,8 +25,7 @@ villages in each area
 Like the ori 2 seed quests to use abilities in hub  
 Also long chain quest for showing items on map
 Use snow balls to make temporary paths over lava
-Walls that fall when touched
-disappear after leaving
+
 Environmental blocks that cause to use a ability they learn later
 	High jump plants before increase jump height, aimable barrels before bash
 	Help people that help you go fast over water and thru teach you water run

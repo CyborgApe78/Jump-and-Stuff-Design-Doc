@@ -33,6 +33,8 @@ Play the critically acclaimed masterpiece. Embark on a new journey in a vast, ex
 ## Dislikes
 * [[Combat]] was fun, but would have preferred the focus on [[platforming]]
 * Freezing game for item pop up
+* Magnet shouldn't take a trinket slot  
+* having to abilities swap for for world interactions, like flap, wall destruction
 
 ## [[Abilities]]
 
