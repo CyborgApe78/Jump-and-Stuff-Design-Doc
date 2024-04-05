@@ -28,8 +28,8 @@ Yooka-Laylee and the Impossible Lair is a brand-new 2.5D platformer from some of
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * 
 
-## Features for my game
+## [[Features for my game]]
 * 

@@ -30,8 +30,8 @@ Take to the sky and reunite a fragmented world in this surprisingly wholesome me
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * 
 
-## Features for my game
+## [[Features for my game]]
 * 

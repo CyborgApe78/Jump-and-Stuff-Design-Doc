@@ -22,7 +22,7 @@ Maintain a constant momentum of precision platforming through surreal worlds, fi
 
 
 ## Likes
-* [[Charms]]
+* [[Relics]]
 * [[Ability Combos]]
 * [[Leaderboards]]
 
@@ -35,8 +35,8 @@ Maintain a constant momentum of precision platforming through surreal worlds, fi
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * 
 
-## Features for my game
+## [[Features for my game]]
 * 

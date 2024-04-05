@@ -2,6 +2,8 @@
 tags:
   - "#ability"
   - "#state"
+aliases:
+  - Kuro's Feather
 ---
 # _Glide_
 

@@ -5,6 +5,7 @@ tags:
   - "#dashes"
 aliases:
   - omni dash
+  - launch
 ---
 # _Omni Dash_
 

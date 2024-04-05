@@ -37,8 +37,8 @@ Traverse the sprawling city of Zaun as Ekko, a young inventor with a device to m
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * 
 
-## Features for my game
+## [[Features for my game]]
 * 

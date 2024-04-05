@@ -36,21 +36,29 @@ Composer: [[Gareth Coker]]
 		* it should be a progressive upgrade
 
 ## [[Abilities]]
-* [[Dashes]]
-* [[Grenade]], called [[Light Burst]]
-* [[Bash]]
-* [[Double Jump]]
-* [[Glide]], called [[Kuro's Feather]]
-* [[Dash Jump|Charge Jump]]
-* [[Wall Jump]]
-* [[Wall Climb]]
-* [[Spirit Flame]]
+
+| Name                       | Description |
+| -------------------------- | ----------- |
+| [[Dashes\|Dash]]           |             |
+| [Light Burst ](Grenade.md) |             |
+| [[Bash]]                   |             |
+| [[Double Jump]]            |             |
+| [Kuro's Feather](glide.md) |             |
+| [[Dash Jump\|Charge Jump]] |             |
+| [[Wall Jump]]              |             |
+| [[Wall Climb]]             |             |
+| Spirit Flame               |             |
 
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * 
+## [[Collectibles]]
 
-## Features for my game
-* 
+| Name                               | Uses |
+| ---------------------------------- | ---- |
+| [Life Cell](Health%20Upgrade.md)   |      |
+| [Energy Cell](Energy%20Upgrade.md) |      |
+| [Map Stone](Map%20Fragment.md)     |      |
+| [Rune Stone](key.md)               |      |

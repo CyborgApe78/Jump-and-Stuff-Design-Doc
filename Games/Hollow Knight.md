@@ -35,8 +35,8 @@ Forge your own path in Hollow Knight! An epic action adventure through a vast ru
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * 
 
-## Features for my game
+## [[Features for my game]]
 * 

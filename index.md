@@ -5,7 +5,7 @@ https://github.com/CyborgApe78/Jump-and-Stuff
 
 A game world similar to [[Ori and the Blind Forest]], with a focus on platforming and exploration, [[environmental hazards]], [[escape sequences ]]instead of boss fights, and dungeons.
 
-Learn new [[abilities]] from [[transformations]] (or other environmental stuff WIP). Inspired by [[Sheepo]], [[Mario Series]] power ups and [[Banjo Series]] transformations. Abilities will have ways to chain together to keep momentum going. [[Ori Series]] Series, [[Metroid Dread]], [[Prince of Persia Lost Crown]] movement abilities with the [[Super Mario Odyssey]] and [[Celeste]] [[Ability Interactions]]. 
+Learn new [[abilities]] from [[transformations]] (or other environmental stuff WIP). Inspired by [[Sheepo]], [[Mario Series]] power ups and [[Banjo Series]] transformations. Abilities will have ways to chain together to keep momentum going. [[Ori Series]] Series, [[Metroid Dread]], [[Prince of Persia - Lost Crown]] movement abilities with the [[Super Mario Odyssey]] and [[Celeste]] [[Ability Interactions]]. 
 
 Access new [[locations]] with new [[abilities]] and [[Environmental Changes]]
 

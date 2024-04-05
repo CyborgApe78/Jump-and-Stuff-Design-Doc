@@ -36,7 +36,7 @@ Help Madeline survive her inner demons on her journey to the top of Celeste Moun
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * 
 
 ## [[Platforms]]

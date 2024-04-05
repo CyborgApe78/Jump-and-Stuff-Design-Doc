@@ -15,4 +15,4 @@ swings around it using [[Trapeze]]
 ## Similar in other games
 
 * [[Mario Series]]
-* [[Prince of Persia Lost Crown]]
+* [[Prince of Persia - Lost Crown]]

@@ -5,8 +5,8 @@ aliases:
   - badges
   - relics
   - badge
-  - relic
   - charm
+  - charms
 ---
 # _Charms_
 

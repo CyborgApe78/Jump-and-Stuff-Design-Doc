@@ -16,7 +16,7 @@ swings around [[Trapeze Bar]]
 ## Similar in other games
 
 * [[Mario Series]]
-* [[Prince of Persia Lost Crown]]
+* [[Prince of Persia - Lost Crown]]
 
 
 ## State Transitions

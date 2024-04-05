@@ -14,6 +14,7 @@ https://github.com/apples/cider_wiki
 #### Camera
 * https://github.com/anthonyec/godot_little_camera_preview
 * https://github.com/ramokz/phantom-camera
+* https://github.com/Julian-Vos/asset-library-MapCamera2D-4
 
 #### Other
 * https://github.com/bitbrain/beehave
@@ -27,7 +28,8 @@ https://github.com/apples/cider_wiki
 * https://github.com/9thAzure/Complex_Shape_Creation
 * https://github.com/rsubtil/controller_icons/
 * https://github.com/Goutte/godot-addon-animated-shape-2d
-* 
+* https://github.com/KoBeWi/Godot-Parallax2D-Preview
+* https://github.com/Julian-Vos/asset-library-TextureCircle-4
 
 #### Audio
 * https://github.com/FreekDS/GodotAudioEvents
@@ -35,7 +37,7 @@ https://github.com/apples/cider_wiki
 * https://github.com/hugemenace/resonate
 * https://github.com/nathanhoad/godot_sound_manager
 * https://github.com/Promptineer/MusicManager
-
+* https://github.com/Julian-Vos/asset-library-AudioStreamPlayerArea2D-4 
 #### Timer
 * https://gitlab.com/Dritic/randomtimer
 * https://github.com/Keldowin/ExtendTimer

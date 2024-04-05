@@ -18,7 +18,7 @@ A handcrafted open-world platformer set in a world built by Mushrooms! Explore d
 * [[Hazards]] that don't damage, just reset to [[Last Safe Ground]]
 * [[platforming|Platforming]] [[Platforming Challenge Rooms]]
 * [[Ability Combos]] [list](**https://lone-fungus.fandom.com/wiki/Skips_and_Tech**)
-* [[Charms]] [list](**https://lone-fungus.fandom.com/wiki/Relics**)
+* [[Relics]] [list](**https://lone-fungus.fandom.com/wiki/Relics**)
 * [[Momentum]]
 
 ## Dislikes
@@ -31,8 +31,8 @@ A handcrafted open-world platformer set in a world built by Mushrooms! Explore d
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * 
 
-## Features for my game
+## [[Features for my game]]
 * 

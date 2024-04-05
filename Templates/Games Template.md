@@ -26,8 +26,11 @@ Game Engine: [[]]
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * 
 
-## Features for my game
+## [[Objects]]
+* 
+
+## [[Features for my game]]
 * 

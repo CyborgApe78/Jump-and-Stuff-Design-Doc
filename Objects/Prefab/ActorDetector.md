@@ -10,7 +10,7 @@ Type: [[Detector]]
 ----
 
 
-Used to detect [[Player]] or [[Categories/Enemies]]
+Used to detect [[Player]] or [[Enemies]]
 
 
 ## Similar in other games

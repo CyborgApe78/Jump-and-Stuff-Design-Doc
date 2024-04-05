@@ -39,9 +39,9 @@ SteamWorld Dig is back! Dig deep, gain riches and unearth the terrors of the und
 * [[Acid]]
 * [[Spike]]
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * [[Spike E Top]] like
 * Bird that jumps at player
 * Snail that fires spikes and rolls at the player and [[breakable blocks|break block]]
-## Features for my game
+## [[Features for my game]]
 * 

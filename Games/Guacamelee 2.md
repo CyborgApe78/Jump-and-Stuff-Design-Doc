@@ -43,8 +43,8 @@ Head back to the Mexiverse in this long-awaited sequel to the smash hit Guacamel
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * 
 
-## Features for my game
+## [[Features for my game]]
 * 

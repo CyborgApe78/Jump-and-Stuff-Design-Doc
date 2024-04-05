@@ -13,7 +13,7 @@ Various aspects of the game are randomized. Logic is used to make sure the game 
 Look at ori randomizer dat to see how they do pickup assignment 
 During randomizer show generic pickup icon on map, until seen. Look how dread randomizer does it 
 Rando logic with and without having to use teleport 
-Dk vs ori Rando, random abilities vs spawn based
+Dk vs ori Rando, random starting abilities vs spawn based
 
 Need to decide between:
 	[[Metroid Dread]] makes you have to save to keep items
@@ -32,6 +32,7 @@ Need to decide between:
 
 * [[Hollow Knight]]
 	* adds a split of direction for abilities
+	* charm slots required
 * [[Metroid Dread]]
 	* Which [[ability]] is used to open a [[Doors|door]]
 	* [[Pickups]] show what they actually are on map

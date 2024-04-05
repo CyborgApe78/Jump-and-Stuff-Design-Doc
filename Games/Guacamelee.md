@@ -41,8 +41,8 @@ Guacamelee! is a Metroidvania-style action-platformer set in a magical Mexican-i
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * 
 
-## Features for my game
+## [[Features for my game]]
 * 

@@ -26,8 +26,11 @@ Composer: [[ David Housden]]
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
-* 
+## [[Enemies]]
 
-## Features for my game
+## [[Objects]]
+* [[Grapple Target]]
+	* Don't like the locked swing position
+
+## [[Features for my game]]
 * 

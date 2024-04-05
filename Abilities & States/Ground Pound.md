@@ -3,6 +3,7 @@ tags:
   - ability
   - state
   - groundpounds
+aliases: []
 ---
 # _Ground Pound_
 

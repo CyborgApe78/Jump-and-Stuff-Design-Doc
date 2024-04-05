@@ -15,7 +15,7 @@ Composer: [[Koji Kondo]], [[Shiho Fujii]], [[Sayako Doi]]
 
 
 ## Likes
-* [[Charms]] are called badges
+* [[Relics]] are called badges
 * [[Slime]] blocks
 
 ## Dislikes
@@ -40,8 +40,8 @@ Composer: [[Koji Kondo]], [[Shiho Fujii]], [[Sayako Doi]]
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * 
 
-## Features for my game
+## [[Features for my game]]
 * 

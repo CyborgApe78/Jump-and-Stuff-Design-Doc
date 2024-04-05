@@ -12,7 +12,7 @@ Type: [[Objects]]
 [[Wall Hook]]
 Stronger [[wind]] that affects the player, like [[Metroid Dread]]
 Player can use to jump up the same wall
-* [[Prince of Persia Lost Crown]]
+* [[Prince of Persia - Lost Crown]]
 * [[The End is Neigh]]
 
 [Celeste Modding](https://gamebanana.com/mods/cats/5081?)

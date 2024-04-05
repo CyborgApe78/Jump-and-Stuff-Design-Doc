@@ -14,7 +14,7 @@ Platforms: [[Microsoft Windows]]
 Fast-paced, action packed metroidvania-styled goodness that does not hold back! Explore a massive world as you battle against hoards of crawling, rolling and flying insects.
 
 ## Likes
-* [[Charms]]
+* [[Relics]]
 * Mostly movement upgrades
 * Can turn [[Abilities]] off
 
@@ -29,8 +29,8 @@ Fast-paced, action packed metroidvania-styled goodness that does not hold back! 
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * 
 
-## Features for my game
+## [[Features for my game]]
 * 

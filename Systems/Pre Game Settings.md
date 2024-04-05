@@ -38,5 +38,5 @@ Accessability/game options
 
 ## Similar in other games
 
-* [[Prince of Persia Lost Crown]]
+* [[Prince of Persia - Lost Crown]]
 * [[Celeste]]

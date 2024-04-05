@@ -6,7 +6,7 @@ tags:
 ---
 # _Chaser_
 
-Type: [[Hazards]] [[Categories/Enemies]]
+Type: [[Hazards]] [[Enemies]]
 
 ----
 

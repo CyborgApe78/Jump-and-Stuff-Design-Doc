@@ -39,7 +39,7 @@ Pulled to enemies
 	* [[free aim]]
 	* [[Stat Upgrades]] upgrade length
 * [[Super Mario Wonder]]
-	* [[Charms|Badge]] that fires in a straight line from
+	* [[Relics|Badge]] that fires in a straight line from
 	* can [[corner boost]]
 * [[Metroid Dread]]
 	* certain [[wall]]s can be grappled
@@ -47,11 +47,11 @@ Pulled to enemies
 * [[Ori Series]]
 	* certain [[wall]]s can be grappled
 	* some targets let you fly past them, others stop 
-	* can grapple to [[Categories/Enemies]]
-* [[Prince of Persia Lost Crown]]
+	* can grapple to [[Enemies]]
+* [[Prince of Persia - Lost Crown]]
 	* if button held, target it pulled to player
 	* can attach to [[Trapeze Bar]]
-	* can grapple to [[Categories/Enemies]]
+	* can grapple to [[Enemies]]
 * [[Steamworld Dig 2]]
 	* fires in a straight line
 

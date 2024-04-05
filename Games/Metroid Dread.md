@@ -26,32 +26,45 @@ Composer: [[Sayako Doi]], [[Soshi Abe]]
 * Lose [[momentum]] when [[Jump|jump]]
 
 ## [[Abilities]]
-* [[Grapple Hook]]
-* [[Charged Shot]]
-* [[Shinespark]]
-* [[Speed Booster]]
-* [[Missile]]
-* [[Spider Magnet]] especially  [[Wall Climb]]
-* [[Wide Beam]]
-* [[Morph Ball]] is [[Shrink]]
-* [[Diffusion Beam]]
-* [[Bomb]]
-* [[Super Missile]] [[break blocks]]
-* [[Plasma Beam]] is a [[piercing]]
-* [[Spin Boost]] is a [[Double Jump]]
-* [[Ice Missile]]
-* [[Storm Missile]]
-* [[Space Jump]] infinite [[Jump|jumps]]
-* [[Screw Attack]]
-* [[Cross Bomb]]
-* [[Wave Beam]]
-* [[Power Bomb]]
+
+| Name             | Description     |
+| ---------------- | --------------- |
+| [[Grapple Hook]] |                 |
+| Charge Shot      |                 |
+| Speed Booster    |                 |
+| Missle           |                 |
+| Spider Magnet    | [[Wall Climb]]  |
+| Wide Beam        |                 |
+| Morph Ball       | [[Crouch]]      |
+| Diffusion Beam   |                 |
+| Bomb             |                 |
+| Super Missile    |                 |
+| Plasma Beam      |                 |
+| Spin Boost       | [[Double Jump]] |
+| Ice Beam         |                 |
+| Storm Missle     |                 |
+| Space Jump       |                 |
+| Screw Attack     |                 |
+| Cross Bomb       |                 |
+| Wave Beam        |                 |
+| Power Bomb       |                 |
 
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * 
 
-## Features for my game
-* 
+## [[Objects]]
+
+| Name               | Info                                                                                                                                       |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Grapple Target]] | * One lets Samus swing<br>* Another for interactables<br>* Another is a single point like a wall<br>* Last is walls that can be climbed on |
+
+## [[Collectibles]]
+
+| Name                                | Use |
+| ----------------------------------- | --- |
+| Missile Tanks                       |     |
+| [Energy Tanks](Health%20Upgrade.md) |     |
+| Power Bomb Tanks                    |     |

@@ -33,8 +33,8 @@ Explore a strange planet, collect the creatures you find, and then shape-shift i
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * 
 
-## Features for my game
+## [[Features for my game]]
 * 

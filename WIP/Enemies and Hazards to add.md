@@ -11,7 +11,7 @@ Type: [[Enemies]], [[Hazards]], [[WIP]]
 ----
 
 Water/lava/acid pipes that come from the background
-Crab from [[Prince of Persia Lost Crown]]
+Crab from [[Prince of Persia - Lost Crown]]
 badoline like
 Mario buzzy beetle
 Charging chuck / ori rhino

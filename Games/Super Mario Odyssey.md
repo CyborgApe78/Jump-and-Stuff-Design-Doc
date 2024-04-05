@@ -51,8 +51,8 @@ Composer: [[Koji Kondo]], [[Shiho Fujii]], [[Naoto Kubo]]
 ## [[Hazards]]
 * 
 
-## [[Categories/Enemies]]
+## [[Enemies]]
 * 
 
-## Features for my game
+## [[Features for my game]]
 * 
