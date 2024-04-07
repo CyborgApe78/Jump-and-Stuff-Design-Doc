@@ -11,6 +11,7 @@ Type: [[Enemies]], [[Hazards]], [[WIP]]
 ----
 
 Water/lava/acid pipes that come from the background
+Ori torpedoes can chase after a landing in a different patch of water
 Crab from [[Prince of Persia - Lost Crown]]
 badoline like
 Mario buzzy beetle

@@ -21,3 +21,7 @@ Type: [[Systems]]
 	Survival
 	Random level order
 	Add ability every x levels
+	how long or far you can go without touching the ground
+
+Bingo mode  
+Daily challenges (like complete quest or point to point race) and seeded runs

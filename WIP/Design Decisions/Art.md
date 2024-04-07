@@ -4,7 +4,7 @@ tags:
 ---
 # _Art_
 
-Type: [[WIP/Art]]
+Type: [[WIP/Design Decisions/Art]]
 
 ----
 #WIP Move away from visible collision shapes and use lines

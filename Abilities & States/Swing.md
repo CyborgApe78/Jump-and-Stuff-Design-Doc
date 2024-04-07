@@ -3,7 +3,7 @@ tags:
   - ability
   - state
 ---
-# _Trapeze_
+# _Swing_
 
 Type: [[Abilities]], [[States]]
 
@@ -17,6 +17,7 @@ swings around [[Trapeze Bar]]
 
 * [[Mario Series]]
 * [[Prince of Persia - Lost Crown]]
+* [[Ori and the Will of the Wisps]] has vertical ones
 
 
 ## State Transitions

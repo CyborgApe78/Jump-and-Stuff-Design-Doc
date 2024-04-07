@@ -8,7 +8,7 @@ aliases:
   - charm
   - charms
 ---
-# _Charms_
+# _Relics_
 
 Type: [[Systems]]
 
@@ -21,7 +21,7 @@ Interchangeable [[Ability Upgrades]]
 	https://github.com/dpinela/Transcendence/blob/main/SPOILERS.md
 	swim boost relic or maybe upgrade
 
-
+Auto equip charms button on pick up
 ## Similar in other games
 
 * [[Hollow Knight]]
