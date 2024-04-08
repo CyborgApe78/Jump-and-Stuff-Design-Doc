@@ -21,7 +21,7 @@ Composer: [[Koji Kondo]]
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * [[Crouch]]
 * [[Sprint]]
 * [[Fly]]
@@ -33,11 +33,11 @@ Composer: [[Koji Kondo]]
 * [[Swallow]]
 * [[Swim]]
 
-## [[Hazards]]
+## Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Features for my game]]
+
 * 

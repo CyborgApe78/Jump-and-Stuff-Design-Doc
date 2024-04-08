@@ -23,7 +23,7 @@ Head back to the Mexiverse in this long-awaited sequel to the smash hit Guacamel
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * [[Bomb]] called Pollo-Bomba
 * [[Dash Climb]] called Goat Climb, [[breakable blocks|break blocks]] that are red
 * [[Dash Down]] / [[Ground Pound]] called Frog Slam, [[breakable blocks|break blocks]]that are green
@@ -40,11 +40,11 @@ Head back to the Mexiverse in this long-awaited sequel to the smash hit Guacamel
 * [[Dash Diagonal]] called Pollo Shot
 * [[Slide]] called Pollo Slide,  [[breakable blocks|break blocks]] that are orange
 
-## [[Hazards]]
+## Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Features for my game]]
+
 * 

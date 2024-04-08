@@ -23,16 +23,16 @@ Composer: [[David Wise]]
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * [[Roll]]
 * [[Pogo]]
 * [[Swim]]
 
-## [[Hazards]]
+## Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Features for my game]]
+
 * 

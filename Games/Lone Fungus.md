@@ -24,15 +24,10 @@ A handcrafted open-world platformer set in a world built by Mushrooms! Explore d
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * [Abilities](**[https://lone-fungus.fandom.com/wiki/Abilities](https://lone-fungus.fandom.com/wiki/Abilities)**)
 * [Spells](**https://lone-fungus.fandom.com/wiki/Spells**)
 
-## [[Hazards]]
-* 
-
-## [[Enemies]]
-* 
-
-## [[Features for my game]]
+## Hazards:
+## Enemies:
 * 

@@ -20,14 +20,14 @@ Super Meat Boy is a tough as nails platformer where you play as an animated cube
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * 
 
-## [[Hazards]]
+## Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Features for my game]]
+
 * 

@@ -20,15 +20,16 @@ Banjo-Kazooie is a platform game series developed by Rare. The games feature a m
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * 
 
-## [[Hazards]]
+## Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Features for my game]]
-* [[Transformations]]
-* [[Environmental Changes]] like in Click Clock Wood
+##  Transformations:
+
+## [[Environmental Changes]] 
+* Click Clock Wood

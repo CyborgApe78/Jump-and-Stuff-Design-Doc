@@ -21,16 +21,16 @@ Fast-paced, action packed metroidvania-styled goodness that does not hold back! 
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * [[Grapple Hook]]
 * [[Speed Booster]]
 * [[Wall Jump]]
 
-## [[Hazards]]
+## Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Features for my game]]
+
 * 

@@ -20,14 +20,14 @@ Composer: [[Grant Kirkhope]]
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * 
 
-## [[Hazards]]
+## Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Features for my game]]
+
 * 

@@ -26,7 +26,7 @@ SteamWorld Dig is back! Dig deep, gain riches and unearth the terrors of the und
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * [[Jetpack]]
 * [[Grapple Hook]] more of a hook shoot
 * [[Ranged Explosive]]
@@ -34,14 +34,14 @@ SteamWorld Dig is back! Dig deep, gain riches and unearth the terrors of the und
 * [[Sprint]]
 * [[Fire Ax]]
 
-## [[Hazards]]
+## Hazards:
 * [[Lava]]
 * [[Acid]]
 * [[Spike]]
 
-## [[Enemies]]
+## Enemies
 * [[Spike E Top]] like
 * Bird that jumps at player
 * Snail that fires spikes and rolls at the player and [[breakable blocks|break block]]
-## [[Features for my game]]
+
 * 

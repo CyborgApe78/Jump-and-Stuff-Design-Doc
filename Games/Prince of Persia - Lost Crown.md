@@ -32,7 +32,7 @@ Dash into a stylish and thrilling action-adventure platformer set in a mythologi
 * Lose [[sprint]] through load zones
 * No [[momentum]]
 
-## [[Abilities]]
+## Abilities:
 
 | Name                                    | Description                                                           |
 | --------------------------------------- | --------------------------------------------------------------------- |
@@ -47,22 +47,22 @@ Dash into a stylish and thrilling action-adventure platformer set in a mythologi
 | [The Rush Of The Simurgh](Dashes.md)    | no input is dodge back, on ground is slide, otherwise only horizontal |
 
 
-## [[Locations]]
+## Locations:
 * [[Desert]]
 * [[Forest]]
 * [[Clocktower]]
 
-## [[Hazards]]
+Hazards:
 * Remote triggered traps
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Platforms]]
+## Platforms
 * React to [[move direction]]
 * Turn [[on/off]] from interaction
 
-## [[Objects]]
+## Objects:
 
 | Name               | Info                    |
 | ------------------ | ----------------------- |

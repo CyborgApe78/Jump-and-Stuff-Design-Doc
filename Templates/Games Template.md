@@ -20,17 +20,17 @@ Game Engine: [[]]
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * 
 
-## [[Hazards]]
+Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Objects]]
+## Objects:
 * 
 
-## [[Features for my game]]
+
 * 

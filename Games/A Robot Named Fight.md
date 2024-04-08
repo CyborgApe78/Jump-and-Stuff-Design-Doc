@@ -21,14 +21,11 @@ A Robot Named Fight is a Metroidvania roguelike focused on exploration and item 
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * 
 
-## [[Hazards]]
+Hazards:
 * 
 
-## [[Enemies]]
-* 
-
-## [[Features for my game]]
+## Enemies
 * 

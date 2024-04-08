@@ -24,7 +24,7 @@ Composer: [[Koji Kondo]], [[Shiho Fujii]], [[Naoto Kubo]]
 ## Dislikes
 * 
   
-## [[Abilities]]
+## Abilities:
 * [[Backwards Somersault]]
 * [[Cap Jump]]
 * [[Cap Throw]]
@@ -48,11 +48,11 @@ Composer: [[Koji Kondo]], [[Shiho Fujii]], [[Naoto Kubo]]
 * [[Upward Throw]]
 * [[Wall Jump]]
 
-## [[Hazards]]
+## Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Features for my game]]
+
 * 

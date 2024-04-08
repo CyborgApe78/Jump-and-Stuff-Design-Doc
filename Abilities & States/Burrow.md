@@ -13,6 +13,8 @@ Type: [[Abilities]], [[States]]
 ----
 ==need to figure out input controls==
 	spin while dashing too burrow
+	could be from dive
+	own button
 
 
 Travels through [[sand]] and [[snow]]

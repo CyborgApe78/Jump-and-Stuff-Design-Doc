@@ -30,6 +30,11 @@ https://github.com/apples/cider_wiki
 * https://github.com/Goutte/godot-addon-animated-shape-2d
 * https://github.com/KoBeWi/Godot-Parallax2D-Preview
 * https://github.com/Julian-Vos/asset-library-TextureCircle-4
+* https://github.com/Reetro/Asset-Dock
+* https://github.com/GumpDev/saturn
+* https://github.com/imjp94/gd-YAFSM?tab=readme-ov-file
+* https://github.com/ThePat02/BehaviourToolkit
+* https://github.com/GumpDev/componentable
 
 #### Audio
 * https://github.com/FreekDS/GodotAudioEvents

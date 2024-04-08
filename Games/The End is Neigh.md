@@ -20,14 +20,14 @@ The End Is Nigh is a sprawling adventure platformer where you die a lot, but tha
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * 
 
-## [[Hazards]]
+## Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Features for my game]]
+
 * 

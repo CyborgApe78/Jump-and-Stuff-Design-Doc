@@ -28,17 +28,17 @@ Help Madeline survive her inner demons on her journey to the top of Celeste Moun
 ## Dislikes
 * 
   
-## [[Abilities]]
+## Abilities:
 * [[Dashes]]
 * [[Jump]]
 * [[Wall Grab]]
 
-## [[Hazards]]
+Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Platforms]]
+## Platforms
 * React to [[Dashes]]
 * 

@@ -28,17 +28,17 @@ Traverse the sprawling city of Zaun as Ekko, a young inventor with a device to m
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * [[Grind]]
 * [[Rewind Time]]
 * [[Wall Run]]
 * [[Teleport]]
 
-## [[Hazards]]
+## Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Features for my game]]
+
 * 

@@ -25,18 +25,18 @@ Forge your own path in Hollow Knight! An epic action adventure through a vast ru
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * [[Dashes]]
 * [[Dash Wall]] - Crystal Heart
 * [[Double Jump]]
 * [[Pogo]]
 * [[light upgrade]]
 
-## [[Hazards]]
+## Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Features for my game]]
+
 * 

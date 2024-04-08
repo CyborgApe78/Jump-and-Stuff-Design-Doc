@@ -24,25 +24,25 @@ HAAK is a Metroidvania-Platformer. As the mysterious wanderer Haak, you embarked
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * [[Grapple hook]]
 * [[Dashes]]
 	* Up, Down, Side
 * [[Glide]]
 * [[Slide]]
 
-## [[Upgrades]]
+## Upgrades:
 * [[Dash Omni]]
 
-## [[Hazards]]
+## Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Objects]]
+## Objects:
 *  [[Grapple Target]]
 	* 
 
-## [[Features for my game]]
+
 * 

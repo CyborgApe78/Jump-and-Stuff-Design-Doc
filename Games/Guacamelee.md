@@ -24,7 +24,7 @@ Guacamelee! is a Metroidvania-style action-platformer set in a magical Mexican-i
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * [[Bomb]] called Pollo-Bomba
 * [[Dash Climb]] called Goat Climb, [[breakable blocks|break blocks]] that are red
 * [[Dash Down]] / [[Ground Pound]] called Frog Slam, [[breakable blocks|break blocks]]that are green
@@ -38,11 +38,11 @@ Guacamelee! is a Metroidvania-style action-platformer set in a magical Mexican-i
 * [[Temporary Damage Boost]] called Intenso
 * [[Wall Jump]] called Goat Jump
 
-## [[Hazards]]
+## Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Features for my game]]
+
 * 

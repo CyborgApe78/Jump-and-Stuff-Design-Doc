@@ -18,19 +18,19 @@ Composer: [[ David Housden]]
 ## Dislikes
 * No [[momentum]]
 
-## [[Abilities]]
+## Abilities:
 * [[Grapple Hook]]
 * [[Glide]]
 * [[Swim]]
 
-## [[Hazards]]
+## Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 
-## [[Objects]]
+## Objects:
 * [[Grapple Target]]
 	* Don't like the locked swing position
 
-## [[Features for my game]]
+
 * 

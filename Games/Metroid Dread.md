@@ -25,7 +25,7 @@ Composer: [[Sayako Doi]], [[Soshi Abe]]
 * Game pauses whenever [[pickups]] are acquired
 * Lose [[momentum]] when [[Jump|jump]]
 
-## [[Abilities]]
+## Abilities:
 
 | Name             | Description     |
 | ---------------- | --------------- |
@@ -49,19 +49,19 @@ Composer: [[Sayako Doi]], [[Soshi Abe]]
 | Wave Beam        |                 |
 | Power Bomb       |                 |
 
-## [[Hazards]]
+## Hazards:
 * 
 
-## [[Enemies]]
+## Enemies:
 * 
 
-## [[Objects]]
+## Objects:
 
 | Name               | Info                                                                                                                                       |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[Grapple Target]] | * One lets Samus swing<br>* Another for interactables<br>* Another is a single point like a wall<br>* Last is walls that can be climbed on |
 
-## [[Collectibles]]
+## Collectibles:
 
 | Name                                | Use |
 | ----------------------------------- | --- |

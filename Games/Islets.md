@@ -20,18 +20,12 @@ Take to the sky and reunite a fragmented world in this surprisingly wholesome me
 ## Dislikes
 * 
 
-## [[Abilities]]
+## Abilities:
 * [[Bow and Arrow]]
 * [[Teleport]] arrow
 * [[Cloud]] arrow, [[create platform]]
 * [[Ground Pound]]
 * [[Wall Run]]
 
-## [[Hazards]]
-* 
-
-## [[Enemies]]
-* 
-
-## [[Features for my game]]
+## Hazards:
 * 

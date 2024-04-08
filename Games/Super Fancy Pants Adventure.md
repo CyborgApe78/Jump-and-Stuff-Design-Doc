@@ -28,14 +28,5 @@ slide/skate on a line that can move up and down, also vertical
 ## Dislikes
 * 
 
-## [[Abilities]]
-* 
-
-## [[Hazards]]
-* 
-
-## [[Enemies]]
-* 
-
-## [[Features for my game]]
+## Abilities:
 * 

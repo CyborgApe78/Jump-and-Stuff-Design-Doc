@@ -21,7 +21,7 @@ Composer: [[Koji Kondo]], [[Shiho Fujii]], [[Sayako Doi]]
 ## Dislikes
 * Wish more abilities from [[Super Mario Odyssey]] were included
 
-## [[Abilities]]
+## Abilities:
 * [[Crouch]]
 * [[Sprint]]
 * [[Jump Consecutive]]
@@ -37,11 +37,11 @@ Composer: [[Koji Kondo]], [[Shiho Fujii]], [[Sayako Doi]]
 * [[Swim]]
 * [[Wall Jump]]
 
-## [[Hazards]]
+## Hazards:
 * 
 
-## [[Enemies]]
+## Enemies
 * 
 
-## [[Features for my game]]
+
 * 
