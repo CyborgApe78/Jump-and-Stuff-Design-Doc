@@ -81,6 +81,7 @@ Dash -> wall jump
 ![](https://lh7-us.googleusercontent.com/rPChfq8xIzgHybGCqAyn-lD0UGSWPDautt4561CnIoeprMWN4rrzgsmSu5nUO4tZNasrlnYIuhNLElsGXv20GmEzDX3zDx7f-NybLaYSiEjBVdcUIxqi7swTOjBzFUY_qjCCo-yyvMtz8kDZubxqk2I)![](https://lh7-us.googleusercontent.com/dcplkz2_iDBu2W292IMee5Wugmfyx7R-ioK_RdSx8dqveM2Md_J9sO8RmgwHcXhp4_JgylmRuXKOfXDjcNX-iy8wYSckiBJkffOETMw_OoOiSOHpEq60isILObrHFjN70ZyjVy1tYOi2qmmiZEy-xVo)
 
 Ice upgrade plus speed boost lets you run on water
+For water walking, treat it like a platform
 
 jumps
 		Mario triple jump

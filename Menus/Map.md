@@ -8,7 +8,7 @@ Type: [[Menus]]
 
 ----
 
-
+Map options to show breakables and what they need, like pop
 [[Memory Shards]] from [[Prince of Persia - Lost Crown]], screenshots of an area
 Showing what ability you need to get past areas like in [[Metroid Dread]] and [[F.I.S.T.]] Have a question mark when it is an unknown ability 
 Placable markers 

@@ -11,7 +11,7 @@ Type: [[Category]], [[Upgrades]]
 ----
 
 Light - See in dark places
-
+Slope climbing upgrade
 [[Water breathing]]
 
 Attached to abilities, like the [[Ori and the Will of the Wisps]] [[Randomizer]] adds melt to other abilities

@@ -8,7 +8,7 @@ tags:
 Type: [[Category]], [[Ability Upgrades|Upgrades]]
 
 ----
-
+[[Poison breathing]]
 [[Heat Resistance]]
 [[Acid Protection]]
 [[Cold Resistance]]

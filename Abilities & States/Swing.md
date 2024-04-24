@@ -11,6 +11,10 @@ Type: [[Abilities]], [[States]]
 
 
 swings around [[Trapeze Bar]]
+look at different styles  
+	Prince of Persia  
+	Ori  
+	Mario
 
 
 ## Similar in other games

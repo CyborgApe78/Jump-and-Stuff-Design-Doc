@@ -11,7 +11,7 @@ Type: [[Abilities]], [[Ground Pounds]], [[States]]
 
 ----
 
-
+Drill upgrade like [[Banjo-Tooie]]
 quickly falls toward ground
 
 [[breakable blocks|break blocks]]

@@ -15,7 +15,9 @@ Composer: [[Grant Kirkhope]]
 
 
 ## Likes
-* 
+* Keep the abilities from the previous game and adds new ones
+* [[Environmental Changes]] that effect other levels
+* [[elemental upgrades]]
 
 ## Dislikes
 * 
@@ -27,7 +29,4 @@ Composer: [[Grant Kirkhope]]
 * 
 
 ## Enemies
-* 
-
-
 * 

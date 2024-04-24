@@ -9,7 +9,7 @@ Type: [[Abilities]], [[States]]
 
 ----
 
-
+Grapple creates its own grapple point, like [[Penny's Big Breakaway]] or [[Hell Pie]]
 pulled toward target
 #WIP would be cool to have grapple and hook shot
 #WIP pressing grapple while moving to target to cancel
